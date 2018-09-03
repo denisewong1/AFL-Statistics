@@ -26,4 +26,4 @@ Player List by Team - https://afltables.com/afl/stats/teams/adelaide.html
 https://afltables.com/afl/venues/overall.html  
 
 
-Logistic Regression model - use glm family = binomial, coursera course 7 week 4
+Logistic Regression model - use glm family = binomial, coursera course 7 week 4 - http://data.princeton.edu/R/glms.html
