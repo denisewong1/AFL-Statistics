@@ -9,6 +9,8 @@ https://fantasy.afl.com.au/landing/index.html#/landing
 http://www.matterofstats.com/  
 https://www.championdata.com/index.php/media-services/fantasy-and-tipping.html  
 
+Machine Learning Model - https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731  
+
 ## Stats for each Game
 Master List of All Games in Chronological Order - https://afltables.com/afl/stats/biglists/bg3.txt  
 Game Scores and Results by Season - https://afltables.com/afl/seas/2018.html  
