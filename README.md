@@ -10,6 +10,16 @@ http://www.matterofstats.com/
 https://www.championdata.com/index.php/media-services/fantasy-and-tipping.html  
 
 Machine Learning Model - https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731  
+Reddit - https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
+Tips - http://www.afl.com.au/news/2014-07-03/learning-some-new-lines  
+Stanford - http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
+Github - https://github.com/TMBish/Draftking  
+Fantasy Sports - https://ieeexplore.ieee.org/document/8367900/  
+More Fantasy Research - https://peterellisjones.com/posts/fantasy-machine-learning/  
+Australian Sports Conference - https://www.sportsci.org/2017/sac.pdf  
+Model - https://stats.stackexchange.com/questions/238143/using-afl-australian-rules-football-data-to-predict-brownlow-votes  
+RMIT - https://researchbank.rmit.edu.au/eserv/rmit:160744/Ryall.pdf  
+More Tips - http://www.afl.com.au/news/2018-02-13/how-to-dominate-fantasy-2017s-winner-reveals-all  
 
 ## Stats for each Game
 Master List of All Games in Chronological Order - https://afltables.com/afl/stats/biglists/bg3.txt  
