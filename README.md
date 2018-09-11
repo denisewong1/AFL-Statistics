@@ -20,6 +20,10 @@ Australian Sports Conference - https://www.sportsci.org/2017/sac.pdf
 Model - https://stats.stackexchange.com/questions/238143/using-afl-australian-rules-football-data-to-predict-brownlow-votes  
 RMIT - https://researchbank.rmit.edu.au/eserv/rmit:160744/Ryall.pdf  
 More Tips - http://www.afl.com.au/news/2018-02-13/how-to-dominate-fantasy-2017s-winner-reveals-all  
+Article 1 - https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
+Article 2 - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
+Article 3 - http://www.matterofstats.com/mafl-wagers-and-tips/  
+
 
 ## Stats for each Game
 Master List of All Games in Chronological Order - https://afltables.com/afl/stats/biglists/bg3.txt  
