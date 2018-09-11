@@ -23,7 +23,10 @@ More Tips - http://www.afl.com.au/news/2018-02-13/how-to-dominate-fantasy-2017s-
 Article 1 - https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
 Article 2 - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 Article 3 - http://www.matterofstats.com/mafl-wagers-and-tips/  
-
+Article 4 - https://intoli.com/blog/fantasy-football-for-hackers/  
+Article 5 - https://dspace.mit.edu/handle/1721.1/100687  
+Article 6 - https://developer.ibm.com/dwblog/2017/espn-fantasy-football-watson-ai-playoffs/
+Article 7 - https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
 
 ## Stats for each Game
 Master List of All Games in Chronological Order - https://afltables.com/afl/stats/biglists/bg3.txt  
