@@ -32,10 +32,11 @@ Article 7 - https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da3
 Master List of All Games in Chronological Order - https://afltables.com/afl/stats/biglists/bg3.txt  
 Game Scores and Results by Season - https://afltables.com/afl/seas/2018.html  
 
-## Stats for each Player
+## Stats for each Player (done)
 Player List by Debut Date - https://afltables.com/afl/stats/biglists/bg10.txt  
 Player List by Debut Age - https://afltables.com/afl/stats/biglists/bg14.txt  
 Game by Game player Stats - https://afltables.com/afl/stats/players/A/Andrew_McLeod.html  
+All Players Stats - https://afltables.com/afl/stats/alltime/adelaide.html  
 
 ## Stats for each Team
 List of Teams - https://afltables.com/afl/afl_index.html  
