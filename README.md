@@ -52,19 +52,20 @@ https://afltables.com/afl/venues/overall.html
 Logistic Regression model - use glm family = binomial, coursera course 7 week 4 - http://data.princeton.edu/R/glms.html
 
 To Do List  
-1. Calculate team ratings for each round; compare to AFL ladder - https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
-2. Calculate home game advantage, interstate advantage    
-3. Download back to 1990?  
-4. What game statistics matter?  http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html - look at relationship between game stats and game outcomes (final score); remove colinearity, high correlation stats  
-5. What stats matter for dream team?  https://mafl-online.squarespace.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
-6. Build a rating system for each player.  How does this compare to the team rating?  
-7. Download fixture for each season to map player/team performance over time.  
-8. Read statistical models - http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
-9. Algorithms - http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
-10. Think about a dashboard - http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
-11. Investigate ELO and other rating systems - https://en.wikipedia.org/wiki/Elo_rating_system  
-12. Each stat can be grouped into action/reaction functions and hence may be interdependent (correlated).  Each stat can also correspond to particular skills (accuracy, hand-eye, foot-eye, agility, speed) and may be grouped in this manner. 
-13. Each position will require particular skills more than others.  
+1. Download fixture for each season to map player/team performance over time. https://afltables.com/afl/stats/biglists/bg3.txt  - can the scores be reconciled to game by game totals?  
+2. Build mapping tables to be uploaded at each run  
+3. Calculate team ratings for each round; compare to AFL ladder - https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
+4. Calculate home game advantage, interstate advantage    
+5. Download back to 1990?  
+6. What game statistics matter?  http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html - look at relationship between game stats and game outcomes (final score); remove colinearity, high correlation stats  
+7. What stats matter for dream team?  https://mafl-online.squarespace.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
+8. Build a rating system for each player.  How does this compare to the team rating?  
+9. Read statistical models - http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
+10. Algorithms - http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
+11. Think about a dashboard - http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
+12. Investigate ELO and other rating systems - https://en.wikipedia.org/wiki/Elo_rating_system  
+13. Each stat can be grouped into action/reaction functions and hence may be interdependent (correlated).  Each stat can also correspond to particular skills (accuracy, hand-eye, foot-eye, agility, speed) and may be grouped in this manner. 
+14. Each player position will value particular skills more than others.  
 
 
 
