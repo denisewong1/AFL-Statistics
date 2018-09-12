@@ -38,7 +38,8 @@ Game Scores and Results by Season - https://afltables.com/afl/seas/2018.html
 Player List by Debut Date - https://afltables.com/afl/stats/biglists/bg10.txt  
 Player List by Debut Age - https://afltables.com/afl/stats/biglists/bg14.txt  
 Game by Game player Stats - https://afltables.com/afl/stats/players/A/Andrew_McLeod.html  
-All Players Stats - https://afltables.com/afl/stats/alltime/adelaide.html  
+All Players Stats - https://afltables.com/afl/stats/alltime/adelaide.html  - where can i find positions
+https://afltables.com/afl/stats/2018a.html - this is same as gbg stats but better  
 
 ## Stats for each Team
 List of Teams - https://afltables.com/afl/afl_index.html  
@@ -62,7 +63,8 @@ To Do List
 9. Algorithms - http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
 10. Think about a dashboard - http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
 11. Investigate ELO and other rating systems - https://en.wikipedia.org/wiki/Elo_rating_system  
-
+12. Each stat can be grouped into action/reaction functions and hence may be interdependent (correlated).  Each stat can also correspond to particular skills (accuracy, hand-eye, foot-eye, agility, speed) and may be grouped in this manner. 
+13. Each position will require particular skills more than others.  
 
 
 
