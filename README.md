@@ -49,6 +49,11 @@ Player List by Team - https://afltables.com/afl/stats/teams/adelaide.html
 ## Venues
 https://afltables.com/afl/venues/overall.html  
 
+## Mapping Table  
+id as prefix below indicates that this is a unique identifier.  
+|idSeason | idTeam | idName | idRound | idStat | Value | File | DataFrame | Description |   
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |      
+| XXX | XXX | XXX | XXX | XXX | XXX | StatCount | 2018_player_gbg.csv | TBA | Game by Game Player Stats |   
 
 Logistic Regression model - use glm family = binomial, coursera course 7 week 4 - http://data.princeton.edu/R/glms.html
 
