@@ -34,11 +34,13 @@ AFL Stats - http://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-
 Master List of All Games in Chronological Order - https://afltables.com/afl/stats/biglists/bg3.txt  
 Game Scores and Results by Season - https://afltables.com/afl/seas/2018.html  
 
-## Stats for each Player (done)
-Game by Game player Stats - https://afltables.com/afl/stats/players/A/Andrew_McLeod.html  
-All Players Profiles - https://afltables.com/afl/stats/alltime/adelaide.html  - where can i find positions
-https://afltables.com/afl/stats/2018a.html - this is same as gbg stats but better  
-Player Positions - http://dtlive.com.au/afl/dataview.php  
+## Stats for each Player 
+|Status | Desc | Link |  
+|--- |--- |--- |  
+|done | Game by Game Player Stats | https://afltables.com/afl/stats/teams/adelaide/2018_gbg.html |  
+|XXXX | Game by Game Player Stats | https://afltables.com/afl/stats/2018a.html |  
+|  | Player Profiles | https://afltables.com/afl/stats/alltime/adelaide.html |  
+|  | Player Positions | http://dtlive.com.au/afl/dataview.php  |  
 
 ## Stats for each Team
 List of Teams - https://afltables.com/afl/afl_index.html  
