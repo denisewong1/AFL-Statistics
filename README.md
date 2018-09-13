@@ -53,8 +53,8 @@ https://afltables.com/afl/venues/overall.html
 Logistic Regression model - use glm family = binomial, coursera course 7 week 4 - http://data.princeton.edu/R/glms.html
 
 To Do List  
-1. create list of unique player names; fix josh kennedy?  
-2. download remaining years of data to 1990  
+1. create list of unique player names; fix josh kennedy? from https://afltables.com/afl/stats/alltime/adelaide.html create unique list of players by name and birthdate and then assign an id to them for the master list of names; then go through each data frame and map id back to the unique list of players.
+2. download remaining years of data to 1991  
 3. Document architecture and names here
 4. create master tables of team names, stats, fantasy points etc as a csv file
 5. Download fixture for each season to map player/team performance over time. https://afltables.com/afl/stats/biglists/bg3.txt  - can the scores be reconciled to game by game totals?  
