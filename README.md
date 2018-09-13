@@ -35,10 +35,8 @@ Master List of All Games in Chronological Order - https://afltables.com/afl/stat
 Game Scores and Results by Season - https://afltables.com/afl/seas/2018.html  
 
 ## Stats for each Player (done)
-Player List by Debut Date - https://afltables.com/afl/stats/biglists/bg10.txt  
-Player List by Debut Age - https://afltables.com/afl/stats/biglists/bg14.txt  
 Game by Game player Stats - https://afltables.com/afl/stats/players/A/Andrew_McLeod.html  
-All Players Stats - https://afltables.com/afl/stats/alltime/adelaide.html  - where can i find positions
+All Players Profiles - https://afltables.com/afl/stats/alltime/adelaide.html  - where can i find positions
 https://afltables.com/afl/stats/2018a.html - this is same as gbg stats but better  
 Player Positions - http://dtlive.com.au/afl/dataview.php  
 
