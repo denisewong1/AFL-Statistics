@@ -77,6 +77,7 @@ To Do List
 16. Each player position will value particular skills more than others - https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
 17. Player Skills - https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
 18. weekly team lineup - http://www.afl.com.au/news/teams?round=1  
+19. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 
 
