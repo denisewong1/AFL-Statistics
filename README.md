@@ -1,13 +1,9 @@
 # AFL-Statistics
-AFL Statistics
-www.afltables.com
 
 ### Resources
-https://afltables.com/afl/stats/2018.html  
-https://afltables.com/afl/stats/biglists/bg.html  
 https://fantasy.afl.com.au/landing/index.html#/landing   
 http://www.matterofstats.com/  
-https://www.championdata.com/index.php/media-services/fantasy-and-tipping.html  
+
 
 Machine Learning Model - https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731  
 Reddit - https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
@@ -17,9 +13,7 @@ Stanford - http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineL
 Github - https://github.com/TMBish/Draftking  
 Fantasy Sports - https://ieeexplore.ieee.org/document/8367900/  
 More Fantasy Research - https://peterellisjones.com/posts/fantasy-machine-learning/  
-Australian Sports Conference - https://www.sportsci.org/2017/sac.pdf  
 Model - https://stats.stackexchange.com/questions/238143/using-afl-australian-rules-football-data-to-predict-brownlow-votes  
-RMIT - https://researchbank.rmit.edu.au/eserv/rmit:160744/Ryall.pdf  
 More Tips - http://www.afl.com.au/news/2018-02-13/how-to-dominate-fantasy-2017s-winner-reveals-all  
 Article 1 - https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
 Article 2 - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
@@ -85,6 +79,16 @@ To Do List
 16. Player Skills - https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
 17. weekly team lineup - http://www.afl.com.au/news/teams?round=1  
 18. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
+
+
+Darren O'Shaughnessy, an analyst/consultant,for the AFL Hawks, was big on removing the,component of luck/chance from game statistics to get the contribution of skill in "expected goals", which you can do something about. So, the elite athlete or coach should not make adjustments following a bad move, shot or unforced error that is a result purely of natural variation.  In using data to support decisions, he made the following points:  
+have an evidence-based culture and a framework to evaluate on-field actions;  
+engage in "counterfactual analysis" ("what if…"); record and evaluate, don't just count; and  
+to avoid "dichotomania", grade rather than dichotomize outcomes.  
+On the topic of support for live decisions (during matches):  
+don't let coaches design the interface; limit the use of color to important alerts;  
+use an algorithm to prioritize the most important things;  
+and be aware that reacting to short-term data is usually counter-productive.  
 
 
 
