@@ -11,6 +11,7 @@ https://www.championdata.com/index.php/media-services/fantasy-and-tipping.html
 
 Machine Learning Model - https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731  
 Reddit - https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
+Free Kick Differential - https://www.reddit.com/r/AFL/comments/8eqyfq/does_the_freekick_differential_really_matter_how/  
 Tips - http://www.afl.com.au/news/2014-07-03/learning-some-new-lines  
 Stanford - http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
 Github - https://github.com/TMBish/Draftking  
@@ -29,12 +30,15 @@ Article 6 - https://developer.ibm.com/dwblog/2017/espn-fantasy-football-watson-a
 Article 7 - https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
 Dream Stats - http://dream-stats.com/  
 AFL Stats - http://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
+http://www.aussportstipping.com/sports/afl/elo_ratings/
+http://www.aussportsbetting.com/category/afl/
 
 ## Stats for each Game
 |Status | Desc | Link |  
 |--- |--- |--- |  
 |done | Games Chronological | https://afltables.com/afl/stats/biglists/bg3.txt  |  
-|    | Scores and Results ny season | https://afltables.com/afl/seas/2018.html |    
+|    | Scores and Results by season | https://afltables.com/afl/seas/2018.html |   
+|    | Betting Odds for Game | http://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/ | 
 
 ## Stats for each Player 
 |Status | Desc | Link |  
