@@ -32,6 +32,7 @@ Dream Stats - http://dream-stats.com/
 AFL Stats - http://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
 http://www.aussportstipping.com/sports/afl/elo_ratings/
 http://www.aussportsbetting.com/category/afl/
+https://www.reddit.com/user/AFL_gains
 
 ## Stats for each Game
 |Status | Desc | Link |  
