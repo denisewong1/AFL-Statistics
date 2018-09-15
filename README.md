@@ -31,8 +31,10 @@ Dream Stats - http://dream-stats.com/
 AFL Stats - http://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
 
 ## Stats for each Game
-Master List of All Games in Chronological Order - https://afltables.com/afl/stats/biglists/bg3.txt  
-Game Scores and Results by Season - https://afltables.com/afl/seas/2018.html  
+|Status | Desc | Link |  
+|--- |--- |--- |  
+|done | Games Chronological | https://afltables.com/afl/stats/biglists/bg3.txt  |  
+|    | Scores and Results ny season | https://afltables.com/afl/seas/2018.html |    
 
 ## Stats for each Player 
 |Status | Desc | Link |  
