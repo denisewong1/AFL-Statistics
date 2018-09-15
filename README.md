@@ -61,9 +61,8 @@ id as prefix below indicates that this is a unique identifier.
 Logistic Regression model - use glm family = binomial, coursera course 7 week 4 - http://data.princeton.edu/R/glms.html
 
 To Do List  
-1. Document architecture and names here
-2. Download fixture for each season to map player/team performance over time. https://afltables.com/afl/stats/biglists/bg3.txt  - can the scores be reconciled to game by game totals?  
-3. fix scraper for game by game to map player IDs back into it, ditto game ID
+1. Document architecture and names here 
+2. fix scraper for game by game to map player IDs back into it, ditto game ID
 3. scrape player positions and start and end of season fantasy value from dlive website  
 4. Build mapping tables to be uploaded at each run  
 5. Calculate team ratings for each round; compare to AFL ladder - https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
