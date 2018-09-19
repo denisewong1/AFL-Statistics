@@ -47,7 +47,7 @@ https://www.reddit.com/r/AFL/comments/96eq2d/data_mining_identifies_5_types_of_f
 |done | Game by Game Player Stats | https://afltables.com/afl/stats/teams/adelaide/2018_gbg.html |  
 |XXXX | Game by Game Player Stats | https://afltables.com/afl/stats/2018a.html |  
 |done | Player Profiles | https://afltables.com/afl/stats/alltime/adelaide.html |  
-|  | Player Positions | http://dtlive.com.au/afl/dataview.php  |  
+|  | Player Prices & Positions |https://www.footywire.com/afl/footy/dream_team_round?year=2018&round=23&p=DE&s=S |  
 
 ## Stats for each Team
 List of Teams - https://afltables.com/afl/afl_index.html  
