@@ -71,23 +71,22 @@ Logistic Regression model - use glm family = binomial, coursera course 7 week 4 
 
 ## To Do List  
 1. Document architecture and names here 
-2. fix scraper for game by game to map player IDs back into it, ditto game ID
-3. scrape player positions and start and end of season fantasy value from dlive website  
-4. Build mapping tables to be uploaded at each run  
-5. Calculate team ratings for each round; compare to AFL ladder - https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
-6. Calculate home game advantage, interstate advantage    
-7. What game statistics matter?  http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html - look at relationship between game stats and game outcomes (final score); remove colinearity, high correlation stats  
-8. What stats matter for dream team?  https://mafl-online.squarespace.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
-9. Build a rating system for each player.  How does this compare to the team rating?  
-10. Read statistical models - http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
-11. Algorithms - http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
-12. Think about a dashboard - http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
-13. Investigate ELO and other rating systems - https://en.wikipedia.org/wiki/Elo_rating_system  
-14. Each stat can be grouped into action/reaction functions and hence may be interdependent (correlated).  Each stat can also correspond to particular skills (accuracy, hand-eye, foot-eye, agility, speed) and may be grouped in this manner. 
-15. Each player position will value particular skills more than others - https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
-16. Player Skills - https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
-17. weekly team lineup - http://www.afl.com.au/news/teams?round=1  
-18. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
+2. scrape player positions and start and end of season fantasy value from dlive website  
+3. Build mapping tables to be uploaded at each run  
+4. Calculate team ratings for each round; compare to AFL ladder - https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
+5. Calculate home game advantage, interstate advantage    
+6. What game statistics matter?  http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html - look at relationship between game stats and game outcomes (final score); remove colinearity, high correlation stats  
+7. What stats matter for dream team?  https://mafl-online.squarespace.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
+8. Build a rating system for each player.  How does this compare to the team rating?  
+9. Read statistical models - http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
+10. Algorithms - http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
+11. Think about a dashboard - http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
+12. Investigate ELO and other rating systems - https://en.wikipedia.org/wiki/Elo_rating_system  
+13. Each stat can be grouped into action/reaction functions and hence may be interdependent (correlated).  Each stat can also correspond to particular skills (accuracy, hand-eye, foot-eye, agility, speed) and may be grouped in this manner. 
+14. Each player position will value particular skills more than others - https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
+15. Player Skills - https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
+16. weekly team lineup - http://www.afl.com.au/news/teams?round=1  
+17. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 
 ### Boundary Constraints for Fantasy vs Game
