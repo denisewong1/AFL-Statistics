@@ -16,7 +16,6 @@ Swinburne - Explaining match outcome in elite Australian Rules football using te
 Swinburne - https://researchbank.swinburne.edu.au/file/ad793be7-8646-469b-a123-cc36fd9da459/1/Michael%20Bailey%20Thesis.pdf  - pg90 factors that may explain player performance  
 Github - https://github.com/TMBish/Draftking  
 Fantasy Sports - https://ieeexplore.ieee.org/document/8367900/  
-More Fantasy Research - https://peterellisjones.com/posts/fantasy-machine-learning/  
 Model - https://stats.stackexchange.com/questions/238143/using-afl-australian-rules-football-data-to-predict-brownlow-votes  
 More Tips - http://www.afl.com.au/news/2018-02-13/how-to-dominate-fantasy-2017s-winner-reveals-all  
 Article 1 - https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
