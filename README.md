@@ -47,7 +47,7 @@ https://www.reddit.com/r/AFL/comments/96eq2d/data_mining_identifies_5_types_of_f
 |done | Game by Game Player Stats | https://afltables.com/afl/stats/teams/adelaide/2018_gbg.html |  
 |XXXX | Game by Game Player Stats | https://afltables.com/afl/stats/2018a.html |  
 |done | Player Profiles | https://afltables.com/afl/stats/alltime/adelaide.html |  
-|  | Player Prices & Positions |https://www.footywire.com/afl/footy/dream_team_round?year=2018&round=23&p=DE&s=S |  
+|done  | Player Prices, Injuries & Positions |https://www.footywire.com/afl/footy/dream_team_round?year=2018&round=23&p=DE&s=S |  
 
 ## Stats for each Team
 List of Teams - https://afltables.com/afl/afl_index.html  
@@ -71,22 +71,21 @@ Logistic Regression model - use glm family = binomial, coursera course 7 week 4 
 
 ## To Do List  
 1. Document architecture and names here 
-2. scrape player positions and start and end of season fantasy value from dlive website  
-3. Build mapping tables to be uploaded at each run  
-4. Calculate team ratings for each round; compare to AFL ladder - https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
-5. Calculate home game advantage, interstate advantage    
-6. What game statistics matter?  http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html - look at relationship between game stats and game outcomes (final score); remove colinearity, high correlation stats  
-7. What stats matter for dream team?  https://mafl-online.squarespace.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
-8. Build a rating system for each player.  How does this compare to the team rating?  
-9. Read statistical models - http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
-10. Algorithms - http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
-11. Think about a dashboard - http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
-12. Investigate ELO and other rating systems - https://en.wikipedia.org/wiki/Elo_rating_system  
-13. Each stat can be grouped into action/reaction functions and hence may be interdependent (correlated).  Each stat can also correspond to particular skills (accuracy, hand-eye, foot-eye, agility, speed) and may be grouped in this manner. 
-14. Each player position will value particular skills more than others - https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
-15. Player Skills - https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
-16. weekly team lineup - http://www.afl.com.au/news/teams?round=1  
-17. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
+2. Build mapping tables to be uploaded at each run  
+3. Calculate team ratings for each round; compare to AFL ladder - https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
+4. Calculate home game advantage, interstate advantage    
+5. What game statistics matter?  http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html - look at relationship between game stats and game outcomes (final score); remove colinearity, high correlation stats  
+6. What stats matter for dream team?  https://mafl-online.squarespace.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
+7. Build a rating system for each player.  How does this compare to the team rating?  
+8. Read statistical models - http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
+9. Algorithms - http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
+10. Think about a dashboard - http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
+11. Investigate ELO and other rating systems - https://en.wikipedia.org/wiki/Elo_rating_system  
+12. Each stat can be grouped into action/reaction functions and hence may be interdependent (correlated).  Each stat can also correspond to particular skills (accuracy, hand-eye, foot-eye, agility, speed) and may be grouped in this manner. 
+13. Each player position will value particular skills more than others - https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
+14. Player Skills - https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
+15. weekly team lineup - http://www.afl.com.au/news/teams?round=1  
+16. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 
 ### Boundary Constraints for Fantasy vs Game
@@ -95,8 +94,6 @@ Logistic Regression model - use glm family = binomial, coursera course 7 week 4 
 2.  Each Round you must select a starting line-up of 22 Players (6 Defenders, 8 Midfielders, 2 Rucks, 6 Forwards). Each team historically comprises three backs (2 × Back Pocket, 1 × Full Back), three half-backs (2 × Half-Back Flank, 1 × Centre-Half Back), three midfielders (2 × Wing. 1 × Centre), three followers/rovers (2 × followers, 1 × rover), three half-forwards (2 × Half-Forward Flank, 1 × Centre-Half Forward), three forwards (2 × Forward Flank, 1 × Full Forward) and four players on the bench.  
  
 3.  Starting $wallet is $12m.  So sum fantasy price <= $12m
-
-4.  
 
 Game Notes -
 1.  Darren O'Shaughnessy, an analyst/consultant,for the AFL Hawks, was big on removing the,component of luck/chance from game statistics to get the contribution of skill in "expected goals", which you can do something about. So, the elite athlete or coach should not make adjustments following a bad move, shot or unforced error that is a result purely of natural variation.  
