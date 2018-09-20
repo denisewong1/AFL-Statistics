@@ -33,6 +33,7 @@ http://www.aussportsbetting.com/category/afl/
 https://www.reddit.com/user/AFL_gains  
 https://www.reddit.com/r/AFL/comments/96eq2d/data_mining_identifies_5_types_of_football_play/  
 https://aflratings.com.au/category/injuries/ - injury report  
+http://dailyfantasysportsaustralia.com/category/tools-explained/   
 
 ## Stats for each Game
 |Status | Desc | Link |  
