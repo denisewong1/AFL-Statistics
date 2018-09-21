@@ -47,7 +47,8 @@ http://dailyfantasysportsaustralia.com/category/tools-explained/
 |done | Game by Game Player Stats | https://afltables.com/afl/stats/teams/adelaide/2018_gbg.html |  
 |XXXX | Game by Game Player Stats | https://afltables.com/afl/stats/2018a.html |  
 |done | Player Profiles | https://afltables.com/afl/stats/alltime/adelaide.html |  
-|done  | Player Prices, Injuries & Positions |https://www.footywire.com/afl/footy/dream_team_round?year=2018&round=23&p=DE&s=S |  
+|done  | Player Positions |https://www.footywire.com/afl/footy/dream_team_round?year=2018&round=23&p=DE&s=S |  
+|done  | Player Prices |https://www.footywire.com/afl/footy/dream_team_round?year=2018&round=1&p=&s=T |  
 
 ## Stats for each Team
 List of Teams - https://afltables.com/afl/afl_index.html  
