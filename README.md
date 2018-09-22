@@ -70,6 +70,14 @@ Logistic Regression model - use glm family = binomial, coursera course 7 week 4 
 1. Game - Win Margin; Win %  
 2. Player - FantasyPt, FantasyPx, FantasyPxChg, FantasyPtChg     
 
+|Model | Predictor | Description |
+|----- |------ |------- |      
+|done  | team  | Linear Programming to optimise FtsyVal given constraints |
+|done  | match | Linear Programming to optimise FtsyPt given constraints |
+|XXX  | position | ML classification of player position using player gbg statistics |
+
+
+
 ## To Do List  
 1. Document architecture and names here 
 2. Build mapping tables to be uploaded at each run  
@@ -90,12 +98,6 @@ Logistic Regression model - use glm family = binomial, coursera course 7 week 4 
 
 
 ### Boundary Constraints for Fantasy vs Game
-1.  Per game, 22 players with only 18 allowed on the field at any one time - hence sum of %P should be at least 18 for weekly team  
-
-2.  Each Round you must select a starting line-up of 22 Players (6 Defenders, 8 Midfielders, 2 Rucks, 6 Forwards). Each team historically comprises three backs (2 × Back Pocket, 1 × Full Back), three half-backs (2 × Half-Back Flank, 1 × Centre-Half Back), three midfielders (2 × Wing. 1 × Centre), three followers/rovers (2 × followers, 1 × rover), three half-forwards (2 × Half-Forward Flank, 1 × Centre-Half Forward), three forwards (2 × Forward Flank, 1 × Full Forward) and four players on the bench.  
- 
-3.  Starting $wallet is $12m.  So sum fantasy price <= $12m
-
 Game Notes -
 1.  Darren O'Shaughnessy, an analyst/consultant,for the AFL Hawks, was big on removing the,component of luck/chance from game statistics to get the contribution of skill in "expected goals", which you can do something about. So, the elite athlete or coach should not make adjustments following a bad move, shot or unforced error that is a result purely of natural variation.  
 2.  The ball can be moved in several ways namely via a kick, handball or run and bounce, failure to dispose of the football correctly results in a free kick to the opposition.  
