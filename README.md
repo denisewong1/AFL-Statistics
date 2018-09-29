@@ -77,6 +77,11 @@ Logistic Regression model - use glm family = binomial, coursera course 7 week 4 
 |XXX  | position | ML classification of player position using player gbg statistics |
 
 
+## Questions & Order of Analysis    
+1.  Given all the information above and perfect hindsight, can we pick the "ideal" team at any point in time?  Answer : we can build it using linear programming.  The problem we run into is that the players have played in multiple positions during the season.  So we need to go back and figure out the best way to classify players position given their skills performance and attributes (eg height) => question 2.  
+2. Build a multi-class classification model to determine players attributes and which position best suits them. In this exercise I learn all about configuring models for multi-class classification. The problem is that the data set doesn't tell us the position that they had for each game, just what they've played for the current season and/or through the season.  This means also that for multi-position players, calculating the accuracy of prediction becomes more tricky as it needs to be halved.  One of the ways to solve this problem is to use single position players to figure out position attributes, and then test the model on multi-position players, to see if it can "pick" at least one of the multiple positions played.  As I built the models, I tried to structure a reusable framework for this type of problem with and without caret => question 3.
+3. Build a reusable framework for multi-class classification problems to compare the additional features of caret vs other base/raw packages.  We will also investigate whether basic models perform better if we return probability vs raw class predictions.  
+
 
 ## To Do List  
 1. Document architecture and names here 
