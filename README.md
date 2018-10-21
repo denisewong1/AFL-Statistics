@@ -4,7 +4,7 @@
 https://fantasy.afl.com.au/landing/index.html#/landing   
 http://www.matterofstats.com/  
 
-
+http://www.afl.com.au/news/2018-10-19/fantasy-players-to-watch-from-the-trade-period  
 Machine Learning Model - https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731  
 Reddit - https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
 Free Kick Differential - https://www.reddit.com/r/AFL/comments/8eqyfq/does_the_freekick_differential_really_matter_how/  
