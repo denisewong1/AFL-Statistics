@@ -5,6 +5,14 @@ https://fantasy.afl.com.au/landing/index.html#/landing
 http://www.matterofstats.com/  
 
 http://www.afl.com.au/news/2018-10-19/fantasy-players-to-watch-from-the-trade-period  
+http://www.afl.com.au/news/trade/trade-tracker  
+https://api.squiggle.com.au/  
+https://squiggle.com.au/the-squiggle-api/  
+http://www.afl.com.au/stats/stats-pro/faqs  
+https://www.programmableweb.com/api/afl-mobile-web-services  
+
+
+
 Machine Learning Model - https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731  
 Reddit - https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
 Free Kick Differential - https://www.reddit.com/r/AFL/comments/8eqyfq/does_the_freekick_differential_really_matter_how/  
@@ -12,7 +20,7 @@ Tips - http://www.afl.com.au/news/2014-07-03/learning-some-new-lines
 Stanford - http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
 RMIT - https://researchbank.rmit.edu.au/eserv/rmit:160744/Ryall.pdf 
 RMIT - https://researchbank.rmit.edu.au/eserv/rmit:8567/n2006006216.pdf  
-Swinburne - Explaining match outcome in elite Australian Rules football using team performance indicators
+Swinburne - Explaining match outcome in elite Australian Rules football using team performance indicators  
 Swinburne - https://researchbank.swinburne.edu.au/file/ad793be7-8646-469b-a123-cc36fd9da459/1/Michael%20Bailey%20Thesis.pdf  - pg90 factors that may explain player performance  
 Github - https://github.com/TMBish/Draftking  
 Model - https://stats.stackexchange.com/questions/238143/using-afl-australian-rules-football-data-to-predict-brownlow-votes  
