@@ -30,7 +30,7 @@ Article 2 - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing
 Article 3 - http://www.matterofstats.com/mafl-wagers-and-tips/  
 Article 4 - https://intoli.com/blog/fantasy-football-for-hackers/  
 Article 5 - https://dspace.mit.edu/handle/1721.1/100687  
-Article 6 - https://developer.ibm.com/dwblog/2017/espn-fantasy-football-watson-ai-playoffs/
+Article 6 - https://developer.ibm.com/dwblog/2017/espn-fantasy-football-watson-ai-playoffs/  
 Article 7 - https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
 Dream Stats - http://dream-stats.com/  
 AFL Stats - http://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
