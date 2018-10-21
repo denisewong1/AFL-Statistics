@@ -18,8 +18,8 @@ Reddit - https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_pa
 Free Kick Differential - https://www.reddit.com/r/AFL/comments/8eqyfq/does_the_freekick_differential_really_matter_how/  
 Tips - http://www.afl.com.au/news/2014-07-03/learning-some-new-lines  
 Stanford - http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
-RMIT - https://researchbank.rmit.edu.au/eserv/rmit:160744/Ryall.pdf 
-RMIT - https://researchbank.rmit.edu.au/eserv/rmit:8567/n2006006216.pdf  
+RMIT - https://researchbank.rmit.edu.au/eserv/rmit:160744/Ryall.pdf   
+RMIT - https://researchbank.rmit.edu.au/eserv/rmit:8567/n2006006216.pdf   
 Swinburne - Explaining match outcome in elite Australian Rules football using team performance indicators  
 Swinburne - https://researchbank.swinburne.edu.au/file/ad793be7-8646-469b-a123-cc36fd9da459/1/Michael%20Bailey%20Thesis.pdf  - pg90 factors that may explain player performance  
 Github - https://github.com/TMBish/Draftking  
