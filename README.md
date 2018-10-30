@@ -66,7 +66,10 @@ https://www.fantasyinsider.com.au/blog/AFL/a-beginners-guide-to-afl-dfs-game-day
 http://forum.fantasyinsider.com.au/d/18-afl-round-8-points-tables-discussion
 https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds
 https://www.fantasyinsider.com.au/blog/Site%20News/now-available-nrl-afl-draft-guides
-
+Bye round strategy - https://dreamteamtalk.com/2017/10/31/2018-afl-fixture-and-fantasy/
+https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-draft.html
+http://forum.fanfooty.com.au/index.php/board,1.0.html
+http://www.saints.com.au/news/2018-03-20/afl-fantasy-traders-pick-their-round-1-team
 
 ## Stats for each Game
 |Status | Desc | Link |  
