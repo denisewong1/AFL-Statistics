@@ -40,6 +40,34 @@ https://www.reddit.com/r/AFL/comments/96eq2d/data_mining_identifies_5_types_of_f
 https://aflratings.com.au/category/injuries/ - injury report  
 http://dailyfantasysportsaustralia.com/category/tools-explained/   
 
+More machine learning models
+https://www.researchgate.net/publication/289801869_An_Analytical_Approach_for_Fantasy_Football_Draft_and_Lineup_Management
+https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md
+https://www.datarobot.com/wiki/feature-impact/
+https://medium.com/fantasy-outliers/can-machine-learning-can-help-improve-your-fantasy-football-draft-4ceea1f1b2bd
+https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/
+https://towardsdatascience.com/machine-learning-meets-fantasy-football-part-2-36632a27328c
+https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1
+https://dreamteamtalk.com/category/resources/sample-teams/
+https://dreamteamtalk.com/category/resources/dt-101/the-game/
+http://dailyfantasysportsaustralia.com/afl-fantasy-points-allowed-position/
+https://dreamteamtalk.com/2012/09/12/what-makes-a-mid-pricer-worth-it/
+https://dreamteamtalk.com/2017/09/11/the-2017-optimal-afl-fantasy-team-finally-proves-link-between-genius-and-madness/
+https://dreamteamtalk.com/2018/08/01/how-do-you-compare-to-the-top-100-afl-fantasy-coaches-finals-2018/
+https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/
+https://www.fantasystars.com.au/afl/afl-fantasy-points-calculated
+https://www.fantasystars.com.au/reviews/2017-afl-supercoach-season-review
+https://www.fantasystars.com.au/afl/afl-round-1-injury-round-up
+https://aflfantasies.com/2018/the-basic-strategy/
+https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/afl-analysis-should-favourite-stacks-include-the-defenders
+https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/the-3-secrets-to-winning-at-australian-daily-fantasy-sports
+https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds
+https://www.fantasyinsider.com.au/blog/AFL/a-beginners-guide-to-afl-dfs-game-day-strategies
+http://forum.fantasyinsider.com.au/d/18-afl-round-8-points-tables-discussion
+https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds
+https://www.fantasyinsider.com.au/blog/Site%20News/now-available-nrl-afl-draft-guides
+
+
 ## Stats for each Game
 |Status | Desc | Link |  
 |--- |--- |--- |  
@@ -106,6 +134,20 @@ Logistic Regression model - use glm family = binomial, coursera course 7 week 4 
 14. Player Skills - https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
 15. weekly team lineup - http://www.afl.com.au/news/teams?round=1  
 16. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
+1.       Pick the right rookies
+2.       Plan for bye rounds
+3.       12 premium players
+4.       Bulk of scorers are from midfield
+5.       Scores of best 18 players from overall match squad for bye rounds
+6.       Trade injured players immediately
+7.       Find a measure of consistency
+8.       Identify undervalued aspects of player performance – this is more important than accuracy
+9.       Use a two year history
+10.   100 point player – consistency, valuation
+11.   Distribution of points earned FO/DE/MI/RU
+12.   Margin of victory impact on fantasy points
+13.   Breakeven point score for each player – try to guess?
+14.   Use expert starting team in lineup – rookies midpriced and stars
 
 
 ### Boundary Constraints for Fantasy vs Game
