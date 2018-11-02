@@ -41,33 +41,33 @@ https://aflratings.com.au/category/injuries/ - injury report
 http://dailyfantasysportsaustralia.com/category/tools-explained/   
 
 More machine learning models
-https://www.researchgate.net/publication/289801869_An_Analytical_Approach_for_Fantasy_Football_Draft_and_Lineup_Management
-https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md
-https://www.datarobot.com/wiki/feature-impact/
-https://medium.com/fantasy-outliers/can-machine-learning-can-help-improve-your-fantasy-football-draft-4ceea1f1b2bd
-https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/
-https://towardsdatascience.com/machine-learning-meets-fantasy-football-part-2-36632a27328c
-https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1
-https://dreamteamtalk.com/category/resources/sample-teams/
-https://dreamteamtalk.com/category/resources/dt-101/the-game/
-http://dailyfantasysportsaustralia.com/afl-fantasy-points-allowed-position/
-https://dreamteamtalk.com/2012/09/12/what-makes-a-mid-pricer-worth-it/
-https://dreamteamtalk.com/2017/09/11/the-2017-optimal-afl-fantasy-team-finally-proves-link-between-genius-and-madness/
-https://dreamteamtalk.com/2018/08/01/how-do-you-compare-to-the-top-100-afl-fantasy-coaches-finals-2018/
-https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/
-https://www.fantasystars.com.au/afl/afl-fantasy-points-calculated
-https://www.fantasystars.com.au/reviews/2017-afl-supercoach-season-review
-https://www.fantasystars.com.au/afl/afl-round-1-injury-round-up
-https://aflfantasies.com/2018/the-basic-strategy/
-https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/afl-analysis-should-favourite-stacks-include-the-defenders
-https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/the-3-secrets-to-winning-at-australian-daily-fantasy-sports
-https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds
-https://www.fantasyinsider.com.au/blog/AFL/a-beginners-guide-to-afl-dfs-game-day-strategies
-http://forum.fantasyinsider.com.au/d/18-afl-round-8-points-tables-discussion
-https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds
-https://www.fantasyinsider.com.au/blog/Site%20News/now-available-nrl-afl-draft-guides
-Bye round strategy - https://dreamteamtalk.com/2017/10/31/2018-afl-fixture-and-fantasy/
-https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-draft.html
+https://www.researchgate.net/publication/289801869_An_Analytical_Approach_for_Fantasy_Football_Draft_and_Lineup_Management  
+https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
+https://www.datarobot.com/wiki/feature-impact/  
+https://medium.com/fantasy-outliers/can-machine-learning-can-help-improve-your-fantasy-football-draft-4ceea1f1b2bd  
+https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
+https://towardsdatascience.com/machine-learning-meets-fantasy-football-part-2-36632a27328c  
+https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1  
+https://dreamteamtalk.com/category/resources/sample-teams/  
+https://dreamteamtalk.com/category/resources/dt-101/the-game/  
+http://dailyfantasysportsaustralia.com/afl-fantasy-points-allowed-position/  
+https://dreamteamtalk.com/2012/09/12/what-makes-a-mid-pricer-worth-it/  
+https://dreamteamtalk.com/2017/09/11/the-2017-optimal-afl-fantasy-team-finally-proves-link-between-genius-and-madness/  
+https://dreamteamtalk.com/2018/08/01/how-do-you-compare-to-the-top-100-afl-fantasy-coaches-finals-2018/  
+https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/  
+https://www.fantasystars.com.au/afl/afl-fantasy-points-calculated  
+https://www.fantasystars.com.au/reviews/2017-afl-supercoach-season-review  
+https://www.fantasystars.com.au/afl/afl-round-1-injury-round-up  
+https://aflfantasies.com/2018/the-basic-strategy/  
+https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/afl-analysis-should-favourite-stacks-include-the-defenders  
+https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/the-3-secrets-to-winning-at-australian-daily-fantasy-sports  
+https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds  
+https://www.fantasyinsider.com.au/blog/AFL/a-beginners-guide-to-afl-dfs-game-day-strategies  
+http://forum.fantasyinsider.com.au/d/18-afl-round-8-points-tables-discussion  
+https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds  
+https://www.fantasyinsider.com.au/blog/Site%20News/now-available-nrl-afl-draft-guides  
+Bye round strategy - https://dreamteamtalk.com/2017/10/31/2018-afl-fixture-and-fantasy/  
+https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-draft.html  
 http://forum.fanfooty.com.au/index.php/board,1.0.html
 http://www.saints.com.au/news/2018-03-20/afl-fantasy-traders-pick-their-round-1-team
 
