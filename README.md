@@ -127,7 +127,7 @@ Logistic Regression model - use glm family = binomial, coursera course 7 week 4 
 1. Document architecture and names here 
 2. Build mapping tables to be uploaded at each run  
 3. Calculate team ratings for each round; compare to AFL ladder - https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
-4. Calculate home game advantage, interstate advantage    
+4. Calculate home game advantage, interstate advantage, venue experience - http://www.matterofstats.com/mafl-stats-journal/2010/9/20/adding-some-spline-to-your-models.html     
 5. What game statistics matter?  http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html - look at relationship between game stats and game outcomes (final score); remove colinearity, high correlation stats  
 6. What stats matter for dream team?  https://mafl-online.squarespace.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
 7. Build a rating system for each player.  How does this compare to the team rating?  
