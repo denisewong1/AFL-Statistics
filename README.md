@@ -45,7 +45,16 @@ https://www.reddit.com/r/AFL/comments/96eq2d/data_mining_identifies_5_types_of_f
 https://aflratings.com.au/category/injuries/ - injury report  
 http://dailyfantasysportsaustralia.com/category/tools-explained/   
 
-More machine learning models
+More machine learning models  
+http://mafl-stats.blogspot.com/2009/01/  
+http://www.matterofstats.com/mafl-stats-journal/2011/10/2/cursory-mention-of-mafl-in-new-scientist-probably.html  
+http://www.matterofstats.com/mafl-stats-journal/2012/11/17/another-look-at-forecasting-game-outcomes-in-running.html  
+http://www.matterofstats.com/mafl-stats-journal/2012/11/28/using-the-in-running-models.html  
+http://www.matterofstats.com/mafl-stats-journal/2012/12/9/the-changing-nature-of-home-team-probability.html  
+http://www.matterofstats.com/mafl-stats-journal/2012/12/21/what-do-seasons-past-tell-us-about-seasons-present.html  
+http://www.matterofstats.com/mafl-stats-journal/2012/12/25/persistence-in-team-mars-ratings.html  
+http://www.matterofstats.com/mafl-stats-journal/2011/8/18/the-2011-performance-of-the-mars-colley-and-massey-ratings-s.html  
+http://www.matterofstats.com/mafl-stats-journal/2011/8/3/predicting-the-home-teams-final-margin-a-competition-amongst.html  
 https://www.researchgate.net/publication/289801869_An_Analytical_Approach_for_Fantasy_Football_Draft_and_Lineup_Management  
 https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
 https://www.datarobot.com/wiki/feature-impact/  
