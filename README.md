@@ -6,6 +6,7 @@ http://www.matterofstats.com/
 https://github.com/jimmyday12/fitzRoy  
 http://sorensen.com.au/footyworks.html  
 http://www.afl.com.au/fixture/fixture-explained  
+http://www.afl.com.au/match-centre/2017/1/carl-v-rich  
 
 http://www.afl.com.au/news/2018-10-19/fantasy-players-to-watch-from-the-trade-period  
 http://www.afl.com.au/news/trade/trade-tracker  
