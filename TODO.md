@@ -36,15 +36,20 @@ f = form difference = 0.653
 s = interstate status = 5.568  
 The aim is to get an average MAE of less than 30 points per game at least    
 Other references and improvements to basic model  
+http://www.matterofstats.com/mafl-stats-journal/2013/12/8/optimising-the-very-simple-rating-system-vsrs.html  
 https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
 http://www.matterofstats.com/mafl-stats-journal/2011/8/28/mars-ratings-how-important-are-teams-initial-ratings.html   
 http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
 http://www.matterofstats.com/mafl-stats-journal/2015/11/1/an-improved-vflafl-team-rating-system-mossbods-20  
 http://www.matterofstats.com/mafl-stats-journal/2017/1/5/team-rating-revisited-a-rival-for-mossbods  
 https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
+http://www.matterofstats.com/mafl-stats-journal/2013/9/11/upsets-and-mismatches-in-vflafl-finals-1897-to-2013.html  
+http://www.matterofstats.com/mafl-stats-journal/2013/9/12/team-ratings-bookmaker-prices-and-the-recent-predictability.html  
 4. Calculate home game advantage  
 http://www.matterofstats.com/mafl-stats-journal/2010/9/20/adding-some-spline-to-your-models.html   
 https://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
+http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
+http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
 5. Calculate interstate advantage  
 6. Calculate venue experience  
 http://www.matterofstats.com/mafl-stats-journal/2013/12/22/estimating-team-and-venue-specific-home-ground-advantage-usi.html  
@@ -71,17 +76,17 @@ lineup - http://www.afl.com.au/news/teams?round=1
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
-1.       Pick the right rookies
-2.       Plan for bye rounds
-3.       12 premium players
-4.       Bulk of scorers are from midfield
-5.       Scores of best 18 players from overall match squad for bye rounds
-6.       Trade injured players immediately
-7.       Find a measure of consistency
-8.       Identify undervalued aspects of player performance – this is more important than accuracy
-9.       Use a two year history
-10.   100 point player – consistency, valuation
-11.   Distribution of points earned FO/DE/MI/RU
-12.   Margin of victory impact on fantasy points
-13.   Breakeven point score for each player – try to guess?
-14.   Use expert starting team in lineup – rookies midpriced and stars
+1. Pick the right rookies  
+2. Plan for bye rounds  
+3. 12 premium players  
+4. Bulk of scorers are from midfield  
+5. Scores of best 18 players from overall match squad for bye rounds  
+6. Trade injured players immediately  
+7. Find a measure of consistency  
+8. Identify undervalued aspects of player performance – this is more important than accuracy  
+9. Use a two year history  
+10. 100 point player – consistency, valuation  
+11. Distribution of points earned FO/DE/MI/RU  
+12. Margin of victory impact on fantasy points  
+13. Breakeven point score for each player – try to guess?  
+14. Use expert starting team in lineup – rookies midpriced and stars  
