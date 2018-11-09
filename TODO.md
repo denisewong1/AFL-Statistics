@@ -1,5 +1,5 @@
 ## To Do List  
-1. Document architecture and names here 
+1. Document architecture and names here.  The order should be  - Season -> Round -> Game -> Team -> Position -> Player 
 2. Build mapping tables to be uploaded at each run  
 3. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder    
 http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
@@ -37,11 +37,11 @@ s = interstate status = 5.568
 The aim is to get an average MAE of less than 30 points per game at least    
 Other references and improvements to basic model  
 https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
-https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team-dashboard-for-round-6.html  
 http://www.matterofstats.com/mafl-stats-journal/2011/8/28/mars-ratings-how-important-are-teams-initial-ratings.html   
 http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
 http://www.matterofstats.com/mafl-stats-journal/2015/11/1/an-improved-vflafl-team-rating-system-mossbods-20  
 http://www.matterofstats.com/mafl-stats-journal/2017/1/5/team-rating-revisited-a-rival-for-mossbods  
+https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
 4. Calculate home game advantage  
 http://www.matterofstats.com/mafl-stats-journal/2010/9/20/adding-some-spline-to-your-models.html   
 https://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
@@ -55,21 +55,20 @@ http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-ga
 http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-analysis-of-the-kicking-statistics-in-afl.html    
 http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
 http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversion-rates-how-predictable-are-they  
-8. Build a rating system for each player  
+8. Build a rating system for each player based on player stats  
+https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
+https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
 9. Combining team and player rating data  
 http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-combining-afl-team-and-player-data-in-a-predictive-model  
 10. Read statistical models
 http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
-
-
-9. Algorithms - http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
-10. Think about a dashboard - http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
-
-12. Each stat can be grouped into action/reaction functions and hence may be interdependent (correlated).  Each stat can also correspond to particular skills (accuracy, hand-eye, foot-eye, agility, speed) and may be grouped in this manner. 
-13. Each player position will value particular skills more than others - https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
-14. Player Skills - https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
-15. weekly team lineup - http://www.afl.com.au/news/teams?round=1  
-16. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
+http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
+11. Dashboards  
+http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
+https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team-dashboard-for-round-6.html  
+12. weekly team stuff to include during season    
+lineup - http://www.afl.com.au/news/teams?round=1  
+13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
 1.       Pick the right rookies
