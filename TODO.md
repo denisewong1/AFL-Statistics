@@ -45,6 +45,9 @@ http://www.matterofstats.com/mafl-stats-journal/2017/1/5/team-rating-revisited-a
 https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
 http://www.matterofstats.com/mafl-stats-journal/2013/9/11/upsets-and-mismatches-in-vflafl-finals-1897-to-2013.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/9/12/team-ratings-bookmaker-prices-and-the-recent-predictability.html  
+https://www.matterofstats.com/mafl-stats-journal/2014/11/9/whats-best-its-all-about-the-bases  
+https://www.matterofstats.com/mafl-stats-journal/2014/9/28/the-2014-grand-final-when-the-coin-flipped  
+https://www.matterofstats.com/mafl-stats-journal/2014/9/13/modelling-game-outcome-in-running  
 4. Calculate home game advantage  
 http://www.matterofstats.com/mafl-stats-journal/2010/9/20/adding-some-spline-to-your-models.html   
 https://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
@@ -53,6 +56,7 @@ http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-
 5. Calculate interstate advantage  
 6. Calculate venue experience  
 http://www.matterofstats.com/mafl-stats-journal/2013/12/22/estimating-team-and-venue-specific-home-ground-advantage-usi.html  
+https://www.matterofstats.com/mafl-stats-journal/2015/9/17/team-by-team-and-venue-by-venue-conversion-rate-history  
 7. Look at game statistics that matter - relationship between game stats and game outcomes (final score), remove colinearity & high
 correlation stats  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
