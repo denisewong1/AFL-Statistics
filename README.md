@@ -13,7 +13,6 @@ http://www.afl.com.au/news/trade/trade-tracker
 https://api.squiggle.com.au/  
 https://squiggle.com.au/the-squiggle-api/  
 http://www.afl.com.au/stats/stats-pro/faqs  
-https://www.programmableweb.com/api/afl-mobile-web-services  
 
 
 
