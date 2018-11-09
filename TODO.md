@@ -1,7 +1,7 @@
 ## To Do List  
 1. Document architecture and names here 
 2. Build mapping tables to be uploaded at each run  
-3. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder -  
+3. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder    
 http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
 http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
