@@ -3,7 +3,7 @@
 Season -> Round -> Game -> Venue -> Team -> Position -> Player  
 Each of these should have their own ID mapping tables which should be uploaded at the start of each run   
 2. Document Process and storage folders for each process for both code and data     
-scrape -> clean and save -> EDA by each group in (1) above   
+scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
 3. Calculate average season margin of victory; do EDA on Ladder  
 http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
