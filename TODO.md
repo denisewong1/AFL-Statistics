@@ -1,5 +1,6 @@
 ## To Do List  
-1. Document architecture and names here.  The order should be  - Season -> Round -> Game -> Team -> Position -> Player 
+1. Document architecture and names here.  The order should be  -  
+Season -> Round -> Game -> Venue -> Team -> Position -> Player  
 2. Build mapping tables to be uploaded at each run  
 3. Calculate average season margin of victory; do EDA on Ladder  
 http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
