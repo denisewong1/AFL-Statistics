@@ -1,9 +1,12 @@
 ## To Do List  
 1. Document architecture and names here.  The order should be  -  
 Season -> Round -> Game -> Venue -> Team -> Position -> Player (Profile, Stats & Fantasy)   
-Each of these should have their own ID mapping tables which should be uploaded at the start of each run   
+Each of these should have their own id and mapping tables which should be uploaded at the start of each run   
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
+Consider which table contains information for mapping and id tables  
+Consider the analysis from this table before merging with another one  
+Consider small and big data sets which can be built to quicken the analysis  
 3. Calculate average season margin of victory; do EDA on Ladder  
 http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
