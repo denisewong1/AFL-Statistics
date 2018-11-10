@@ -1,5 +1,5 @@
 
-## dfGame  
+## dfGame.csv  
 scraped in scrapeAFL_game.R  
 Classes ‘tbl_df’, ‘tbl’ and 'data.frame':	15407 obs. of  16 variables:  
  $ GameID      : num  1 2 3 4 5 6 7 8 9 10 ...  
