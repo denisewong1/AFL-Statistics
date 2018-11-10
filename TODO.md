@@ -48,6 +48,9 @@ http://www.matterofstats.com/mafl-stats-journal/2013/9/12/team-ratings-bookmaker
 https://www.matterofstats.com/mafl-stats-journal/2014/11/9/whats-best-its-all-about-the-bases  
 https://www.matterofstats.com/mafl-stats-journal/2014/9/28/the-2014-grand-final-when-the-coin-flipped  
 https://www.matterofstats.com/mafl-stats-journal/2014/9/13/modelling-game-outcome-in-running  
+https://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
+https://www.matterofstats.com/mafl-stats-journal/2015/7/10/best-and-worst-afl-teams-2005-2015-a-mossbod-perspective  
+https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
 4. Calculate home game advantage  
 http://www.matterofstats.com/mafl-stats-journal/2010/9/20/adding-some-spline-to-your-models.html   
 https://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
