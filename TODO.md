@@ -1,6 +1,6 @@
 ## To Do List  
 1. Document architecture and names here.  The order should be  -  
-Season -> Round -> Game -> Venue -> Team -> Position -> Player  
+Season -> Round -> Game -> Venue -> Team -> Position -> Player (Profile, Stats & Fantasy)   
 Each of these should have their own ID mapping tables which should be uploaded at the start of each run   
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
