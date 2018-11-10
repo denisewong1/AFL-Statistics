@@ -1,7 +1,12 @@
 ## To Do List  
 1. Document architecture and names here.  The order should be  - Season -> Round -> Game -> Team -> Position -> Player 
 2. Build mapping tables to be uploaded at each run  
+3. Calculate average season margin of victory; do EDA on Ladder  
+http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
+https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
+https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-conversion-history-in-the-vflafl-1897-2015  
 3. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder    
+http://footymaths.blogspot.com/p/below-are-aggregated-end-of-season.html  
 http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
 http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
@@ -51,6 +56,8 @@ https://www.matterofstats.com/mafl-stats-journal/2014/9/13/modelling-game-outcom
 https://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
 https://www.matterofstats.com/mafl-stats-journal/2015/7/10/best-and-worst-afl-teams-2005-2015-a-mossbod-perspective  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
+https://hurlingpeoplenow.wordpress.com/2017/07/21/the-hpn-second-trimester-ish-awards-plus-round-17-team-ratings/  
+https://www.matterofstats.com/mafl-stats-journal/2015/12/7/the-2016-afl-draw-difficulty-and-distortion  
 4. Calculate home game advantage  
 http://www.matterofstats.com/mafl-stats-journal/2010/9/20/adding-some-spline-to-your-models.html   
 https://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
@@ -70,6 +77,11 @@ http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversio
 8. Build a rating system for each player based on player stats  
 https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
 https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
+https://www.pro-football-reference.com/blog/index37a8.html  
+https://www.pro-football-reference.com/blog/index6b92.html?p=465  
+https://hurlingpeoplenow.wordpress.com/2017/08/31/introducing-player-approximate-value-pav/  
+http://hurlingpeoplenow.tumblr.com/post/98964610922/hpn-draft-pick-trade-value-chart-v1  
+https://hurlingpeoplenow.wordpress.com/2017/09/02/the-2017-pav-all-australian-team/  
 9. Combining team and player rating data  
 http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-combining-afl-team-and-player-data-in-a-predictive-model  
 10. Read statistical models
@@ -78,6 +90,7 @@ http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x
 11. Dashboards  
 http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
 https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team-dashboard-for-round-6.html  
+http://footymaths.blogspot.com/p/season-charts.html  
 12. weekly team stuff to include during season    
 lineup - http://www.afl.com.au/news/teams?round=1  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
