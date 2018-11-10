@@ -1,6 +1,7 @@
 
 ## dfGame.csv  
 scraped in scrapeAFL_game.R  
+GameID is unique primary key identifier  
 Classes ‘tbl_df’, ‘tbl’ and 'data.frame':	15407 obs. of  16 variables:  
  $ GameID      : num  1 2 3 4 5 6 7 8 9 10 ...  
  $ Date        : Date, format: "1897-05-08" "1897-05-08" ...  
