@@ -82,6 +82,8 @@ Bye round strategy - https://dreamteamtalk.com/2017/10/31/2018-afl-fixture-and-f
 https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-draft.html  
 http://forum.fanfooty.com.au/index.php/board,1.0.html
 http://www.saints.com.au/news/2018-03-20/afl-fantasy-traders-pick-their-round-1-team
+https://www.theguardian.com/news/datablog/2014/sep/26/afl-grand-final-hawthorn-sydney-swans-prediction  
+http://footymaths.blogspot.com/p/we-have-posted-before-on-this-blog.html  
 
 ## Stats for each Game
 |Status | Desc | Link |  
