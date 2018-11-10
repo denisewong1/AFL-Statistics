@@ -16,6 +16,8 @@ http://footymaths.blogspot.com/p/below-are-aggregated-end-of-season.html
 http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
 http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
+http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
+https://www.theage.com.au/sport/afl/afl-fixture-2017-tough-for-gws-giants-but-difficult-draw-neednt-mean-doom-and-gloom-20161027-gscf3a.html  
 To calculate Cmarg  
 Initial Rating = 1000  
 New Rating = Old Rating + k(i) * (Actual Margin - Expected Margin)  
@@ -64,6 +66,10 @@ https://www.matterofstats.com/mafl-stats-journal/2015/7/10/best-and-worst-afl-te
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
 https://hurlingpeoplenow.wordpress.com/2017/07/21/the-hpn-second-trimester-ish-awards-plus-round-17-team-ratings/  
 https://www.matterofstats.com/mafl-stats-journal/2015/12/7/the-2016-afl-draw-difficulty-and-distortion  
+http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
+http://www.matterofstats.com/mafl-stats-journal/2017/6/17/does-offence-or-defence-win-games  
+http://www.matterofstats.com/mafl-stats-journal/2017/8/10/how-close-has-the-2017-season-been  
+http://www.matterofstats.com/mafl-stats-journal/2017/6/9/tipping-accuracy-vs-mae-as-a-footy-forecaster-metric  
 4. Calculate home game advantage  
 http://www.matterofstats.com/mafl-stats-journal/2010/9/20/adding-some-spline-to-your-models.html   
 https://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
@@ -88,8 +94,14 @@ https://www.pro-football-reference.com/blog/index6b92.html?p=465
 https://hurlingpeoplenow.wordpress.com/2017/08/31/introducing-player-approximate-value-pav/  
 http://hurlingpeoplenow.tumblr.com/post/98964610922/hpn-draft-pick-trade-value-chart-v1  
 https://hurlingpeoplenow.wordpress.com/2017/09/02/the-2017-pav-all-australian-team/  
+http://www.matterofstats.com/mafl-stats-journal/2018/9/5/player-experience-data-analysis-and-modelling  
 9. Combining team and player rating data  
 http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-combining-afl-team-and-player-data-in-a-predictive-model  
+10.  Game scoring progression  
+https://afltables.com/afl/stats/games/2018/101420180906.html  
+https://afltables.com/afl/seas/2018.html#1  
+http://www.matterofstats.com/score-progressions/  
+http://www.matterofstats.com/mafl-stats-journal/2014/7/17/modelling-the-total-score-in-an-afl-game  
 10. Read statistical models
 http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
 http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
@@ -99,6 +111,10 @@ https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team
 http://footymaths.blogspot.com/p/season-charts.html  
 12. weekly team stuff to include during season    
 lineup - http://www.afl.com.au/news/teams?round=1  
+13.  Other interesting things  
+http://www.matterofstats.com/mafl-stats-journal/2017/2/20/selected-afl-twitter-networks  
+http://www.matterofstats.com/mafl-stats-journal/2014/3/7/attaching-probabilities-to-game-margins-the-magic-of-quantile-regression  
+
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
