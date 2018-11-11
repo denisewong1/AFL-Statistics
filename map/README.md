@@ -52,3 +52,23 @@ GameID and Team is unique primary key identifier
  $ Rank        : int  1 2 7 8 4 3 6 5 7 4 ...  
  
  
+ ## dfByeRound.csv  
+constructed in makeTbl_byeRound.R  
+Season, Round and Team is unique primary key identifier  
+data.frame':	35904 obs. of  4 variables:
+ $ Season: int  1897 1897 1897 1897 1897 1897 1897 1897 1898 1898 ...  
+ $ Team  : Factor w/ 20 levels "AD","BL","CA",..: 3 4 5 6 9 12 16 17 3 4 ...  
+ $ Round : Factor w/ 24 levels "R01","R02","R03",..: 1 1 1 1 1 1 1 1 1 1 ...  
+ $ Bye   : logi  FALSE FALSE FALSE FALSE FALSE FALSE ...  
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+ 
