@@ -70,9 +70,7 @@ http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-h
 http://www.matterofstats.com/mafl-stats-journal/2017/6/17/does-offence-or-defence-win-games  
 http://www.matterofstats.com/mafl-stats-journal/2017/8/10/how-close-has-the-2017-season-been  
 http://www.matterofstats.com/mafl-stats-journal/2017/6/9/tipping-accuracy-vs-mae-as-a-footy-forecaster-metric  
-4. Calculate home game advantage  
-http://www.matterofstats.com/mafl-stats-journal/2010/9/20/adding-some-spline-to-your-models.html   
-https://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
+4. Calculate home game advantage 
 http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
 5. Calculate interstate advantage  
