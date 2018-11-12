@@ -104,6 +104,9 @@ https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team
 http://footymaths.blogspot.com/p/season-charts.html  
 12. weekly team stuff to include during season    
 lineup - http://www.afl.com.au/news/teams?round=1  
+https://www.footywire.com/  
+https://www.footywire.com/afl/footy/tp-adelaide-crows  - alternate data source?  
+https://www.footywire.com/afl/footy/pr-geelong-cats--patrick-dangerfield  - fantasy history?  
 13.  Other interesting things  
 http://www.matterofstats.com/mafl-stats-journal/2017/2/20/selected-afl-twitter-networks  
 http://www.matterofstats.com/mafl-stats-journal/2014/3/7/attaching-probabilities-to-game-margins-the-magic-of-quantile-regression  
