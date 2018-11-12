@@ -17,7 +17,6 @@ http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=ch
 http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
 http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
 http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
-https://www.theage.com.au/sport/afl/afl-fixture-2017-tough-for-gws-giants-but-difficult-draw-neednt-mean-doom-and-gloom-20161027-gscf3a.html  
 To calculate Cmarg  
 Initial Rating = 1000  
 New Rating = Old Rating + k(i) * (Actual Margin - Expected Margin)  
