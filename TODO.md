@@ -58,7 +58,6 @@ https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-sch
 http://www.matterofstats.com/mafl-stats-journal/2013/9/11/upsets-and-mismatches-in-vflafl-finals-1897-to-2013.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/9/12/team-ratings-bookmaker-prices-and-the-recent-predictability.html  
 https://www.matterofstats.com/mafl-stats-journal/2014/11/9/whats-best-its-all-about-the-bases  
-https://www.matterofstats.com/mafl-stats-journal/2014/9/13/modelling-game-outcome-in-running  
 https://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
 https://www.matterofstats.com/mafl-stats-journal/2015/7/10/best-and-worst-afl-teams-2005-2015-a-mossbod-perspective  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
