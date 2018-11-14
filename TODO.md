@@ -65,6 +65,12 @@ http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-h
 http://www.matterofstats.com/mafl-stats-journal/2017/6/17/does-offence-or-defence-win-games  
 http://www.matterofstats.com/mafl-stats-journal/2017/8/10/how-close-has-the-2017-season-been  
 http://www.matterofstats.com/mafl-stats-journal/2017/6/9/tipping-accuracy-vs-mae-as-a-footy-forecaster-metric  
+http://troywheatley.blogspot.com/2011/02/introducing-afl-power-rankings-part.html  
+http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-17-2018.html  
+http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-15-2018.html  
+http://troywheatley.blogspot.com/2018/06/afl-power-rankings-round-13-2018.html  
+http://troywheatley.blogspot.com/2018/05/afl-power-rankings-round-7-2018.html  
+http://troywheatley.blogspot.com/2017/07/afl-power-rankings-round-16-2017.html  
 4. Calculate home game advantage  
 http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
@@ -88,6 +94,7 @@ https://hurlingpeoplenow.wordpress.com/2017/08/31/introducing-player-approximate
 http://hurlingpeoplenow.tumblr.com/post/98964610922/hpn-draft-pick-trade-value-chart-v1  
 https://hurlingpeoplenow.wordpress.com/2017/09/02/the-2017-pav-all-australian-team/  
 http://www.matterofstats.com/mafl-stats-journal/2018/9/5/player-experience-data-analysis-and-modelling  
+http://troywheatley.blogspot.com/2018/10/afl-statistics-series-1-which.html  
 9. Combining team and player rating data  
 http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-combining-afl-team-and-player-data-in-a-predictive-model  
 10.  Game scoring progression  
@@ -101,6 +108,7 @@ http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x
 11. Dashboards  
 http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
 https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team-dashboard-for-round-6.html  
+http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
 http://footymaths.blogspot.com/p/season-charts.html  
 12. weekly team stuff to include during season    
 lineup - http://www.afl.com.au/news/teams?round=1  
