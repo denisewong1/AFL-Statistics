@@ -71,6 +71,15 @@ http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-15-2018.html
 http://troywheatley.blogspot.com/2018/06/afl-power-rankings-round-13-2018.html  
 http://troywheatley.blogspot.com/2018/05/afl-power-rankings-round-7-2018.html  
 http://troywheatley.blogspot.com/2017/07/afl-power-rankings-round-16-2017.html  
+http://troywheatley.blogspot.com/2016/10/which-afl-club-has-easiest-fixture-in.html  
+http://troywheatley.blogspot.com/2012/05/what-has-happened-to-collingwood.html  
+http://mafl-stats.blogspot.com/2009/04/from-one-year-to-next-part-2.html  
+http://troywheatley.blogspot.com/2012/05/as-noted-in-this-weeks-afl-power.html  
+http://troywheatley.blogspot.com/2012/06/home-town-free-kick-bias-in-afl.html  
+http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
+http://troywheatley.blogspot.com/2016/05/afl-power-rankings-round-8-2016.html  
+http://figuringfooty.com/2016/06/29/goal-kicking-accuracy-maps-expscore/  
+http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14  
 4. Calculate home game advantage  
 http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
