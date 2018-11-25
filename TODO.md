@@ -17,35 +17,6 @@ http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=ch
 http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
 http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
 http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
-To calculate Cmarg  
-Initial Rating = 1000  
-New Rating = Old Rating + k(i) * (Actual Margin - Expected Margin)  
-Actual Margin = Points Scored - Points Conceded  
-Expected Margin (Home) = Difference in Rating + f * Difference in Form + s * Interstate Status + HGA(j)  
-Difference in Rating = Own Rating - Opponent Rating  
-Difference in Form = Change in Own Rating (last x games) - Change in Opponent Rating (last x games)  
-Rating for New Season = C x Rating at end of Previous Season + (1 - C) * 1000  
-To calculate Cprob  
-Probability of Home Team Win = psi(Expected Margin; mu = 0, sigma = sigma)  
-where  
-C = carryover parameter between seasons is in (0,1) interval = 60.99%  
-Cprob converts predicted margin Cmarg and converts it to estimated victor probability assuming normal distribution with mean zero and
-an optimally chosen sigma  
-Cmarg parameters chosen to minimise MAE across games for 10 year period  
-Cprob sigma chosen to minimise sum of log probability over same period  
-Parameter selection  
-Cmarg minimises Abs Error = |Actual Margin - Expected Margin|  
-Cprob minimises LPS = 1 + log(2)(Probability Attached to Winning Team)  
-k(i) and f and s and HGA(j) determined optimally via solving linear programming problem  
-k(i) such that  
-k(1) = rounds 1-6 = 9.72%
-k(2) = rounds 7-11= 6.17%  
-k(3) = rounds 12-17 = 6.41%  
-k(4) = rounds 18+ = 8.93%  
-k(5) = finals = 1.37%
-C = 60.99%  
-f = form difference = 0.653  
-s = interstate status = 5.568  
 The aim is to get an average MAE of less than 30 points per game at least    
 Other references and improvements to basic model  
 http://www.matterofstats.com/mafl-stats-journal/2013/12/8/optimising-the-very-simple-rating-system-vsrs.html  
