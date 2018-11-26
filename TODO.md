@@ -11,7 +11,12 @@ Consider small and big data sets which can be built to quicken the analysis
 http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-conversion-history-in-the-vflafl-1897-2015  
-3. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder    
+4. Calculate home game advantage  
+http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
+http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
+5. Calculate interstate advantage  
+6. Calculate home ground advantage and other venue stats  - done EDA_dfHGA.r  
+7. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder    
 http://footymaths.blogspot.com/p/below-are-aggregated-end-of-season.html  
 http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
@@ -51,12 +56,7 @@ http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-prob
 http://troywheatley.blogspot.com/2016/05/afl-power-rankings-round-8-2016.html  
 http://figuringfooty.com/2016/06/29/goal-kicking-accuracy-maps-expscore/  
 http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14  
-4. Calculate home game advantage  
-http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
-http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
-5. Calculate interstate advantage  
-6. Calculate home ground advantage and other venue stats  - done EDA_dfHGA.r  
-7. Look at game statistics that matter - relationship between game stats and game outcomes (final score), remove colinearity & high
+8. Look at game statistics that matter - relationship between game stats and game outcomes (final score), remove colinearity & high
 correlation stats  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html  
