@@ -55,8 +55,7 @@ http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-
 http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
 5. Calculate interstate advantage  
-6. Calculate venue experience  
-http://www.matterofstats.com/mafl-stats-journal/2013/12/22/estimating-team-and-venue-specific-home-ground-advantage-usi.html  
+6. Calculate home ground advantage and other venue stats  - done EDA_dfHGA.r 
 https://www.matterofstats.com/mafl-stats-journal/2015/9/17/team-by-team-and-venue-by-venue-conversion-rate-history  
 7. Look at game statistics that matter - relationship between game stats and game outcomes (final score), remove colinearity & high
 correlation stats  
