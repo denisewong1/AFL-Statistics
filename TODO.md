@@ -15,7 +15,13 @@ https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-convers
 http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
 5. Calculate interstate advantage  
-6. Calculate home ground advantage and other venue stats  - done EDA_dfHGA.r  
+6. Calculate home ground advantage and other venue stats  - EDA_dfHGA.r  
+- 001
+- 002
+- 003
+- 004
+- 005
+- 006
 7. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder    
 http://footymaths.blogspot.com/p/below-are-aggregated-end-of-season.html  
 http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
