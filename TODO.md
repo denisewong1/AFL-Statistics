@@ -209,6 +209,16 @@ https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors
 https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/  
 http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-explains-free-kick-counts-2017-afl-season  
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
+18. Fantasy Analysis  
+https://aflfantasies.com/2018/sale-of-the-century/  
+https://aflfantasies.com/2018/team-structure/  
+https://aflfantasies.com/2018/afl-draw/  
+https://aflfantasies.com/2018/buyer-beware-part-1/  
+https://magicnumbertheory.wordpress.com/2016/04/04/team-score-trends/  
+https://www.heraldsun.com.au/sport/afl/supercoach-news/supercoach-team-selection-five-winning-strategies/news-story/4e21d212919b25b6fef7f2f299512ada  
+http://forum.fanfooty.com.au/index.php/topic,70579.0.html  Price Change Formula 
+http://forum.fanfooty.com.au/index.php/topic,70541.0.html  Dream Team Strategy  
+http://forum.fanfooty.com.au/index.php/board,41.0.html  Forum for Fantasy  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
