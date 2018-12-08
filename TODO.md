@@ -119,16 +119,19 @@ https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-rid
 https://squiggle.com.au/how-impressive-was-dustys-game/  
 https://squiggle.com.au/is-patrick-dangerfield-having-a-better-2017-than-2016/  
 http://figuringfooty.com/2017/06/01/are-west-coast-too-dependent-on-kennedy/  
+http://insightlane.com/2018/10/15/buddy-900-and-benchmarking-the-greatest-goal-kickers-in-vfl-afl-history/  
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
 16.  Team Analysis  
 http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/  
+http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
 http://figuringfooty.com/2017/04/14/why-2017-results-are-flattering-the-cats/  
 https://thearcfooty.com/2017/07/04/sydneys-path-finals/  
 https://thearcfooty.com/2017/04/23/cant-eagles-fly/  
 https://hurlingpeoplenow.wordpress.com/2016/04/29/lets-rate-team-strength-and-do-a-round-6-preview/  
 http://hurlingpeoplenow.tumblr.com/post/100067599722/jarryd-haynes-prospects-in-the-nfl  
 https://hurlingpeoplenow.wordpress.com/2016/04/08/hpns-afl-round-3-preview/  
+http://insightlane.com/australian-football/scoreworm/  
 13.  Other interesting things  
 http://footymaths.blogspot.com/2017/03/2017-unpredictions-expected-wins.html  
 http://footymaths.blogspot.com/2017/03/2017-unpredictions-expected-finish.html  
