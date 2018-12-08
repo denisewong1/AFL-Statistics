@@ -92,6 +92,7 @@ http://troywheatley.blogspot.com/2018/10/afl-statistics-series-1-which.html
 9. Combining team and player rating data  
 http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-combining-afl-team-and-player-data-in-a-predictive-model  
 10.  Game scoring progression  
+https://squiggle.com.au/0-4-futures/  
 https://afltables.com/afl/stats/games/2018/101420180906.html  
 https://afltables.com/afl/seas/2018.html#1  
 http://www.matterofstats.com/score-progressions/  
