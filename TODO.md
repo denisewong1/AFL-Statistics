@@ -31,13 +31,15 @@ Data for home ground advantage is in dfHGA.csv - mean margin for home team at en
 http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
 http://footymaths.blogspot.com/p/below-are-aggregated-end-of-season.html  
 https://squiggle.com.au/squiggle-on-round-4/     
+http://www.matterofstats.com/mafl-stats-journal/2013/11/25/a-very-simple-team-ratings-system.html  
 http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
 http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
 http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
-https://squiggle.com.au/its-2018/
+https://squiggle.com.au/its-2018/  
 The aim is to get an average MAE of less than 30 points per game at least    
 Other references and improvements to basic model  
+https://squiggle.com.au/leaderboard/  
 http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
 http://www.matterofstats.com/mafl-stats-journal/2013/12/8/optimising-the-very-simple-rating-system-vsrs.html  
 https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
@@ -79,6 +81,7 @@ http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-anal
 http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
 http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversion-rates-how-predictable-are-they  
 8. Build a rating system for each player based on player stats  
+http://www.matterofstats.com/mafl-stats-journal/2018/11/21/classifying-recent-afl-players-by-position-part-4-2018-team-profiles-how-many-player-types-are-there  
 https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
 https://www.pro-football-reference.com/blog/index37a8.html  
 https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
