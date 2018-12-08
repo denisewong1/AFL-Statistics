@@ -79,8 +79,11 @@ http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-anal
 http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
 http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversion-rates-how-predictable-are-they  
 8. Build a rating system for each player based on player stats  
+https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
+https://www.pro-football-reference.com/blog/index37a8.html  
 https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
 http://www.hpnfooty.com/?p=27528  
+http://www.hpnfooty.com/?p=21810  
 https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
 https://www.pro-football-reference.com/blog/index37a8.html  
 https://www.pro-football-reference.com/blog/index6b92.html?p=465  
@@ -123,6 +126,9 @@ http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/
 http://figuringfooty.com/2017/04/14/why-2017-results-are-flattering-the-cats/  
 https://thearcfooty.com/2017/07/04/sydneys-path-finals/  
 https://thearcfooty.com/2017/04/23/cant-eagles-fly/  
+https://hurlingpeoplenow.wordpress.com/2016/04/29/lets-rate-team-strength-and-do-a-round-6-preview/  
+http://hurlingpeoplenow.tumblr.com/post/100067599722/jarryd-haynes-prospects-in-the-nfl  
+https://hurlingpeoplenow.wordpress.com/2016/04/08/hpns-afl-round-3-preview/  
 13.  Other interesting things  
 http://footymaths.blogspot.com/2017/03/2017-unpredictions-expected-wins.html  
 http://footymaths.blogspot.com/2017/03/2017-unpredictions-expected-finish.html  
@@ -152,6 +158,8 @@ http://www.espn.com/espn/feature/story/_/id/20231436/footy-forensics-afl-finals-
 https://squiggle.com.au/sydneys-path-to-the-finals/  
 https://hurlingpeoplenow.wordpress.com/2017/06/01/what-do-we-really-know-about-port-adelaide/  
 https://hurlingpeoplenow.wordpress.com/2017/06/15/anatomy-of-an-upset-how-do-afl-teams-overcome-the-odds-to-spring-a-big-win/  
+https://legacy.baseballprospectus.com/glossary/index.php?context=6&category=true  
+https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
