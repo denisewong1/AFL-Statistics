@@ -18,6 +18,7 @@ https://squiggle.com.au/how-the-fixture-screwed-st-kilda/
 http://www.hpnfooty.com/?p=27528  
 https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
 http://www.espn.com/espn/feature/story/_/id/19752486/footy-forensics-does-home-ground-advantage-exist  
+http://figuringfooty.com/2016/05/16/injuries-are-still-happening-far-too-often-at-etihad-stadium/  
 5. Calculate interstate advantage  
 6. Calculate home ground advantage and other venue stats  - EDA_dfHGA.r  
 > 001  
@@ -146,8 +147,20 @@ http://insightlane.com/australian-football/scoreworm/
 https://www.abc.net.au/news/2018-09-06/afl-finals-favourites-richmond-have-secret-tactic/10203884  
 https://plussixoneblog.com/post/leaping-kangaroos/  
 https://plussixoneblog.com/post/annus-horribilis-fremantle/  
+http://figuringfooty.com/2016/09/15/a-fresh-way-to-think-about-footy-hawthorn-v-western-bulldogs/  
+http://figuringfooty.com/2016/09/28/grand-final-preview-part-2-a-team-of-champions-or-a-champion-team/  
+http://figuringfooty.com/2015/08/12/how-the-best-teams-are-not-necessarily-the-ones-who-kick-the-most-goals/  
 13.  Other interesting things 
 http://www.afl.com.au/news/2017-12-28/stats-glossary-every-stat-explained  
+https://www.pro-football-reference.com/blog/indexd65e.html?cat=8  
+http://figuringfooty.com/2016/11/21/your-clubs-most-important-avenue-to-goal-score-involvements-in-2016/  
+https://hurlingpeoplenow.wordpress.com/2016/07/15/round-17-close-games-are-still-basically-random/  
+http://figuringfooty.com/2016/09/30/grand-final-preview-part-4-reader-questions/  
+http://figuringfooty.com/2016/08/08/match-analysis-using-shot-quality/  
+http://figuringfooty.com/2015/10/05/a-brief-analysis-of-scoring-shots-in-the-grand-final/  
+http://figuringfooty.com/2015/08/07/are-good-teams-straighter-shooters-than-poor-teams/  
+http://figuringfooty.com/2016/07/07/the-goal-kicking-accuracy-fallacy/  
+http://figuringfooty.com/2016/08/04/a-model-to-predict-and-rate-shots-by-quality/  
 http://www.afl.com.au/news/2018-06-05/the-stats-files-the-three-keys-to-winning-games-in-2018  
 https://www.abc.net.au/news/2017-09-07/what-chance-do-teams-really-have-of-winning-the-afl-grand-final/8862758  
 https://plussixoneblog.com/post/football-world-cup-datathon-part-2/  
