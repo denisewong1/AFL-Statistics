@@ -37,6 +37,10 @@ http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importanc
 http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
 http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
 https://squiggle.com.au/its-2018/  
+https://plussixoneblog.com/post/round-20-elo-simulations/  
+https://thearcfooty.com/2017/01/28/a-complete-history-of-the-afl/  
+https://plussixoneblog.com/post/grand-final-preview4/  
+https://plussixoneblog.com/post/round-results/  
 The aim is to get an average MAE of less than 30 points per game at least    
 Other references and improvements to basic model  
 https://squiggle.com.au/leaderboard/  
