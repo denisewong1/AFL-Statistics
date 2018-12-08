@@ -85,6 +85,7 @@ http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-ga
 http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-analysis-of-the-kicking-statistics-in-afl.html    
 http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
 http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversion-rates-how-predictable-are-they  
+http://www.espn.com/espn/feature/story/_/id/19235793/footy-forensics-afl-ruckmen-redundant  
 8. Build a rating system for each player based on player stats  
 http://www.matterofstats.com/mafl-stats-journal/2018/11/21/classifying-recent-afl-players-by-position-part-4-2018-team-profiles-how-many-player-types-are-there  
 https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
@@ -132,10 +133,13 @@ https://plussixoneblog.com/post/the-deledio-effect/
 https://plussixoneblog.com/post/the-tackle-machine/  
 https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5  
 http://www.afl.com.au/stats/player-ratings/ratings-explained  
+http://www.espn.com/espn/feature/story/_/id/19122983/footy-forensics-statistics-champion-team-team-champions-2017-afl-season?ex_cid=espnTW_ANZL  
+http://www.espn.com/espn/feature/story/_/id/20355634/footy-forensics-statistics-west-coast-josh-kennedy-season-ages  
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
 16.  Team Analysis  
 http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/  
+http://www.espn.com/espn/feature/story/_/id/20157852/footy-forensics-sydney-swans-rewrite-history-how-done-it  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
 http://figuringfooty.com/2017/04/14/why-2017-results-are-flattering-the-cats/  
 https://thearcfooty.com/2017/07/04/sydneys-path-finals/  
@@ -151,6 +155,7 @@ http://figuringfooty.com/2016/09/15/a-fresh-way-to-think-about-footy-hawthorn-v-
 http://figuringfooty.com/2016/09/28/grand-final-preview-part-2-a-team-of-champions-or-a-champion-team/  
 http://figuringfooty.com/2015/08/12/how-the-best-teams-are-not-necessarily-the-ones-who-kick-the-most-goals/  
 13.  Other interesting things 
+https://thearcfooty.com/2017/04/23/arcs-first-birthday/  
 http://www.afl.com.au/news/2017-12-28/stats-glossary-every-stat-explained  
 https://www.pro-football-reference.com/blog/indexd65e.html?cat=8  
 http://figuringfooty.com/2016/11/21/your-clubs-most-important-avenue-to-goal-score-involvements-in-2016/  
@@ -198,6 +203,9 @@ https://hurlingpeoplenow.wordpress.com/2017/06/01/what-do-we-really-know-about-p
 https://hurlingpeoplenow.wordpress.com/2017/06/15/anatomy-of-an-upset-how-do-afl-teams-overcome-the-odds-to-spring-a-big-win/  
 https://legacy.baseballprospectus.com/glossary/index.php?context=6&category=true  
 https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors  
+https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/  
+http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-explains-free-kick-counts-2017-afl-season  
+http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
