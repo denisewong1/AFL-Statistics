@@ -16,6 +16,8 @@ http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-groun
 http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
 https://squiggle.com.au/how-the-fixture-screwed-st-kilda/  
 http://www.hpnfooty.com/?p=27528  
+https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
+http://www.espn.com/espn/feature/story/_/id/19752486/footy-forensics-does-home-ground-advantage-exist  
 5. Calculate interstate advantage  
 6. Calculate home ground advantage and other venue stats  - EDA_dfHGA.r  
 > 001  
@@ -26,13 +28,17 @@ http://www.hpnfooty.com/?p=27528
 > 006  
 Data for home ground advantage is in dfHGA.csv - mean margin for home team at end of each game
 7. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder    
+http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
 http://footymaths.blogspot.com/p/below-are-aggregated-end-of-season.html  
+https://squiggle.com.au/squiggle-on-round-4/     
 http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
 http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
 http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
+https://squiggle.com.au/its-2018/
 The aim is to get an average MAE of less than 30 points per game at least    
 Other references and improvements to basic model  
+http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
 http://www.matterofstats.com/mafl-stats-journal/2013/12/8/optimising-the-very-simple-rating-system-vsrs.html  
 https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
 http://www.matterofstats.com/mafl-stats-journal/2011/8/28/mars-ratings-how-important-are-teams-initial-ratings.html   
@@ -74,6 +80,7 @@ http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-sco
 http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversion-rates-how-predictable-are-they  
 8. Build a rating system for each player based on player stats  
 https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
+http://www.hpnfooty.com/?p=27528  
 https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
 https://www.pro-football-reference.com/blog/index37a8.html  
 https://www.pro-football-reference.com/blog/index6b92.html?p=465  
@@ -102,10 +109,48 @@ lineup - http://www.afl.com.au/news/teams?round=1
 https://www.footywire.com/  
 https://www.footywire.com/afl/footy/tp-adelaide-crows  - alternate data source?  
 https://www.footywire.com/afl/footy/pr-geelong-cats--patrick-dangerfield  - fantasy history?  
+13.  Draft Picks  
+https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-riding-this-year/  
+14.  Player Analysis  
+https://squiggle.com.au/how-impressive-was-dustys-game/  
+https://squiggle.com.au/is-patrick-dangerfield-having-a-better-2017-than-2016/  
+http://figuringfooty.com/2017/06/01/are-west-coast-too-dependent-on-kennedy/  
+15.  Bye Rounds  
+http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
+16.  Team Analysis  
+http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/  
+http://figuringfooty.com/2017/04/14/why-2017-results-are-flattering-the-cats/  
+https://thearcfooty.com/2017/07/04/sydneys-path-finals/  
+https://thearcfooty.com/2017/04/23/cant-eagles-fly/  
 13.  Other interesting things  
+http://footymaths.blogspot.com/2017/03/2017-unpredictions-expected-wins.html  
+http://footymaths.blogspot.com/2017/03/2017-unpredictions-expected-finish.html  
+http://figuringfooty.com/2017/06/28/every-shot-in-the-2017-coleman-medal-race/  
+http://footymaths.blogspot.com/2017/06/15-score-review.html  
+http://footymaths.blogspot.com/2017/03/1-summer-of-footballing-love.html  
+http://footymaths.blogspot.com/2017/07/16-transition-rendition.html  
+https://squiggle.com.au/who-will-make-the-finals-the-wisdom-of-crowds-the-arc/  
+https://thearcfooty.com/2017/02/16/who-do-you-think-will-make-the-finals/  
+http://footymaths.blogspot.com/2017/03/post-jlt-break.html  
+https://squiggle.com.au/who-won-the-pre-season/  
 http://www.matterofstats.com/mafl-stats-journal/2017/2/20/selected-afl-twitter-networks  
+https://hurlingpeoplenow.wordpress.com/2017/04/07/the-archpn-crossover-dont-stress-if-your-team-is-0-2/  
+http://figuringfooty.com/2017/04/18/the-secret-weapon-of-the-afls-best-forward-line/  
+https://squiggle.com.au/how-surprising-were-the-round-7-results/  
 http://www.matterofstats.com/mafl-stats-journal/2014/3/7/attaching-probabilities-to-game-margins-the-magic-of-quantile-regression  
-
+https://hurlingpeoplenow.wordpress.com/2017/04/21/are-north-and-hawthorn-bad-or-have-they-just-faced-a-tough-draw/  
+https://hurlingpeoplenow.wordpress.com/2017/03/30/what-does-winning-in-round-1-mean/  
+https://thearcfooty.com/2017/04/02/3055/  
+http://www.espn.com/espn/feature/story/_/id/19013312/footy-forensics-statistics-prove-crunch-already-2017-afl-season  
+http://www.espn.com/espn/feature/story/_/id/19501873/footy-forensics-your-afl-club-key-game-trend-part-ii  
+http://www.espn.com/espn/feature/story/_/id/19449458/footy-forensics-your-afl-club-key-game-trend  
+https://squiggle.com.au/time-in-front-vs-wins/  
+https://squiggle.com.au/how-close-has-the-2017-season-been-matter-of-stats/  
+http://figuringfooty.com/2017/08/10/the-quality-and-quantity-of-shots-created-by-each-club/  
+http://www.espn.com/espn/feature/story/_/id/20231436/footy-forensics-afl-finals-swing-which-games-matter-most  
+https://squiggle.com.au/sydneys-path-to-the-finals/  
+https://hurlingpeoplenow.wordpress.com/2017/06/01/what-do-we-really-know-about-port-adelaide/  
+https://hurlingpeoplenow.wordpress.com/2017/06/15/anatomy-of-an-upset-how-do-afl-teams-overcome-the-odds-to-spring-a-big-win/  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
