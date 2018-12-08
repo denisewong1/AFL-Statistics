@@ -39,7 +39,7 @@ http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models
 http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
 https://squiggle.com.au/its-2018/  
 https://plussixoneblog.com/post/round-20-elo-simulations/  
-https://thearcfooty.com/2017/01/28/a-complete-history-of-the-afl/  
+https://thearcfooty.com/2016/12/29/introducing-the-arcs-ratings-system/  
 https://plussixoneblog.com/post/grand-final-preview4/  
 https://plussixoneblog.com/post/round-results/  
 https://projects.fivethirtyeight.com/complete-history-of-the-nfl/  
@@ -158,6 +158,9 @@ http://figuringfooty.com/2016/09/15/a-fresh-way-to-think-about-footy-hawthorn-v-
 http://figuringfooty.com/2016/09/28/grand-final-preview-part-2-a-team-of-champions-or-a-champion-team/  
 http://figuringfooty.com/2015/08/12/how-the-best-teams-are-not-necessarily-the-ones-who-kick-the-most-goals/  
 13.  Other interesting things 
+https://fantasyfootballanalytics.net/2014/10/download-run-r-scripts.html  
+https://github.com/FantasyFootballAnalytics/FantasyFootballAnalyticsR/tree/master/R%20Scripts  
+https://github.com/fivethirtyeight/nfl-elo-game  
 https://thearcfooty.com/2017/04/23/arcs-first-birthday/  
 http://www.afl.com.au/news/2017-12-28/stats-glossary-every-stat-explained  
 https://www.pro-football-reference.com/blog/indexd65e.html?cat=8  
