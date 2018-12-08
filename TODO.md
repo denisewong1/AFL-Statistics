@@ -42,6 +42,9 @@ https://plussixoneblog.com/post/round-20-elo-simulations/
 https://thearcfooty.com/2017/01/28/a-complete-history-of-the-afl/  
 https://plussixoneblog.com/post/grand-final-preview4/  
 https://plussixoneblog.com/post/round-results/  
+https://projects.fivethirtyeight.com/complete-history-of-the-nfl/  
+https://projects.fivethirtyeight.com/2018-nfl-predictions/?ex_cid=rrpromo  
+https://fivethirtyeight.com/features/introducing-nfl-elo-ratings/  
 The aim is to get an average MAE of less than 30 points per game at least    
 Other references and improvements to basic model  
 https://squiggle.com.au/leaderboard/  
