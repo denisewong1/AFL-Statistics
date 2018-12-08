@@ -219,6 +219,16 @@ https://www.heraldsun.com.au/sport/afl/supercoach-news/supercoach-team-selection
 http://forum.fanfooty.com.au/index.php/topic,70579.0.html  Price Change Formula 
 http://forum.fanfooty.com.au/index.php/topic,70541.0.html  Dream Team Strategy  
 http://forum.fanfooty.com.au/index.php/board,41.0.html  Forum for Fantasy  
+https://aflfantasies.com/2018/buyer-beware-part-2/  
+https://aflfantasies.com/2018/band-brothers-part-3/  
+https://aflfantasies.com/2018/band-brothers-part-2/  
+https://aflfantasies.com/2018/band-brothers-part-1/  
+http://forum.fanfooty.com.au/index.php/topic,79955.0.html  Bye Round Strategy  
+http://forum.fanfooty.com.au/index.php/topic,73340.0.html  Bye Round Strategy  
+https://www.bigfooty.com/forum/threads/how-is-a-players-price-calculated.687914/  
+https://www.footywire.com/afl/footy/dream_team_breakevens  
+https://www.footywire.com/afl/footy/pr-melbourne-demons--charlie-spargo  
+http://forum.fanfooty.com.au/index.php/topic,2155.msg10584.html#msg10584  Price Formula  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
