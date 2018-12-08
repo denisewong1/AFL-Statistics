@@ -14,6 +14,8 @@ https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-convers
 4. Calculate home game advantage  
 http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
+https://squiggle.com.au/how-the-fixture-screwed-st-kilda/  
+http://www.hpnfooty.com/?p=27528  
 5. Calculate interstate advantage  
 6. Calculate home ground advantage and other venue stats  - EDA_dfHGA.r  
 > 001  
