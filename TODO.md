@@ -30,9 +30,7 @@ http://figuringfooty.com/2016/05/16/injuries-are-still-happening-far-too-often-a
 Data for home ground advantage is in dfHGA.csv - mean margin for home team at end of each game
 7. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder    
 http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
-http://footymaths.blogspot.com/p/below-are-aggregated-end-of-season.html  
-https://squiggle.com.au/squiggle-on-round-4/     
-http://www.matterofstats.com/mafl-stats-journal/2013/11/25/a-very-simple-team-ratings-system.html  
+http://footymaths.blogspot.com/p/below-are-aggregated-end-of-season.html      
 http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
 http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
