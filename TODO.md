@@ -11,46 +11,52 @@ Consider small and big data sets which can be built to quicken the analysis
 http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-conversion-history-in-the-vflafl-1897-2015  
-4. Calculate home game advantage  
-http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
-http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html  
-https://squiggle.com.au/how-the-fixture-screwed-st-kilda/  
-http://www.hpnfooty.com/?p=27528  
-https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
-http://www.espn.com/espn/feature/story/_/id/19752486/footy-forensics-does-home-ground-advantage-exist  
-http://figuringfooty.com/2016/05/16/injuries-are-still-happening-far-too-often-at-etihad-stadium/  
-5. Calculate interstate advantage  
-6. Calculate home ground advantage and other venue stats  - EDA_dfHGA.r  
+4. Calculate home game advantage and other venue stats - EDA_dfHGA.r  
+Data for home ground advantage is in dfHGA.csv - mean margin for home team at end of each game  
 > 001  
 > 002  
 > 003  
 > 004  
 > 005  
+> 006 
+HGA using Random Forest - http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
+Fixture and HGA - https://squiggle.com.au/how-the-fixture-screwed-st-kilda/  
+http://www.hpnfooty.com/?p=27528  
+HGA for each team by Season Games - https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
+Home vs Interstate at Home Ground, Percentage of Games won by Home Ground, Players on Home Ground - http://www.espn.com/espn/feature/story/_/id/19752486/footy-forensics-does-home-ground-advantage-exist  
+Injuries by Venue - http://figuringfooty.com/2016/05/16/injuries-are-still-happening-far-too-often-at-etihad-stadium/  
+5. Calculate interstate advantage  
+Excess Venue Experience - http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html   
+6. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder - EDAv20.r  
+Data is stored in dfEDAv20.csv  
+> 001    
+> 002  
+> 003  
+> 004  
+> 005  
 > 006  
-Data for home ground advantage is in dfHGA.csv - mean margin for home team at end of each game
-7. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder    
-http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
-http://footymaths.blogspot.com/p/below-are-aggregated-end-of-season.html      
-http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
-http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
-http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
+Improvements needed - predictive accuracy falls over time, recalculate using 5 year windows, recalculate k factors.  Take into account lack of accuracy in early rounds.    
+Normalisation of games over a long history   
+Close Games - http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
+Change in Form - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
+Interstate status - http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
+Interstatus status and recent form - http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
 http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
-https://squiggle.com.au/its-2018/  
+Goal kicking accuracy and early round accuracy - https://squiggle.com.au/its-2018/  
 https://plussixoneblog.com/post/round-20-elo-simulations/  
-https://thearcfooty.com/2016/12/29/introducing-the-arcs-ratings-system/  
+Team experience on each ground, Distance travelled - https://thearcfooty.com/2016/12/29/introducing-the-arcs-ratings-system/  
 https://plussixoneblog.com/post/grand-final-preview4/  
-https://plussixoneblog.com/post/round-results/  
-https://projects.fivethirtyeight.com/complete-history-of-the-nfl/  
+Using ELO to tell a story - https://thearcfooty.com/2017/01/28/a-complete-history-of-the-afl/  
+Benchmark my results - https://plussixoneblog.com/post/round-results/  
+Data visualisation -  https://projects.fivethirtyeight.com/complete-history-of-the-nfl/  
 https://projects.fivethirtyeight.com/2018-nfl-predictions/?ex_cid=rrpromo  
-https://fivethirtyeight.com/features/introducing-nfl-elo-ratings/  
-The aim is to get an average MAE of less than 30 points per game at least    
+The aim is to get an average MAE of less than 30 points per game at least  - my MAE is 26ish  
 Other references and improvements to basic model  
-https://squiggle.com.au/leaderboard/  
-http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
+Benchmarking - https://squiggle.com.au/leaderboard/  
+Visualisation - http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
 http://www.matterofstats.com/mafl-stats-journal/2013/12/8/optimising-the-very-simple-rating-system-vsrs.html  
 https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
-http://www.matterofstats.com/mafl-stats-journal/2011/8/28/mars-ratings-how-important-are-teams-initial-ratings.html   
-http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
+Defensive and Offensive Ratings - http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
 http://www.matterofstats.com/mafl-stats-journal/2015/11/1/an-improved-vflafl-team-rating-system-mossbods-20  
 http://www.matterofstats.com/mafl-stats-journal/2017/1/5/team-rating-revisited-a-rival-for-mossbods  
 https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
@@ -77,8 +83,8 @@ http://troywheatley.blogspot.com/2012/05/as-noted-in-this-weeks-afl-power.html
 http://troywheatley.blogspot.com/2012/06/home-town-free-kick-bias-in-afl.html  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
 http://troywheatley.blogspot.com/2016/05/afl-power-rankings-round-8-2016.html  
-http://figuringfooty.com/2016/06/29/goal-kicking-accuracy-maps-expscore/  
-http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14  
+Another model - http://figuringfooty.com/the-figuring-footy-predictions/  
+Use it to simulate outcomes for future matches - http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14  
 8. Look at game statistics that matter - relationship between game stats and game outcomes (final score), remove colinearity & high
 correlation stats  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
@@ -87,7 +93,7 @@ http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-anal
 http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
 http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversion-rates-how-predictable-are-they  
 http://www.espn.com/espn/feature/story/_/id/19235793/footy-forensics-afl-ruckmen-redundant  
-8. Build a rating system for each player based on player stats  
+7. Build a rating system for each player based on player stats  
 http://www.matterofstats.com/mafl-stats-journal/2018/11/21/classifying-recent-afl-players-by-position-part-4-2018-team-profiles-how-many-player-types-are-there  
 https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
 https://www.pro-football-reference.com/blog/index37a8.html  
