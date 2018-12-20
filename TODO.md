@@ -59,14 +59,12 @@ https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-
 Defensive and Offensive Ratings - http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
 http://www.matterofstats.com/mafl-stats-journal/2015/11/1/an-improved-vflafl-team-rating-system-mossbods-20  
 http://www.matterofstats.com/mafl-stats-journal/2017/1/5/team-rating-revisited-a-rival-for-mossbods  
-https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
-http://www.matterofstats.com/mafl-stats-journal/2013/9/12/team-ratings-bookmaker-prices-and-the-recent-predictability.html  
-https://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
+how does ratings during the regular season stack up in the finals rounds?  
 https://www.matterofstats.com/mafl-stats-journal/2015/7/10/best-and-worst-afl-teams-2005-2015-a-mossbod-perspective  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
 https://hurlingpeoplenow.wordpress.com/2017/07/21/the-hpn-second-trimester-ish-awards-plus-round-17-team-ratings/  
 https://www.matterofstats.com/mafl-stats-journal/2015/12/7/the-2016-afl-draw-difficulty-and-distortion  
-http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
+benchmarking other models - http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
 http://www.matterofstats.com/mafl-stats-journal/2017/6/17/does-offence-or-defence-win-games  
 http://www.matterofstats.com/mafl-stats-journal/2017/8/10/how-close-has-the-2017-season-been  
 http://www.matterofstats.com/mafl-stats-journal/2017/6/9/tipping-accuracy-vs-mae-as-a-footy-forecaster-metric  
@@ -74,7 +72,6 @@ http://troywheatley.blogspot.com/2011/02/introducing-afl-power-rankings-part.htm
 http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-17-2018.html  
 http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-15-2018.html  
 http://troywheatley.blogspot.com/2018/06/afl-power-rankings-round-13-2018.html  
-http://troywheatley.blogspot.com/2018/05/afl-power-rankings-round-7-2018.html  
 http://troywheatley.blogspot.com/2017/07/afl-power-rankings-round-16-2017.html  
 http://troywheatley.blogspot.com/2016/10/which-afl-club-has-easiest-fixture-in.html  
 http://troywheatley.blogspot.com/2012/05/what-has-happened-to-collingwood.html  
