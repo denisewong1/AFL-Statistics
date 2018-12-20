@@ -2,6 +2,9 @@
 1. Document architecture and names here.  The order should be  -  
 Season -> Round -> Game -> Venue -> Team -> Position -> Player (Profile, Stats & Fantasy)   
 Each of these should have their own id and mapping tables which should be uploaded at the start of each run   
+Table fivethirtyeight - https://cfss.uchicago.edu/hw02-explore-data.html  
+https://flowingdata.com/tag/fivethirtyeight/  
+http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html  
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
 Consider which table contains information for mapping and id tables  
@@ -27,6 +30,9 @@ Home vs Interstate at Home Ground, Percentage of Games won by Home Ground, Playe
 Injuries by Venue - http://figuringfooty.com/2016/05/16/injuries-are-still-happening-far-too-often-at-etihad-stadium/  
 5. Calculate interstate advantage  
 Excess Venue Experience - http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html   
+coordinate distance calc - https://stackoverflow.com/questions/32363998/function-to-calculate-geospatial-distance-between-two-points-lat-long-using-r  
+https://stackoverflow.com/questions/44773789/using-distm-function-in-r-to-calculate-distance-between-two-coordinates-gives-a  
+https://stackoverflow.com/questions/29585759/calculating-distances-from-latitude-and-longitude-coordinates-in-r  
 6. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder - EDAv20.r  
 Data is stored in dfEDAv20.csv  
 > 001    
@@ -37,6 +43,8 @@ Data is stored in dfEDAv20.csv
 > 006  
 Improvements needed - predictive accuracy falls over time, recalculate using 5 year windows, recalculate k factors.  Take into account lack of accuracy in early rounds.    
 Normalisation of games over a long history   
+ELO analysis - http://pier4r.wikidot.com/pierworks:articles:2017-06:elo-inights  
+MOV adjustments - http://andr3w321.com/elo-ratings-part-2-margin-of-victory-adjustments/  
 Close Games - http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
 Change in Form - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 Interstate status - http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
