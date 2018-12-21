@@ -24,7 +24,6 @@ Data for home ground advantage is in dfHGA.csv - mean margin for home team at en
 > 005  
 > 006 
 HGA using Random Forest - http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
-Fixture and HGA - https://squiggle.com.au/how-the-fixture-screwed-st-kilda/  
 http://www.hpnfooty.com/?p=27528  
 HGA for each team by Season Games - https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
 Home vs Interstate at Home Ground, Percentage of Games won by Home Ground, Players on Home Ground - http://www.espn.com/espn/feature/story/_/id/19752486/footy-forensics-does-home-ground-advantage-exist  
