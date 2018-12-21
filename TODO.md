@@ -51,7 +51,6 @@ Interstate status - http://www.matterofstats.com/mafl-stats-journal/2013/9/24/th
 Interstatus status and recent form - http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
 http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
 Goal kicking accuracy and early round accuracy - https://squiggle.com.au/its-2018/  
-https://plussixoneblog.com/post/round-20-elo-simulations/  
 Team experience on each ground, Distance travelled - https://thearcfooty.com/2016/12/29/introducing-the-arcs-ratings-system/  
 https://plussixoneblog.com/post/grand-final-preview4/  
 Using ELO to tell a story - https://thearcfooty.com/2017/01/28/a-complete-history-of-the-afl/  
