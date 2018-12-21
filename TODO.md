@@ -73,6 +73,7 @@ https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-t
 https://hurlingpeoplenow.wordpress.com/2017/07/21/the-hpn-second-trimester-ish-awards-plus-round-17-team-ratings/  
 https://www.matterofstats.com/mafl-stats-journal/2015/12/7/the-2016-afl-draw-difficulty-and-distortion  
 benchmarking other models - http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
+Using ELO - https://plussixoneblog.com/post/grand-final-preview4/  
 https://stattraction.wordpress.com/2018/08/23/predictions-after-round-22-2018/  
 https://stattraction.wordpress.com/2018/03/27/ladder-prediction-after-round-1-2018/  
 https://stattraction.wordpress.com/2018/03/20/ladder-prediction-ratings-before-round-1-2018-and-some-housekeeping/  
