@@ -25,7 +25,7 @@ Data for home ground advantage is in dfHGA.csv - mean margin for home team at en
 > 006 
 HGA using Random Forest - http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
 http://www.hpnfooty.com/?p=27528  
-HGA for each team by Season Games - https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
+2018 fixture Analysis - https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
 Home vs Interstate at Home Ground, Percentage of Games won by Home Ground, Players on Home Ground - http://www.espn.com/espn/feature/story/_/id/19752486/footy-forensics-does-home-ground-advantage-exist  
 Injuries by Venue - http://figuringfooty.com/2016/05/16/injuries-are-still-happening-far-too-often-at-etihad-stadium/  
 5. Calculate interstate advantage  
