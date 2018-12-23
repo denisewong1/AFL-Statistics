@@ -93,6 +93,16 @@ http://troywheatley.blogspot.com/2012/06/home-town-free-kick-bias-in-afl.html
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
 http://troywheatley.blogspot.com/2016/05/afl-power-rankings-round-8-2016.html  
 Another model - http://figuringfooty.com/the-figuring-footy-predictions/  
+https://github.com/cfranklin11/footy-tipper  
+https://towardsdatascience.com/toward-a-better-footy-tipping-model-an-analysis-of-basic-heuristics-80de4235e768  
+https://medium.com/@craigjfranklin/toward-a-better-footy-tipping-model-the-folly-of-memory-9351670abe19  
+https://blog.goodaudience.com/toward-a-better-footy-tipping-model-the-first-model-bbc8c67a472a  
+https://towardsdatascience.com/footy-tipping-with-machine-learning-adding-player-data-9ccdab56a4c5  
+Model accuracy - http://old.clubelo.com/Articles/HowaccurateistheElosystemanditspredictions.html  
+declining hga - http://old.clubelo.com/Articles/Themysteriousdeclineofhomeadvantage.html  
+factor - http://old.clubelo.com/Articles/Two-LegGames.html  
+weight index - http://old.clubelo.com/Articles/WeightIndex.html  
+poisson and histogram - http://old.clubelo.com/Articles/AdaptivePoissonparametersandresulthistogram.html  
 Use it to simulate outcomes for future matches - http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14  
 8. Look at game statistics that matter - relationship between game stats and game outcomes (final score), remove colinearity & high
 correlation stats  
