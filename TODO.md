@@ -253,6 +253,12 @@ https://www.bigfooty.com/forum/threads/how-is-a-players-price-calculated.687914/
 https://www.footywire.com/afl/footy/dream_team_breakevens  
 https://www.footywire.com/afl/footy/pr-melbourne-demons--charlie-spargo  
 http://forum.fanfooty.com.au/index.php/topic,2155.msg10584.html#msg10584  Price Formula  
+https://magicnumbertheory.wordpress.com/2016/08/12/prices-and-bes-after-r21/#more-5036  Breakevens and change weekly  
+https://magicnumbertheory.wordpress.com/2016/08/19/scoring-trends-after-r21/  Team trends  
+https://magicnumbertheory.wordpress.com/2016/04/27/magic-number-after-r5/#more-1356  Breakeven calculation  
+https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/  Bye Planner  
+https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy  
+https://magicnumbertheory.wordpress.com/pricing-formula/  Price Formula  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
