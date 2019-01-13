@@ -1,4 +1,4 @@
-
+All match results from 1897 to current from https://afltables.com/afl/stats/biglists/bg3.txt  
 
 data.frame':	15407 obs. of  18 variables:  
  $ GameID         : int  1 2 3 4 5 6 7 8 9 10 ...  
