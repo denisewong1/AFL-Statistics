@@ -1,5 +1,5 @@
 All match results from 1897 to current from https://afltables.com/afl/stats/biglists/bg3.txt  
-Scraper : scrapeAFL_game.R
+Scraper : scrapeAFL_game.R in https://github.com/denisewong1/AFL-Statistics/blob/master/code/scrapeAFL_game.R
 Read : read_dfGame()
 
 
