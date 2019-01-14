@@ -1,5 +1,5 @@
 All fantasy data from 2010 to current from https://www.footywire.com/afl/footy/dream_team_round  
-Scraper : scrapeAFL_fantasy.R in https://github.com/denisewong1/AFL-Statistics/blob/master/code/scrapeAFL_game.R  
+Scraper : scrapeAFL_fantasy.R in https://github.com/denisewong1/AFL-Statistics/blob/master/code/scrapeAFL_fantasy.R  
 Read : read_dfFtsy()  
 
 'data.frame':	76912 obs. of  13 variables:  
