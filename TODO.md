@@ -143,6 +143,7 @@ http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashbo
 https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team-dashboard-for-round-6.html  
 http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
 http://footymaths.blogspot.com/p/season-charts.html  
+https://aflfantasies.com/2019/happy-new-years/  comparing player performance visually  
 12. weekly team stuff to include during season    
 lineup - http://www.afl.com.au/news/teams?round=1  
 https://www.footywire.com/  
@@ -259,6 +260,7 @@ https://magicnumbertheory.wordpress.com/2016/04/27/magic-number-after-r5/#more-1
 https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/  Bye Planner  
 https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy  
 https://magicnumbertheory.wordpress.com/pricing-formula/  Price Formula  
+https://aflfantasies.com/2018/sale-of-the-century/  breakevens calculation  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
