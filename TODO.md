@@ -242,7 +242,6 @@ https://aflfantasies.com/2018/afl-draw/
 https://aflfantasies.com/2018/buyer-beware-part-1/  
 https://magicnumbertheory.wordpress.com/2016/04/04/team-score-trends/  
 https://www.heraldsun.com.au/sport/afl/supercoach-news/supercoach-team-selection-five-winning-strategies/news-story/4e21d212919b25b6fef7f2f299512ada  
-http://forum.fanfooty.com.au/index.php/topic,70541.0.html  Dream Team Strategy  
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
 https://aflfantasies.com/2018/band-brothers-part-2/  
