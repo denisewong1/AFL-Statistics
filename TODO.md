@@ -238,7 +238,6 @@ http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 18. Fantasy Analysis  
 https://aflfantasies.com/2018/sale-of-the-century/  
-https://aflfantasies.com/2018/team-structure/  
 https://aflfantasies.com/2018/afl-draw/  
 https://aflfantasies.com/2018/buyer-beware-part-1/  
 https://magicnumbertheory.wordpress.com/2016/04/04/team-score-trends/  
