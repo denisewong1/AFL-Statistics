@@ -5,7 +5,6 @@ Each of these should have their own id and mapping tables which should be upload
 Table fivethirtyeight - https://cfss.uchicago.edu/hw02-explore-data.html  
 https://flowingdata.com/tag/fivethirtyeight/  
 http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html  
-windowing dplyr functions - https://cran.r-project.org/web/packages/dplyr/vignettes/window-functions.html  
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
 Consider which table contains information for mapping and id tables  
