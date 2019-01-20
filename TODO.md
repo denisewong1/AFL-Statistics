@@ -276,6 +276,14 @@ https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ outpu
 https://dreamteamtalk.com/2013/04/18/mythbusting-dt-insider-guest-post/ strategies  
 https://dreamteamtalk.com/2012/02/01/2012-fixture-study/  fixture study  
 https://freako.championdata.com/2018/Fantasy_Freako_Rd_19.pdf cheatsheet  
+https://dreamteamtalk.com/category/resources/the-game/  
+https://dreamteamtalk.com/category/resources/sample-teams/  
+https://dreamteamtalk.com/category/weekly-features/inside-the-numbers/  
+https://dreamteamtalk.com/category/season/draft-game/  
+https://dreamteamtalk.com/category/season/fixture/  
+https://dreamteamtalk.com/author/aflratings/  
+https://dreamteamtalk.com/2018/12/02/roys-best-22-for-2019-december-edition/  
+https://dreamteamtalk.com/2019/01/19/roys-best-22-for-2019-january-edition/  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
