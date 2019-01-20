@@ -3,8 +3,7 @@
 Season -> Round -> Game -> Venue -> Team -> Position -> Player (Profile, Stats & Fantasy)   
 Each of these should have their own id and mapping tables which should be uploaded at the start of each run   
 Table fivethirtyeight - https://cfss.uchicago.edu/hw02-explore-data.html  
-https://flowingdata.com/tag/fivethirtyeight/  
-http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html  
+Chart formatting - https://flowingdata.com/tag/fivethirtyeight/ ; http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html ; http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles   
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
 Consider which table contains information for mapping and id tables  
