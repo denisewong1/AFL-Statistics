@@ -146,6 +146,7 @@ http://footymaths.blogspot.com/p/season-charts.html
 https://aflfantasies.com/2019/happy-new-years/  comparing player performance visually  
 https://sqldusty.wordpress.com/2015/08/01/power-bi-fantasy-football-player-stats-dashboards-for-download/ powerbi  
 http://www.sqlservercentral.com/blogs/sql-with-dustin-ryan/2016/08/23/power-bi-nfl-fantasy-football-2016-reports/  powerbi  
+http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf fantasy team  
 12. weekly team stuff to include during season    
 lineup - http://www.afl.com.au/news/teams?round=1  
 https://www.footywire.com/  
@@ -238,6 +239,7 @@ https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors
 https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/  
 http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-explains-free-kick-counts-2017-afl-season  
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
+https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/  
 18. Fantasy Analysis  
 https://aflfantasies.com/2018/sale-of-the-century/  
 https://aflfantasies.com/2018/afl-draw/  
@@ -265,6 +267,15 @@ Pricing at Season Start - Players are priced based on last season's output, and 
 http://www.fantasyfootyclub.com/showthread.php?1488-Calculating-initial-starting-price-price-changes-and-BEs - breakeven  
 https://www.dreamteamtalk.com/?s=magic+number - magic number  
 https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet  
+https://dreamteamtalk.com/2011/04/24/75-x-old-price-25-x-current-magic-number-x-3-game-rolling-average/ magic number  
+https://dreamteamtalk.com/2012/12/18/the-magic-number-revisited/  magic number  
+https://dreamteamtalk.com/2011/03/01/the-magic-number/ magic number  
+https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/ bye round strategy  
+https://dreamteamtalk.com/2010/04/27/dream-team-101-breakevens/ breakevens  
+https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ output vs expectations  
+https://dreamteamtalk.com/2013/04/18/mythbusting-dt-insider-guest-post/ strategies  
+https://dreamteamtalk.com/2012/02/01/2012-fixture-study/  fixture study  
+https://freako.championdata.com/2018/Fantasy_Freako_Rd_19.pdf cheatsheet  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
