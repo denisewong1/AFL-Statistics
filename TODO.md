@@ -144,6 +144,8 @@ https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team
 http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
 http://footymaths.blogspot.com/p/season-charts.html  
 https://aflfantasies.com/2019/happy-new-years/  comparing player performance visually  
+https://sqldusty.wordpress.com/2015/08/01/power-bi-fantasy-football-player-stats-dashboards-for-download/ powerbi  
+http://www.sqlservercentral.com/blogs/sql-with-dustin-ryan/2016/08/23/power-bi-nfl-fantasy-football-2016-reports/  powerbi  
 12. weekly team stuff to include during season    
 lineup - http://www.afl.com.au/news/teams?round=1  
 https://www.footywire.com/  
