@@ -260,6 +260,9 @@ https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Str
 https://magicnumbertheory.wordpress.com/pricing-formula/  Price Formula  
 https://aflfantasies.com/2018/sale-of-the-century/  breakevens calculation  
 Pricing at Season Start - Players are priced based on last season's output, and those who played fewer than 10 games receive a discount which many will see as value to help squeeze the most bang-for-buck out of the $12.8m salary cap for 2019.  Salary Cap for 2018 is $12.6m, for 2017 is $11.0m.  Look at last 3 season average points.
+http://www.fantasyfootyclub.com/showthread.php?1488-Calculating-initial-starting-price-price-changes-and-BEs - breakeven  
+https://www.dreamteamtalk.com/?s=magic+number - magic number  
+https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet  
 13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
 
 ## Fantasy Strategy  
