@@ -2,6 +2,8 @@ All fantasy data from 2010 to current from https://www.footywire.com/afl/footy/d
 Scraper : scrapeAFL_fantasy.R in https://github.com/denisewong1/AFL-Statistics/blob/master/code/scrapeAFL_fantasy.R  
 Read : read_dfFtsy()  
 
+To Add : ImpliedMN, 3GameAvg, Breakeven to new table
+
 'data.frame':	76912 obs. of  13 variables:  
  $ Name      : Factor w/ 1391 levels "Ablett, Gary",..: 1 2 3 4 5 6 7 8 10 11 ...  
  $ Team      : Factor w/ 18 levels "AD","BL","CA",..: 7 10 2 15 15 3 4 10 13 1 ...  
