@@ -114,6 +114,7 @@ http://www.espn.com/espn/feature/story/_/id/19235793/footy-forensics-afl-ruckmen
 7. Build a rating system for each player based on player stats  
 http://www.matterofstats.com/mafl-stats-journal/2018/11/21/classifying-recent-afl-players-by-position-part-4-2018-team-profiles-how-many-player-types-are-there  
 https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
+https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
 https://www.pro-football-reference.com/blog/index37a8.html  
 https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
 http://www.hpnfooty.com/?p=27528  
