@@ -242,12 +242,10 @@ https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/
 18. Fantasy Analysis  
 https://aflfantasies.com/2018/sale-of-the-century/  
 https://aflfantasies.com/2018/afl-draw/  
-https://aflfantasies.com/2018/buyer-beware-part-1/  
 https://magicnumbertheory.wordpress.com/2016/04/04/team-score-trends/  
-https://www.heraldsun.com.au/sport/afl/supercoach-news/supercoach-team-selection-five-winning-strategies/news-story/4e21d212919b25b6fef7f2f299512ada  
+https://www.heraldsun.com.au/sport/afl/supercoach-news/supercoach-team-selection-five-winning-strategies/news-story/4e21d212919b25b6fef7f2f299512ada   
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
-https://aflfantasies.com/2018/band-brothers-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-1/  
 http://forum.fanfooty.com.au/index.php/topic,79955.0.html  Bye Round Strategy  
 http://forum.fanfooty.com.au/index.php/topic,73340.0.html  Bye Round Strategy  
