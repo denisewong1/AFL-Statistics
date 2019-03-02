@@ -184,10 +184,27 @@ http://figuringfooty.com/2016/09/15/a-fresh-way-to-think-about-footy-hawthorn-v-
 http://figuringfooty.com/2016/09/28/grand-final-preview-part-2-a-team-of-champions-or-a-champion-team/  
 http://figuringfooty.com/2015/08/12/how-the-best-teams-are-not-necessarily-the-ones-who-kick-the-most-goals/  
 13.  Other interesting things 
+https://medium.com/fantasy-outliers/hey-everyone-we-beat-espn-part-1-background-and-methodology-4bba1cc89a75  
+https://www.armchairanalysis.com/  
+https://medium.com/fantasy-outliers  
+https://www.datarobot.com/sports-analytics/  
+https://www.datarobot.com/wiki/feature-impact/  
+https://blog.datarobot.com/using-datarobot-to-predict-nba-player-performance  
+https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1  
+https://becominghuman.ai/a-i-fantasy-football-week-to-week-projections-e7f8895e9cb1  
+https://arxiv.org/pdf/1604.01455v2.pdf  
+http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
+http://web.stanford.edu/class/cs221/2018/restricted/posters/macdow/poster.pdf  
+https://www.quora.com/How-could-I-use-machine-learning-to-do-better-in-my-fantasy-football-league-and-is-there-anywhere-to-get-data-for-this-purpose  
+https://fantasyfootballers.quora.com/  
+https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
+https://www.kdnuggets.com/2018/08/optimization-101-data-scientists.html  
 https://fantasyfootballanalytics.net/2014/10/download-run-r-scripts.html  
 https://github.com/FantasyFootballAnalytics/FantasyFootballAnalyticsR/tree/master/R%20Scripts  
 https://github.com/fivethirtyeight/nfl-elo-game  
 https://thearcfooty.com/2017/04/23/arcs-first-birthday/  
+https://github.com/BriBecker/FantasyFootballAnalyticsR  
+https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
 http://www.afl.com.au/news/2017-12-28/stats-glossary-every-stat-explained  
 https://www.pro-football-reference.com/blog/indexd65e.html?cat=8  
 http://figuringfooty.com/2016/11/21/your-clubs-most-important-avenue-to-goal-score-involvements-in-2016/  
