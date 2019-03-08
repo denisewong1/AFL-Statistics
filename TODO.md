@@ -258,42 +258,32 @@ http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changin
 https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/  
 18. Fantasy Analysis  
 https://aflfantasies.com/2018/sale-of-the-century/  
-https://aflfantasies.com/2018/afl-draw/  
-https://magicnumbertheory.wordpress.com/2016/04/04/team-score-trends/  
 https://www.heraldsun.com.au/sport/afl/supercoach-news/supercoach-team-selection-five-winning-strategies/news-story/4e21d212919b25b6fef7f2f299512ada   
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
 https://aflfantasies.com/2018/band-brothers-part-1/  
-http://forum.fanfooty.com.au/index.php/topic,79955.0.html  Bye Round Strategy  
-http://forum.fanfooty.com.au/index.php/topic,73340.0.html  Bye Round Strategy  
 https://www.bigfooty.com/forum/threads/how-is-a-players-price-calculated.687914/  
-https://www.footywire.com/afl/footy/dream_team_breakevens  
 https://www.footywire.com/afl/footy/pr-melbourne-demons--charlie-spargo  
 http://forum.fanfooty.com.au/index.php/topic,2155.msg10584.html#msg10584  Price Formula  
 https://magicnumbertheory.wordpress.com/2016/08/12/prices-and-bes-after-r21/#more-5036  Breakevens and change weekly  
 https://magicnumbertheory.wordpress.com/2016/08/19/scoring-trends-after-r21/  Team trends  
 https://magicnumbertheory.wordpress.com/2016/04/27/magic-number-after-r5/#more-1356  Breakeven calculation  
-https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/  Bye Planner  
 https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy  
 https://magicnumbertheory.wordpress.com/pricing-formula/  Price Formula  
 https://aflfantasies.com/2018/sale-of-the-century/  breakevens calculation  
-Pricing at Season Start - Players are priced based on last season's output, and those who played fewer than 10 games receive a discount which many will see as value to help squeeze the most bang-for-buck out of the $12.8m salary cap for 2019.  Salary Cap for 2018 is $12.6m, for 2017 is $11.0m.  Look at last 3 season average points.
 http://www.fantasyfootyclub.com/showthread.php?1488-Calculating-initial-starting-price-price-changes-and-BEs - breakeven  
 https://www.dreamteamtalk.com/?s=magic+number - magic number  
 https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet  
 https://dreamteamtalk.com/2011/04/24/75-x-old-price-25-x-current-magic-number-x-3-game-rolling-average/ magic number  
 https://dreamteamtalk.com/2012/12/18/the-magic-number-revisited/  magic number  
 https://dreamteamtalk.com/2011/03/01/the-magic-number/ magic number  
-https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/ bye round strategy  
 https://dreamteamtalk.com/2010/04/27/dream-team-101-breakevens/ breakevens  
 https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ output vs expectations  
 https://dreamteamtalk.com/2013/04/18/mythbusting-dt-insider-guest-post/ strategies  
 https://dreamteamtalk.com/2012/02/01/2012-fixture-study/  fixture study  
 https://freako.championdata.com/2018/Fantasy_Freako_Rd_19.pdf cheatsheet  
 https://dreamteamtalk.com/category/resources/the-game/  
-https://dreamteamtalk.com/category/resources/sample-teams/  
 https://dreamteamtalk.com/category/weekly-features/inside-the-numbers/  
-https://dreamteamtalk.com/category/season/draft-game/  
 https://dreamteamtalk.com/category/season/fixture/  
 https://dreamteamtalk.com/author/aflratings/  
 https://dreamteamtalk.com/2018/12/02/roys-best-22-for-2019-december-edition/  
