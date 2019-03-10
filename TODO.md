@@ -257,25 +257,18 @@ http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/  
 18. Fantasy Analysis  
-https://aflfantasies.com/2018/sale-of-the-century/  
 https://www.heraldsun.com.au/sport/afl/supercoach-news/supercoach-team-selection-five-winning-strategies/news-story/4e21d212919b25b6fef7f2f299512ada   
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
 https://aflfantasies.com/2018/band-brothers-part-1/  
-https://www.bigfooty.com/forum/threads/how-is-a-players-price-calculated.687914/  
-https://www.footywire.com/afl/footy/pr-melbourne-demons--charlie-spargo  
-http://forum.fanfooty.com.au/index.php/topic,2155.msg10584.html#msg10584  Price Formula  
 https://magicnumbertheory.wordpress.com/2016/08/12/prices-and-bes-after-r21/#more-5036  Breakevens and change weekly  
 https://magicnumbertheory.wordpress.com/2016/08/19/scoring-trends-after-r21/  Team trends  
 https://magicnumbertheory.wordpress.com/2016/04/27/magic-number-after-r5/#more-1356  Breakeven calculation  
 https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy  
-https://magicnumbertheory.wordpress.com/pricing-formula/  Price Formula  
-https://aflfantasies.com/2018/sale-of-the-century/  breakevens calculation  
+https://magicnumbertheory.wordpress.com/pricing-formula/  Price Formula    
 http://www.fantasyfootyclub.com/showthread.php?1488-Calculating-initial-starting-price-price-changes-and-BEs - breakeven  
 https://www.dreamteamtalk.com/?s=magic+number - magic number  
-https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet  
-https://dreamteamtalk.com/2011/04/24/75-x-old-price-25-x-current-magic-number-x-3-game-rolling-average/ magic number  
-https://dreamteamtalk.com/2012/12/18/the-magic-number-revisited/  magic number  
+https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet   
 https://dreamteamtalk.com/2011/03/01/the-magic-number/ magic number  
 https://dreamteamtalk.com/2010/04/27/dream-team-101-breakevens/ breakevens  
 https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ output vs expectations  
@@ -292,16 +285,13 @@ https://dreamteamtalk.com/2019/01/19/roys-best-22-for-2019-january-edition/
 
 ## Fantasy Strategy  
 1. Pick the right rookies  
-2. Plan for bye rounds  
-3. 12 premium players  
-4. Bulk of scorers are from midfield  
-5. Scores of best 18 players from overall match squad for bye rounds  
-6. Trade injured players immediately  
-7. Find a measure of consistency  
-8. Identify undervalued aspects of player performance – this is more important than accuracy  
-9. Use a two year history  
-10. 100 point player – consistency, valuation  
-11. Distribution of points earned FO/DE/MI/RU  
-12. Margin of victory impact on fantasy points  
-13. Breakeven point score for each player – try to guess?  
-14. Use expert starting team in lineup – rookies midpriced and stars  
+2. 12 premium players  
+3. Bulk of scorers are from midfield  
+4. Scores of best 18 players from overall match squad for bye rounds  
+5. Trade injured players immediately  
+6. Find a measure of consistency  
+7. Identify undervalued aspects of player performance – this is more important than accuracy  
+8. Use a two year history  
+9. 100 point player – consistency, valuation  
+10. Margin of victory impact on fantasy points  
+11. Breakeven point score for each player – try to guess?  
