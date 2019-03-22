@@ -4,7 +4,6 @@
 https://fantasy.afl.com.au/landing/index.html#/landing   
 http://www.matterofstats.com/  
 https://github.com/jimmyday12/fitzRoy  
-http://sorensen.com.au/footyworks.html  
 http://www.afl.com.au/match-centre/2017/1/carl-v-rich  
 https://dreamteamtalk.com/2018/11/01/2019-afl-fixture-and-fantasy/  
 
