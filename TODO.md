@@ -92,6 +92,7 @@ http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-prob
 http://troywheatley.blogspot.com/2016/05/afl-power-rankings-round-8-2016.html  
 Another model - http://figuringfooty.com/the-figuring-footy-predictions/  
 https://github.com/cfranklin11/footy-tipper  
+https://multithreaded.stitchfix.com/blog/2016/11/22/nba-rankings/  
 https://towardsdatascience.com/toward-a-better-footy-tipping-model-an-analysis-of-basic-heuristics-80de4235e768  
 https://medium.com/@craigjfranklin/toward-a-better-footy-tipping-model-the-folly-of-memory-9351670abe19  
 https://blog.goodaudience.com/toward-a-better-footy-tipping-model-the-first-model-bbc8c67a472a  
