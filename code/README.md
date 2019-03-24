@@ -1,11 +1,11 @@
-Weekly scrapers
+## Scrapers
 
-AFL scrapers for www.afl.com
-1. Team Lineup - scrapeAFL_teamlineup 
+|Source | Frequency | Desc | Scraper | Link |   
+|--- |--- |--- |--- | --- |   
+|AFLT | Weekly | Team Lineup | scrapeAFLT_teamlineup | https://www.afl.com.au/match-centre/2012/1/gws-v-syd |  
+|AFL | Anytime | Game | scrapeAFLT_game | https://afltables.com/afl/stats/biglists/bg3.txt |   
+|FTW | Weekly | Fixture | scrapeFTW_fixture | https://www.footywire.com/afl/footy/ft_match_list?year=2017 |   
 
-Footywire scrapers for www.footywire.com
-1. Fixture - scrapeFTW_fixture
+Sources :
+AFLT : www.afltables.com, AFL : www.afl.com, FTW : www.footywire.com
 
-
-AFL Table scrapers for www.afltables.com
-1. Games - scrapeAFLT_game
