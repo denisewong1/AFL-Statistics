@@ -1,5 +1,5 @@
-## Scrapers by Page  
-Because the websites have different formats for player names
+## Scrapers 
+Scrapers for each individual page because the websites have different formats for player names.
 
 |Source | Frequency | Desc | Scraper | Link |   
 |--- |--- |--- |--- | --- |   
