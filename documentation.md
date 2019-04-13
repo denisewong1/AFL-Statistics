@@ -25,14 +25,18 @@ Project Organization
     |         ├── YYYY_ftsyPx.csv  
     |         ├── YYYY_idPlayer.csv  
     |         └── YYYY_nameMap.csv      
-    │   └── raw  
+    │   ├── raw  
     │      ├── season
     |         ├── YYYY_FTWfixture.csv  
     |         └── curr_FTWbreakevens.csv    
     │      └── weekly  
     |         ├── YYYYRxx_AFLadvancedstats.csv  
     |         ├── YYYYRxx_AFLteamlineup.csv  
-    |         └── YYYYRxx_FTWstats.csv        
+    |         └── YYYYRxx_FTWstats.csv   
+    │   └── simulations 
+    |         ├── LP00x_YYYY_PL.csv
+    |         ├── LP00x_YYYY_Score.csv
+    |         └── LP00x_YYYY_Team.csv   
     ├── docs
     ├── notebooks
     ├── reports
