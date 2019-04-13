@@ -13,10 +13,13 @@ Project Organization
     ├── bin
     ├── config
     ├── data
-    │   ├── external
-    │   ├── interim
+    │   ├── external  
+    │   ├── interim  
+    │      └── weekly  
     │   ├── processed
-    │   └── raw
+    │   └── raw  
+    │      ├── season
+    │      └── weekly  
     ├── docs
     ├── notebooks
     ├── reports
