@@ -19,9 +19,18 @@ Project Organization
     │   ├── interim  
     │      └── weekly  
     │   ├── processed
+    |         ├── YYYY_ftsyPt.csv  
+    |         ├── YYYY_ftsyPx.csv  
+    |         ├── YYYY_idPlayer.csv  
+    |         └── YYYY_nameMap.csv      
     │   └── raw  
     │      ├── season
+    |         ├── YYYY_FTWfixture.csv  
+    |         └── curr_FTWbreakevens.csv    
     │      └── weekly  
+    |         ├── YYYYRxx_AFLadvancedstats.csv  
+    |         ├── YYYYRxx_AFLteamlineup.csv  
+    |         └── YYYYRxx_FTWstats.csv        
     ├── docs
     ├── notebooks
     ├── reports
