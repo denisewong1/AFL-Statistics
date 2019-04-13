@@ -2,6 +2,8 @@
 Documentation Structure
 https://drivendata.github.io/cookiecutter-data-science/#directory-structure  
 https://github.com/mkrapp/cookiecutter-reproducible-science/tree/master/%7B%7Bcookiecutter.project_slug%7D%7D  
+https://nicercode.github.io/blog/2013-04-05-projects/  
+https://nicercode.github.io/blog/2013-05-17-organising-my-project/  
 
 Project Organization
 --------------------
