@@ -18,6 +18,8 @@ Project Organization
     │   ├── external  
     │   ├── interim  
     │      └── weekly  
+    |         ├── YYYYRxx_ftsyPt.csv  
+    |         └── YYYYRxx_ftsyPx.csv         
     │   ├── processed
     |         ├── YYYY_ftsyPt.csv  
     |         ├── YYYY_ftsyPx.csv  
