@@ -21,6 +21,7 @@ Project Organization
     |         ├── YYYYRxx_ftsyPt.csv  
     |         └── YYYYRxx_ftsyPx.csv         
     │   ├── processed
+    |         ├── YYYY_features.csv  
     |         ├── YYYY_ftsyPt.csv  
     |         ├── YYYY_ftsyPx.csv  
     |         ├── YYYY_idPlayer.csv  
