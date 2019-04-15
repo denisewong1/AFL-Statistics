@@ -267,15 +267,11 @@ https://magicnumbertheory.wordpress.com/2016/08/19/scoring-trends-after-r21/  Te
 https://magicnumbertheory.wordpress.com/2016/04/27/magic-number-after-r5/#more-1356  Breakeven calculation  
 https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy  
 https://magicnumbertheory.wordpress.com/pricing-formula/  Price Formula    
-http://www.fantasyfootyclub.com/showthread.php?1488-Calculating-initial-starting-price-price-changes-and-BEs - breakeven  
-https://www.dreamteamtalk.com/?s=magic+number - magic number  
-https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet   
-https://dreamteamtalk.com/2011/03/01/the-magic-number/ magic number  
-https://dreamteamtalk.com/2010/04/27/dream-team-101-breakevens/ breakevens  
+http://www.fantasyfootyclub.com/showthread.php?1488-Calculating-initial-starting-price-price-changes-and-BEs - breakeven   
+https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet     
 https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ output vs expectations  
 https://dreamteamtalk.com/2013/04/18/mythbusting-dt-insider-guest-post/ strategies  
-https://dreamteamtalk.com/2012/02/01/2012-fixture-study/  fixture study  
-https://freako.championdata.com/2018/Fantasy_Freako_Rd_19.pdf cheatsheet  
+https://dreamteamtalk.com/2012/02/01/2012-fixture-study/  fixture study   
 https://dreamteamtalk.com/category/resources/the-game/  
 https://dreamteamtalk.com/category/weekly-features/inside-the-numbers/  
 https://dreamteamtalk.com/category/season/fixture/  
