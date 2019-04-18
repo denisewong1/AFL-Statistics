@@ -258,12 +258,10 @@ http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/  
 18. Fantasy Analysis  
-https://www.heraldsun.com.au/sport/afl/supercoach-news/supercoach-team-selection-five-winning-strategies/news-story/4e21d212919b25b6fef7f2f299512ada   
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
 https://aflfantasies.com/2018/band-brothers-part-1/  
 https://magicnumbertheory.wordpress.com/2016/08/12/prices-and-bes-after-r21/#more-5036  Breakevens and change weekly  
-https://magicnumbertheory.wordpress.com/2016/08/19/scoring-trends-after-r21/  Team trends  
 https://magicnumbertheory.wordpress.com/2016/04/27/magic-number-after-r5/#more-1356  Breakeven calculation  
 https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy  
 https://magicnumbertheory.wordpress.com/pricing-formula/  Price Formula    
@@ -273,12 +271,22 @@ https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ outpu
 https://dreamteamtalk.com/2013/04/18/mythbusting-dt-insider-guest-post/ strategies  
 https://dreamteamtalk.com/2012/02/01/2012-fixture-study/  fixture study   
 https://dreamteamtalk.com/category/resources/the-game/  
-https://dreamteamtalk.com/category/weekly-features/inside-the-numbers/  
-https://dreamteamtalk.com/category/season/fixture/  
-https://dreamteamtalk.com/author/aflratings/  
-https://dreamteamtalk.com/2018/12/02/roys-best-22-for-2019-december-edition/  
+https://dreamteamtalk.com/2018/10/06/2017-18-ha-season-player-average-comparison-western-bulldogs/
+https://dreamteamtalk.com/author/aflratings/   
 https://dreamteamtalk.com/2019/01/19/roys-best-22-for-2019-january-edition/  
-13. from Justin - The team stats by round are under the same website but under the team tab.  There are extra stats under the the advanced options but you cant view them all at once. They are not needed for AFL fantasy but I like to run some stats on them.
+19. Breakeven Analysis - build a calculator  
+
+http://supercoachtalk.com/cow-talk-round-9/  
+http://supercoachtalk.com/cow-talk-round-3/  
+http://supercoachtalk.com/pay-attention-to-the-math-behind-the-curtain/ - try this  
+http://supercoachtalk.com/how-supercoach-prices-work/  
+http://supercoachtalk.com/burning-answers-danger-ous-math/  
+http://supercoachtalk.com/how-supercoach-pricing-works/  
+http://supercoachtalk.com/guns-and-rookies-or-go-home/  
+http://supercoachtalk.com/supercoach-quick-team-picking-guide-2018/  
+http://supercoachtalk.com/cow-talk-round-16-3/  
+http://supercoachtalk.com/72506-2/  
+
 
 ## Fantasy Strategy  
 1. Pick the right rookies  
