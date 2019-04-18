@@ -1,24 +1,17 @@
 # AFL-Statistics
 
 ### Resources
-https://fantasy.afl.com.au/landing/index.html#/landing   
 http://www.matterofstats.com/  
 https://github.com/jimmyday12/fitzRoy  
-http://www.afl.com.au/match-centre/2017/1/carl-v-rich  
 https://dreamteamtalk.com/2018/11/01/2019-afl-fixture-and-fantasy/  
-
 http://www.afl.com.au/news/2018-10-19/fantasy-players-to-watch-from-the-trade-period  
-http://www.afl.com.au/news/trade/trade-tracker  
 https://api.squiggle.com.au/  
 https://squiggle.com.au/the-squiggle-api/  
-http://www.afl.com.au/stats/stats-pro/faqs  
-
 
 
 Machine Learning Model - https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731  
 Reddit - https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
-Free Kick Differential - https://www.reddit.com/r/AFL/comments/8eqyfq/does_the_freekick_differential_really_matter_how/  
-Tips - http://www.afl.com.au/news/2014-07-03/learning-some-new-lines  
+Free Kick Differential - https://www.reddit.com/r/AFL/comments/8eqyfq/does_the_freekick_differential_really_matter_how/   
 Stanford - http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
 RMIT - https://researchbank.rmit.edu.au/eserv/rmit:160744/Ryall.pdf   
 RMIT - https://researchbank.rmit.edu.au/eserv/rmit:8567/n2006006216.pdf   
@@ -37,7 +30,6 @@ Dream Stats - http://dream-stats.com/
 AFL Stats - http://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
 http://www.aussportstipping.com/sports/afl/elo_ratings/
 http://www.aussportsbetting.com/category/afl/
-https://www.reddit.com/user/AFL_gains  
 https://www.reddit.com/r/AFL/comments/96eq2d/data_mining_identifies_5_types_of_football_play/  
 https://aflratings.com.au/category/injuries/ - injury report  
 http://dailyfantasysportsaustralia.com/category/tools-explained/   
@@ -54,78 +46,31 @@ http://www.matterofstats.com/mafl-stats-journal/2011/8/18/the-2011-performance-o
 http://www.matterofstats.com/mafl-stats-journal/2011/8/3/predicting-the-home-teams-final-margin-a-competition-amongst.html  
 https://www.researchgate.net/publication/289801869_An_Analytical_Approach_for_Fantasy_Football_Draft_and_Lineup_Management  
 https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
-https://www.datarobot.com/wiki/feature-impact/  
 https://medium.com/fantasy-outliers/can-machine-learning-can-help-improve-your-fantasy-football-draft-4ceea1f1b2bd  
 https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
 https://towardsdatascience.com/machine-learning-meets-fantasy-football-part-2-36632a27328c  
 https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1  
 https://dreamteamtalk.com/category/resources/sample-teams/  
 https://dreamteamtalk.com/category/resources/dt-101/the-game/  
-http://dailyfantasysportsaustralia.com/afl-fantasy-points-allowed-position/  
 https://dreamteamtalk.com/2012/09/12/what-makes-a-mid-pricer-worth-it/  
 https://dreamteamtalk.com/2017/09/11/the-2017-optimal-afl-fantasy-team-finally-proves-link-between-genius-and-madness/  
 https://dreamteamtalk.com/2018/08/01/how-do-you-compare-to-the-top-100-afl-fantasy-coaches-finals-2018/  
 https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/  
-https://www.fantasystars.com.au/afl/afl-fantasy-points-calculated  
-https://www.fantasystars.com.au/reviews/2017-afl-supercoach-season-review  
-https://www.fantasystars.com.au/afl/afl-round-1-injury-round-up  
 https://aflfantasies.com/2018/the-basic-strategy/  
 https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/afl-analysis-should-favourite-stacks-include-the-defenders  
-https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/the-3-secrets-to-winning-at-australian-daily-fantasy-sports  
 https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds  
 https://www.fantasyinsider.com.au/blog/AFL/a-beginners-guide-to-afl-dfs-game-day-strategies  
 http://forum.fantasyinsider.com.au/d/18-afl-round-8-points-tables-discussion  
-https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds  
 https://www.fantasyinsider.com.au/blog/Site%20News/now-available-nrl-afl-draft-guides  
-Bye round strategy - https://dreamteamtalk.com/2017/10/31/2018-afl-fixture-and-fantasy/  
 https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-draft.html  
 http://forum.fanfooty.com.au/index.php/board,1.0.html
-http://www.saints.com.au/news/2018-03-20/afl-fantasy-traders-pick-their-round-1-team
 https://www.theguardian.com/news/datablog/2014/sep/26/afl-grand-final-hawthorn-sydney-swans-prediction  
 http://footymaths.blogspot.com/p/we-have-posted-before-on-this-blog.html  
 
-## Stats for each Game
-|Status | Desc | Link |  
-|--- |--- |--- |  
-|done | Games Chronological | https://afltables.com/afl/stats/biglists/bg3.txt  |  
-|    | Scores and Results by season | https://afltables.com/afl/seas/2018.html |   
-|    | Betting Odds for Game | http://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/ | 
 
-## Stats for each Player 
-|Status | Desc | Link |  
-|--- |--- |--- |  
-|done | Game by Game Player Stats | https://afltables.com/afl/stats/teams/adelaide/2018_gbg.html |  
-|XXXX | Game by Game Player Stats | https://afltables.com/afl/stats/2018a.html |  
-|done | Player Profiles | https://afltables.com/afl/stats/alltime/adelaide.html |  
-|done  | Player Positions |https://www.footywire.com/afl/footy/dream_team_round?year=2018&round=23&p=DE&s=S |  
-|done  | Player Prices |https://www.footywire.com/afl/footy/dream_team_round?year=2018&round=1&p=&s=T |  
-
-## Stats for each Team
-List of Teams - https://afltables.com/afl/afl_index.html  
-Player List by Team - https://afltables.com/afl/stats/teams/adelaide.html  
 
 ## Venues
 https://afltables.com/afl/venues/overall.html  
-
-## Map of Data   
-id as prefix below indicates that this is a unique identifier.  
-
-|idSeason | idTeam | idName | idRound | idStat | Value | File | DataFrame | Description |   
-|--------- |------ |------- |-------- |------- |------ |----- |---------- |----- |      
-| XXX | XXX | XXX | XXX | XXX | XXX | StatCount | 2018_player_gbg.csv | TBA | Game by Game Player Stats |   
-
-Logistic Regression model - use glm family = binomial, coursera course 7 week 4 - http://data.princeton.edu/R/glms.html
-
-## Output Variables
-1. Game - Win Margin; Win %  
-2. Player - FantasyPt, FantasyPx, FantasyPxChg, FantasyPtChg     
-
-|Model | Predictor | Description |
-|----- |------ |------- |      
-|done  | team  | Linear Programming to optimise FtsyVal given constraints |
-|done  | match | Linear Programming to optimise FtsyPt given constraints |
-|XXX  | position | ML classification of player position using player gbg statistics |
-
 
 ## Questions & Order of Analysis    
 1.  Given all the information above and perfect hindsight, can we pick the "ideal" team at any point in time?  Answer : we can build it using linear programming.  The problem we run into is that the players have played in multiple positions during the season.  So we need to go back and figure out the best way to classify players position given their skills performance and attributes (eg height) => question 2.  
