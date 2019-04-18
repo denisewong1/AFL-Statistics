@@ -148,10 +148,7 @@ https://sqldusty.wordpress.com/2015/08/01/power-bi-fantasy-football-player-stats
 http://www.sqlservercentral.com/blogs/sql-with-dustin-ryan/2016/08/23/power-bi-nfl-fantasy-football-2016-reports/  powerbi  
 http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf fantasy team  
 12. weekly team stuff to include during season    
-lineup - http://www.afl.com.au/news/teams?round=1  
-https://www.footywire.com/  
 https://www.footywire.com/afl/footy/tp-adelaide-crows  - alternate data source?  
-https://www.footywire.com/afl/footy/pr-geelong-cats--patrick-dangerfield  - fantasy history?  
 13.  Draft Picks  
 https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-riding-this-year/  
 14.  Player Analysis  
@@ -260,12 +257,10 @@ https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/
 18. Fantasy Analysis  
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
-https://aflfantasies.com/2018/band-brothers-part-1/  
 https://magicnumbertheory.wordpress.com/2016/08/12/prices-and-bes-after-r21/#more-5036  Breakevens and change weekly  
 https://magicnumbertheory.wordpress.com/2016/04/27/magic-number-after-r5/#more-1356  Breakeven calculation  
 https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy  
 https://magicnumbertheory.wordpress.com/pricing-formula/  Price Formula    
-http://www.fantasyfootyclub.com/showthread.php?1488-Calculating-initial-starting-price-price-changes-and-BEs - breakeven   
 https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet     
 https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ output vs expectations  
 https://dreamteamtalk.com/2013/04/18/mythbusting-dt-insider-guest-post/ strategies  
@@ -275,9 +270,6 @@ https://dreamteamtalk.com/2018/10/06/2017-18-ha-season-player-average-comparison
 https://dreamteamtalk.com/author/aflratings/   
 https://dreamteamtalk.com/2019/01/19/roys-best-22-for-2019-january-edition/  
 19. Breakeven Analysis - build a calculator  
-
-http://supercoachtalk.com/cow-talk-round-9/  
-http://supercoachtalk.com/cow-talk-round-3/  
 http://supercoachtalk.com/pay-attention-to-the-math-behind-the-curtain/ - try this  
 http://supercoachtalk.com/how-supercoach-prices-work/  
 http://supercoachtalk.com/burning-answers-danger-ous-math/  
