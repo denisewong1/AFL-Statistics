@@ -24,6 +24,7 @@ Project Organization
     |         ├── YYYY_features.csv  
     |         ├── YYYY_ftsyPt.csv  
     |         ├── YYYY_ftsyPx.csv  
+    |         ├── YYYY_ftsySeason.csv  
     |         ├── YYYY_idPlayer.csv  
     |         └── YYYY_nameMap.csv      
     │   ├── raw  
