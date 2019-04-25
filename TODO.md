@@ -15,12 +15,6 @@ https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-t
 https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-conversion-history-in-the-vflafl-1897-2015  
 4. Calculate home game advantage and other venue stats - EDA_dfHGA.r  
 Data for home ground advantage is in dfHGA.csv - mean margin for home team at end of each game  
-> 001  
-> 002  
-> 003  
-> 004  
-> 005  
-> 006 
 HGA using Random Forest - http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
 http://www.hpnfooty.com/?p=27528  
 2018 fixture Analysis - https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
@@ -33,12 +27,6 @@ https://stackoverflow.com/questions/44773789/using-distm-function-in-r-to-calcul
 https://stackoverflow.com/questions/29585759/calculating-distances-from-latitude-and-longitude-coordinates-in-r  
 6. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder - EDAv20.r  
 Data is stored in dfEDAv20.csv  
-> 001    
-> 002  
-> 003  
-> 004  
-> 005  
-> 006  
 Improvements needed - predictive accuracy falls over time, recalculate using 5 year windows, recalculate k factors.  Take into account lack of accuracy in early rounds.    
 Normalisation of games over a long history   
 ELO analysis - http://pier4r.wikidot.com/pierworks:articles:2017-06:elo-inights  
@@ -119,7 +107,6 @@ https://www.pro-football-reference.com/blog/index37a8.html
 https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
 http://www.hpnfooty.com/?p=27528  
 http://www.hpnfooty.com/?p=21810  
-https://fenixbazaar.com/2017/05/05/afl-evolution-career-mode-tips-guide-to-become-a-pro/  
 https://www.pro-football-reference.com/blog/index37a8.html  
 https://www.pro-football-reference.com/blog/index6b92.html?p=465  
 https://hurlingpeoplenow.wordpress.com/2017/08/31/introducing-player-approximate-value-pav/  
@@ -147,8 +134,6 @@ https://aflfantasies.com/2019/happy-new-years/  comparing player performance vis
 https://sqldusty.wordpress.com/2015/08/01/power-bi-fantasy-football-player-stats-dashboards-for-download/ powerbi  
 http://www.sqlservercentral.com/blogs/sql-with-dustin-ryan/2016/08/23/power-bi-nfl-fantasy-football-2016-reports/  powerbi  
 http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf fantasy team  
-12. weekly team stuff to include during season    
-https://www.footywire.com/afl/footy/tp-adelaide-crows  - alternate data source?  
 13.  Draft Picks  
 https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-riding-this-year/  
 14.  Player Analysis  
@@ -158,7 +143,6 @@ http://figuringfooty.com/2017/06/01/are-west-coast-too-dependent-on-kennedy/
 http://insightlane.com/2018/10/15/buddy-900-and-benchmarking-the-greatest-goal-kickers-in-vfl-afl-history/  
 https://plussixoneblog.com/post/the-deledio-effect/  
 https://plussixoneblog.com/post/the-tackle-machine/  
-https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5  
 http://www.afl.com.au/stats/player-ratings/ratings-explained  
 http://www.espn.com/espn/feature/story/_/id/19122983/footy-forensics-statistics-champion-team-team-champions-2017-afl-season?ex_cid=espnTW_ANZL  
 http://www.espn.com/espn/feature/story/_/id/20355634/footy-forensics-statistics-west-coast-josh-kennedy-season-ages  
@@ -188,16 +172,12 @@ https://medium.com/fantasy-outliers
 https://www.datarobot.com/sports-analytics/  
 https://www.datarobot.com/wiki/feature-impact/  
 https://blog.datarobot.com/using-datarobot-to-predict-nba-player-performance  
-https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1  
 https://becominghuman.ai/a-i-fantasy-football-week-to-week-projections-e7f8895e9cb1  
 https://arxiv.org/pdf/1604.01455v2.pdf  
 http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
-http://web.stanford.edu/class/cs221/2018/restricted/posters/macdow/poster.pdf  
-https://www.quora.com/How-could-I-use-machine-learning-to-do-better-in-my-fantasy-football-league-and-is-there-anywhere-to-get-data-for-this-purpose  
 https://fantasyfootballers.quora.com/  
 https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
 https://www.kdnuggets.com/2018/08/optimization-101-data-scientists.html  
-https://fantasyfootballanalytics.net/2014/10/download-run-r-scripts.html  
 https://github.com/FantasyFootballAnalytics/FantasyFootballAnalyticsR/tree/master/R%20Scripts  
 https://github.com/fivethirtyeight/nfl-elo-game  
 https://thearcfooty.com/2017/04/23/arcs-first-birthday/  
@@ -215,8 +195,7 @@ http://figuringfooty.com/2016/07/07/the-goal-kicking-accuracy-fallacy/
 http://figuringfooty.com/2016/08/04/a-model-to-predict-and-rate-shots-by-quality/  
 http://www.afl.com.au/news/2018-06-05/the-stats-files-the-three-keys-to-winning-games-in-2018  
 https://www.abc.net.au/news/2017-09-07/what-chance-do-teams-really-have-of-winning-the-afl-grand-final/8862758  
-https://plussixoneblog.com/post/football-world-cup-datathon-part-2/  
-https://plussixoneblog.com/post/world-cup-datathon-part-3/  
+https://plussixoneblog.com/page/project-world-cup-datathon/  
 https://plussixoneblog.com/post/the-round-7-rule/  
 https://plussixoneblog.com/post/round-21-bring-back-match-importance/  
 https://plussixoneblog.com/post/beyond-the-8-point-game-estimating-match-importance-in-the-afl/  
@@ -253,22 +232,25 @@ https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors
 https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/  
 http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-explains-free-kick-counts-2017-afl-season  
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
-https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/  
 18. Fantasy Analysis  
+http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf  
+https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5   
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
-https://magicnumbertheory.wordpress.com/2016/08/12/prices-and-bes-after-r21/#more-5036  Breakevens and change weekly  
-https://magicnumbertheory.wordpress.com/2016/04/27/magic-number-after-r5/#more-1356  Breakeven calculation  
+https://magicnumbertheory.wordpress.com/2016/04/14/pricing-formula-fantasy-v-rdt/  
+https://magicnumbertheory.wordpress.com/magic-number/  
+https://magicnumbertheory.wordpress.com/2016/04/18/official-be-errors-follow-up/  
+https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/  
 https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy  
-https://magicnumbertheory.wordpress.com/pricing-formula/  Price Formula    
 https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet     
 https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ output vs expectations  
 https://dreamteamtalk.com/2013/04/18/mythbusting-dt-insider-guest-post/ strategies  
 https://dreamteamtalk.com/2012/02/01/2012-fixture-study/  fixture study   
 https://dreamteamtalk.com/category/resources/the-game/  
-https://dreamteamtalk.com/2018/10/06/2017-18-ha-season-player-average-comparison-western-bulldogs/
+https://dreamteamtalk.com/2018/10/06/2017-18-ha-season-player-average-comparison-western-bulldogs/  
 https://dreamteamtalk.com/author/aflratings/   
 https://dreamteamtalk.com/2019/01/19/roys-best-22-for-2019-january-edition/  
+https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/  
 19. Breakeven Analysis - build a calculator  
 http://supercoachtalk.com/pay-attention-to-the-math-behind-the-curtain/ - try this  
 http://supercoachtalk.com/how-supercoach-prices-work/  
