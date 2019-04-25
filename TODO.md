@@ -233,7 +233,7 @@ https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/
 http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-explains-free-kick-counts-2017-afl-season  
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 18. Fantasy Analysis  
-http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf  
+https://www.afl.com.au/news/2019-04-23/fantasy-dpp-additions-meet-the-record-15-new-forwards  
 https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5   
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
@@ -243,6 +243,7 @@ https://magicnumbertheory.wordpress.com/2016/04/18/official-be-errors-follow-up/
 https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/  
 https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy  
 https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet     
+http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf  
 https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ output vs expectations  
 https://dreamteamtalk.com/2013/04/18/mythbusting-dt-insider-guest-post/ strategies  
 https://dreamteamtalk.com/2012/02/01/2012-fixture-study/  fixture study   
@@ -251,6 +252,11 @@ https://dreamteamtalk.com/2018/10/06/2017-18-ha-season-player-average-comparison
 https://dreamteamtalk.com/author/aflratings/   
 https://dreamteamtalk.com/2019/01/19/roys-best-22-for-2019-january-edition/  
 https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/  
+https://dreamteamtalk.com/category/resources/sample-teams/  
+https://dreamteamtalk.com/category/resources/dt-101/the-game/  
+https://dreamteamtalk.com/2017/09/11/the-2017-optimal-afl-fantasy-team-finally-proves-link-between-genius-and-madness/  
+https://dreamteamtalk.com/2018/08/01/how-do-you-compare-to-the-top-100-afl-fantasy-coaches-finals-2018/  
+https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/  
 19. Breakeven Analysis - build a calculator  
 http://supercoachtalk.com/pay-attention-to-the-math-behind-the-curtain/ - try this  
 http://supercoachtalk.com/how-supercoach-prices-work/  
