@@ -166,7 +166,6 @@ http://figuringfooty.com/2016/09/15/a-fresh-way-to-think-about-footy-hawthorn-v-
 http://figuringfooty.com/2016/09/28/grand-final-preview-part-2-a-team-of-champions-or-a-champion-team/  
 http://figuringfooty.com/2015/08/12/how-the-best-teams-are-not-necessarily-the-ones-who-kick-the-most-goals/  
 13.  Other interesting things 
-https://medium.com/fantasy-outliers/hey-everyone-we-beat-espn-part-1-background-and-methodology-4bba1cc89a75  
 https://www.armchairanalysis.com/  
 https://medium.com/fantasy-outliers  
 https://www.datarobot.com/sports-analytics/  
@@ -233,6 +232,7 @@ https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/
 http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-explains-free-kick-counts-2017-afl-season  
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 18. Fantasy Analysis  
+http://dream-stats.com/  - visualisations  
 https://www.afl.com.au/news/2019-04-23/fantasy-dpp-additions-meet-the-record-15-new-forwards  
 https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5   
 https://aflfantasies.com/2018/buyer-beware-part-2/  
