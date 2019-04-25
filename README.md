@@ -24,12 +24,10 @@ Article 3 - http://www.matterofstats.com/mafl-wagers-and-tips/
 Article 4 - https://intoli.com/blog/fantasy-football-for-hackers/  
 Article 5 - https://dspace.mit.edu/handle/1721.1/100687  
 Article 7 - https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
-Dream Stats - http://dream-stats.com/  
 AFL Stats - http://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
 http://www.aussportstipping.com/sports/afl/elo_ratings/
 http://www.aussportsbetting.com/category/afl/
 https://www.reddit.com/r/AFL/comments/96eq2d/data_mining_identifies_5_types_of_football_play/  
-https://aflratings.com.au/category/injuries/ - injury report  
 http://dailyfantasysportsaustralia.com/category/tools-explained/   
 
 More machine learning models  
@@ -55,10 +53,6 @@ http://forum.fanfooty.com.au/index.php/board,1.0.html
 https://www.theguardian.com/news/datablog/2014/sep/26/afl-grand-final-hawthorn-sydney-swans-prediction  
 http://footymaths.blogspot.com/p/we-have-posted-before-on-this-blog.html  
 
-
-
-## Venues
-https://afltables.com/afl/venues/overall.html  
 
 ## Questions & Order of Analysis    
 1.  Given all the information above and perfect hindsight, can we pick the "ideal" team at any point in time?  Answer : we can build it using linear programming.  The problem we run into is that the players have played in multiple positions during the season.  So we need to go back and figure out the best way to classify players position given their skills performance and attributes (eg height) => question 2.  
