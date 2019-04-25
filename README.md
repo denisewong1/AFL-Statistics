@@ -4,8 +4,6 @@
 http://www.matterofstats.com/  
 https://github.com/jimmyday12/fitzRoy  
 https://dreamteamtalk.com/2018/11/01/2019-afl-fixture-and-fantasy/  
-http://www.afl.com.au/news/2018-10-19/fantasy-players-to-watch-from-the-trade-period  
-https://api.squiggle.com.au/  
 https://squiggle.com.au/the-squiggle-api/  
 
 
@@ -44,18 +42,8 @@ http://www.matterofstats.com/mafl-stats-journal/2012/12/21/what-do-seasons-past-
 http://www.matterofstats.com/mafl-stats-journal/2012/12/25/persistence-in-team-mars-ratings.html  
 http://www.matterofstats.com/mafl-stats-journal/2011/8/18/the-2011-performance-of-the-mars-colley-and-massey-ratings-s.html  
 http://www.matterofstats.com/mafl-stats-journal/2011/8/3/predicting-the-home-teams-final-margin-a-competition-amongst.html  
-https://www.researchgate.net/publication/289801869_An_Analytical_Approach_for_Fantasy_Football_Draft_and_Lineup_Management  
 https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
-https://medium.com/fantasy-outliers/can-machine-learning-can-help-improve-your-fantasy-football-draft-4ceea1f1b2bd  
 https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
-https://towardsdatascience.com/machine-learning-meets-fantasy-football-part-2-36632a27328c  
-https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1  
-https://dreamteamtalk.com/category/resources/sample-teams/  
-https://dreamteamtalk.com/category/resources/dt-101/the-game/  
-https://dreamteamtalk.com/2012/09/12/what-makes-a-mid-pricer-worth-it/  
-https://dreamteamtalk.com/2017/09/11/the-2017-optimal-afl-fantasy-team-finally-proves-link-between-genius-and-madness/  
-https://dreamteamtalk.com/2018/08/01/how-do-you-compare-to-the-top-100-afl-fantasy-coaches-finals-2018/  
-https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/  
 https://aflfantasies.com/2018/the-basic-strategy/  
 https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/afl-analysis-should-favourite-stacks-include-the-defenders  
 https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds  
