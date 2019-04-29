@@ -237,11 +237,7 @@ https://www.afl.com.au/news/2019-04-23/fantasy-dpp-additions-meet-the-record-15-
 https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5   
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
-https://magicnumbertheory.wordpress.com/2016/04/14/pricing-formula-fantasy-v-rdt/  
-https://magicnumbertheory.wordpress.com/magic-number/  
-https://magicnumbertheory.wordpress.com/2016/04/18/official-be-errors-follow-up/  
 https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/  
-https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy  
 https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet     
 http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf  
 https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ output vs expectations  
@@ -258,6 +254,13 @@ https://dreamteamtalk.com/2017/09/11/the-2017-optimal-afl-fantasy-team-finally-p
 https://dreamteamtalk.com/2018/08/01/how-do-you-compare-to-the-top-100-afl-fantasy-coaches-finals-2018/  
 https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/  
 19. Breakeven Analysis - build a calculator  
+https://steemit.com/afl-fantasy/@mexicana/magic-number-afl-fantasy-preseason - magic number formula  
+https://www.bigfooty.com/forum/threads/afl-fantasy-spreadsheet-back-for-2019.1191252/ - discussion with coefficients  
+http://tooserious.net/forum/player_calc.php?&id=4901&pcid=46584&name=Bailey%20Banfield#YgxfL1JWHzCqiwe6.97 - visualisation  
+http://fantasysports.win/magic-number.html magic number website  
+https://dreamteamtalk.com/2018/09/01/drawing-board-2019/ - initial numbers 2019  
+https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  Strategy 
+don't need any of the below once i've written my paper  
 http://supercoachtalk.com/pay-attention-to-the-math-behind-the-curtain/ - try this  
 http://supercoachtalk.com/how-supercoach-prices-work/  
 http://supercoachtalk.com/burning-answers-danger-ous-math/  
