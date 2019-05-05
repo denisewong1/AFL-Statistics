@@ -3,14 +3,11 @@
 ### Resources
 http://www.matterofstats.com/  
 https://github.com/jimmyday12/fitzRoy  
-
 https://squiggle.com.au/the-squiggle-api/  
-
 
 Machine Learning Model - https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731  
 Reddit - https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
 Free Kick Differential - https://www.reddit.com/r/AFL/comments/8eqyfq/does_the_freekick_differential_really_matter_how/   
-Stanford - http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
 RMIT - https://researchbank.rmit.edu.au/eserv/rmit:160744/Ryall.pdf   
 RMIT - https://researchbank.rmit.edu.au/eserv/rmit:8567/n2006006216.pdf   
 Swinburne - Explaining match outcome in elite Australian Rules football using team performance indicators  
@@ -20,14 +17,10 @@ Model - https://stats.stackexchange.com/questions/238143/using-afl-australian-ru
 Article 1 - https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
 Article 2 - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 Article 3 - http://www.matterofstats.com/mafl-wagers-and-tips/  
-Article 4 - 
-Article 5 - https://dspace.mit.edu/handle/1721.1/100687  
-Article 7 - https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
 AFL Stats - http://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
 http://www.aussportstipping.com/sports/afl/elo_ratings/
 http://www.aussportsbetting.com/category/afl/
 https://www.reddit.com/r/AFL/comments/96eq2d/data_mining_identifies_5_types_of_football_play/  
-http://dailyfantasysportsaustralia.com/category/tools-explained/   
 More machine learning models  
 http://mafl-stats.blogspot.com/2009/01/  
 http://www.matterofstats.com/mafl-stats-journal/2011/10/2/cursory-mention-of-mafl-in-new-scientist-probably.html  
@@ -38,13 +31,7 @@ http://www.matterofstats.com/mafl-stats-journal/2012/12/21/what-do-seasons-past-
 http://www.matterofstats.com/mafl-stats-journal/2012/12/25/persistence-in-team-mars-ratings.html  
 http://www.matterofstats.com/mafl-stats-journal/2011/8/18/the-2011-performance-of-the-mars-colley-and-massey-ratings-s.html  
 http://www.matterofstats.com/mafl-stats-journal/2011/8/3/predicting-the-home-teams-final-margin-a-competition-amongst.html  
-https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
 https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
-https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/afl-analysis-should-favourite-stacks-include-the-defenders  
-https://www.fantasyinsider.com.au/blog/AFL/a-beginners-guide-to-afl-dfs-game-day-strategies  
-https://www.fantasyinsider.com.au/blog/Site%20News/now-available-nrl-afl-draft-guides  
-https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-draft.html  
-http://forum.fanfooty.com.au/index.php/board,1.0.html
 https://www.theguardian.com/news/datablog/2014/sep/26/afl-grand-final-hawthorn-sydney-swans-prediction  
 http://footymaths.blogspot.com/p/we-have-posted-before-on-this-blog.html  
 
