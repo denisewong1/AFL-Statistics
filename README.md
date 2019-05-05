@@ -3,7 +3,7 @@
 ### Resources
 http://www.matterofstats.com/  
 https://github.com/jimmyday12/fitzRoy  
-https://dreamteamtalk.com/2018/11/01/2019-afl-fixture-and-fantasy/  
+
 https://squiggle.com.au/the-squiggle-api/  
 
 
@@ -17,11 +17,10 @@ Swinburne - Explaining match outcome in elite Australian Rules football using te
 Swinburne - https://researchbank.swinburne.edu.au/file/ad793be7-8646-469b-a123-cc36fd9da459/1/Michael%20Bailey%20Thesis.pdf  - pg90 factors that may explain player performance  
 Github - https://github.com/TMBish/Draftking  
 Model - https://stats.stackexchange.com/questions/238143/using-afl-australian-rules-football-data-to-predict-brownlow-votes  
-More Tips - http://www.afl.com.au/news/2018-02-13/how-to-dominate-fantasy-2017s-winner-reveals-all  
 Article 1 - https://www.matterofstats.com/mafl-stats-journal/2014/11/2/the-2015-afl-draw-schedule-strength-and-imbalance  
 Article 2 - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 Article 3 - http://www.matterofstats.com/mafl-wagers-and-tips/  
-Article 4 - https://intoli.com/blog/fantasy-football-for-hackers/  
+Article 4 - 
 Article 5 - https://dspace.mit.edu/handle/1721.1/100687  
 Article 7 - https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
 AFL Stats - http://blog.revolutionanalytics.com/2013/08/the-stats-of-australian-rules-football.html  
@@ -29,7 +28,6 @@ http://www.aussportstipping.com/sports/afl/elo_ratings/
 http://www.aussportsbetting.com/category/afl/
 https://www.reddit.com/r/AFL/comments/96eq2d/data_mining_identifies_5_types_of_football_play/  
 http://dailyfantasysportsaustralia.com/category/tools-explained/   
-
 More machine learning models  
 http://mafl-stats.blogspot.com/2009/01/  
 http://www.matterofstats.com/mafl-stats-journal/2011/10/2/cursory-mention-of-mafl-in-new-scientist-probably.html  
@@ -42,11 +40,8 @@ http://www.matterofstats.com/mafl-stats-journal/2011/8/18/the-2011-performance-o
 http://www.matterofstats.com/mafl-stats-journal/2011/8/3/predicting-the-home-teams-final-margin-a-competition-amongst.html  
 https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
 https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
-https://aflfantasies.com/2018/the-basic-strategy/  
 https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/afl-analysis-should-favourite-stacks-include-the-defenders  
-https://www.fantasyinsider.com.au/blog/AFL/your-top-player-projections-for-2017-fwds  
 https://www.fantasyinsider.com.au/blog/AFL/a-beginners-guide-to-afl-dfs-game-day-strategies  
-http://forum.fantasyinsider.com.au/d/18-afl-round-8-points-tables-discussion  
 https://www.fantasyinsider.com.au/blog/Site%20News/now-available-nrl-afl-draft-guides  
 https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-draft.html  
 http://forum.fanfooty.com.au/index.php/board,1.0.html
@@ -58,8 +53,6 @@ http://footymaths.blogspot.com/p/we-have-posted-before-on-this-blog.html
 1.  Given all the information above and perfect hindsight, can we pick the "ideal" team at any point in time?  Answer : we can build it using linear programming.  The problem we run into is that the players have played in multiple positions during the season.  So we need to go back and figure out the best way to classify players position given their skills performance and attributes (eg height) => question 2.  
 2. Build a multi-class classification model to determine players attributes and which position best suits them. In this exercise I learn all about configuring models for multi-class classification. The problem is that the data set doesn't tell us the position that they had for each game, just what they've played for the current season and/or through the season.  This means also that for multi-position players, calculating the accuracy of prediction becomes more tricky as it needs to be halved.  One of the ways to solve this problem is to use single position players to figure out position attributes, and then test the model on multi-position players, to see if it can "pick" at least one of the multiple positions played.  As I built the models, I tried to structure a reusable framework for this type of problem with and without caret => question 3.
 3. Build a reusable framework for multi-class classification problems to compare the additional features of caret vs other base/raw packages.  We will also investigate whether basic models perform better if we return probability vs raw class predictions.  
-
-
 
 
 ### Boundary Constraints for Fantasy vs Game
