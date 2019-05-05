@@ -256,4 +256,14 @@ https://dreamteamtalk.com/category/resources/sample-teams/
 https://dreamteamtalk.com/2017/09/11/the-2017-optimal-afl-fantasy-team-finally-proves-link-between-genius-and-madness/  
 https://dreamteamtalk.com/2018/08/01/how-do-you-compare-to-the-top-100-afl-fantasy-coaches-finals-2018/  
 https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/  
+http://dailyfantasysportsaustralia.com/category/tools-explained/   
+https://dspace.mit.edu/handle/1721.1/100687  
+https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
+Stanford - http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
+http://forum.fanfooty.com.au/index.php/board,1.0.html  
+https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/afl-analysis-should-favourite-stacks-include-the-defenders  
+https://www.fantasyinsider.com.au/blog/AFL/a-beginners-guide-to-afl-dfs-game-day-strategies  
+https://www.fantasyinsider.com.au/blog/Site%20News/now-available-nrl-afl-draft-guides  
+https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-draft.html  
+https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
 
