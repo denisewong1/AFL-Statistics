@@ -44,6 +44,8 @@ Project Organization
     ├── reports
     │   └── figures
     └── src
+        ├── apps
+           ├── AFLFantasyApp          
         ├── data
            ├── features.R  
            ├── preprocess_make.R  
