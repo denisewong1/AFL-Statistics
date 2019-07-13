@@ -169,6 +169,7 @@ https://www.armchairanalysis.com/
 https://medium.com/fantasy-outliers  
 https://www.datarobot.com/sports-analytics/  
 https://www.datarobot.com/wiki/feature-impact/  
+https://www.reddit.com/r/dataisbeautiful/comments/cc1cqf/viz_displaying_why_more_often_than_not_a_top3_rb/?utm_source=share&utm_medium=ios_app - position importance  
 https://blog.datarobot.com/using-datarobot-to-predict-nba-player-performance  
 https://becominghuman.ai/a-i-fantasy-football-week-to-week-projections-e7f8895e9cb1  
 https://arxiv.org/pdf/1604.01455v2.pdf  
