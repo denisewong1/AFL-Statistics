@@ -34,6 +34,7 @@ http://www.matterofstats.com/mafl-stats-journal/2011/8/3/predicting-the-home-tea
 https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
 https://www.theguardian.com/news/datablog/2014/sep/26/afl-grand-final-hawthorn-sydney-swans-prediction  
 http://footymaths.blogspot.com/p/we-have-posted-before-on-this-blog.html  
+https://www.machinelearningplus.com/machine-learning/feature-selection/ - feature selection and variable importance  
 
 
 ## Questions & Order of Analysis    
