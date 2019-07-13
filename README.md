@@ -35,7 +35,8 @@ https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its
 https://www.theguardian.com/news/datablog/2014/sep/26/afl-grand-final-hawthorn-sydney-swans-prediction  
 http://footymaths.blogspot.com/p/we-have-posted-before-on-this-blog.html  
 https://www.machinelearningplus.com/machine-learning/feature-selection/ - feature selection and variable importance  
-
+https://mlwhiz.com/blog/2019/05/19/feature_extraction/?utm_campaign=shareaholic&utm_medium=reddit&utm_source=news - formula for distance between two latitudes + longitudes  
+ - formula for distance between two latitudes + longitudes  
 
 ## Questions & Order of Analysis    
 1.  Given all the information above and perfect hindsight, can we pick the "ideal" team at any point in time?  Answer : we can build it using linear programming.  The problem we run into is that the players have played in multiple positions during the season.  So we need to go back and figure out the best way to classify players position given their skills performance and attributes (eg height) => question 2.  
