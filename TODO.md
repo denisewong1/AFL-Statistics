@@ -20,6 +20,8 @@ http://www.hpnfooty.com/?p=27528
 2018 fixture Analysis - https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
 Home vs Interstate at Home Ground, Percentage of Games won by Home Ground, Players on Home Ground - http://www.espn.com/espn/feature/story/_/id/19752486/footy-forensics-does-home-ground-advantage-exist  
 Injuries by Venue - http://figuringfooty.com/2016/05/16/injuries-are-still-happening-far-too-often-at-etihad-stadium/  
+Venue dimensions - https://www.afl.com.au/tickets/venues  
+Weather - https://www.ncdc.noaa.gov/data-access  
 5. Calculate interstate advantage  
 Excess Venue Experience - http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html   
 coordinate distance calc - https://stackoverflow.com/questions/32363998/function-to-calculate-geospatial-distance-between-two-points-lat-long-using-r  
