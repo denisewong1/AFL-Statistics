@@ -1,5 +1,5 @@
 ## preprocess_read.R
-Functions for reading scraped files in \raw directory
+Functions for reading scraped files in \raw directory  
 |Source | Season | Weekly |  
 |--- |--- |--- |  
 |FFF |readS_FFFfixture <- function(xseason) | |  
