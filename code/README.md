@@ -3,12 +3,12 @@ Functions for reading scraped files in \raw directory
 
 |Source | Season | Weekly |  
 |--- |--- |--- |  
-|FFF |readS_FFFfixture <- function(xseason) |  |  
-|FTW |readS_FTWfixture <- function(xseason) |readW_FTWbreakeven <- function(xseason) |  
-|  |  |readW_FTWstats <- function(xseason,xroundname) |  
-|AFL |  |readW_AFLteamlineup <- function(xseason,xroundname) |  
-|  |  |readW_AFLteamchange <- function(xseason,xroundname) |  
-|  |  |readW_AFLadvancedstats <- function(xseason,xroundname) |  
+|FFF |readS_FFFfixture(xseason) |  |  
+|FTW |readS_FTWfixture(xseason) |readW_FTWbreakeven(xseason) |  
+|  |  |readW_FTWstats(xseason,xroundname) |  
+|AFL |  |readW_AFLteamlineup(xseason,xroundname) |  
+|  |  |readW_AFLteamchange(xseason,xroundname) |  
+|  |  |readW_AFLadvancedstats(xseason,xroundname) |  
 
 
 
