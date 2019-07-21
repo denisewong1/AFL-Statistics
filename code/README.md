@@ -3,11 +3,11 @@ Functions for reading scraped files in \raw directory
 
 |Source | Season | Weekly | Last |   
 |--- |--- |--- |--- |  
-|FFF |readS_FFFfixture(xseason) |  |  |  
-|FTW |readS_FTWfixture(xseason) | readW_FTWstats(xseason,xroundname) |readW_FTWbreakeven(xseason) |  
-|AFL |  |readW_AFLteamlineup(xseason,xroundname) |  |    
-|  |  |readW_AFLteamchange(xseason,xroundname) |  |    
-|  |  |readW_AFLadvancedstats(xseason,xroundname) |  |    
+|FFF |readS_FFFfixture |  |  |  
+|FTW |readS_FTWfixture | readW_FTWstats |readW_FTWbreakeven |  
+|AFL |  |readW_AFLteamlineup |  |    
+|  |  |readW_AFLteamchange |  |    
+|  |  |readW_AFLadvancedstats |  |    
 
 
 
