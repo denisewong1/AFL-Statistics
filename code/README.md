@@ -1,14 +1,13 @@
 ## preprocess_read.R
 Functions for reading scraped files in \raw directory  
 
-|Source | Season | Weekly |  
-|--- |--- |--- |  
-|FFF |readS_FFFfixture(xseason) |  |  
-|FTW |readS_FTWfixture(xseason) |readW_FTWbreakeven(xseason) |  
-|  |  |readW_FTWstats(xseason,xroundname) |  
-|AFL |  |readW_AFLteamlineup(xseason,xroundname) |  
-|  |  |readW_AFLteamchange(xseason,xroundname) |  
-|  |  |readW_AFLadvancedstats(xseason,xroundname) |  
+|Source | Season | Weekly | Last |   
+|--- |--- |--- |--- |  
+|FFF |readS_FFFfixture(xseason) |  |  |  
+|FTW |readS_FTWfixture(xseason) | readW_FTWstats(xseason,xroundname) |readW_FTWbreakeven(xseason) |  
+|AFL |  |readW_AFLteamlineup(xseason,xroundname) |  |    
+|  |  |readW_AFLteamchange(xseason,xroundname) |  |    
+|  |  |readW_AFLadvancedstats(xseason,xroundname) |  |    
 
 
 
