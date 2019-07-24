@@ -16,25 +16,33 @@ Project Organization
     ├── config
     ├── data
     │   ├── external  
+    |         ├── YYYY_BE.csv  
+    |         └── FTWotAFLFirstName.csv             
     │   ├── interim  
     │      └── weekly  
-    |         ├── YYYYRxx_ftsyPt.csv  
-    |         └── YYYYRxx_ftsyPx.csv         
+    |         ├── YYYYRxx_ftsyStat.csv  
+    |         ├── YYYYRxx_PredRound.csv  
+    |         └── YYYYRxx_PredSeason.csv         
     │   ├── processed
+    |         ├── YYYY_AFLnamemap.csv  
     |         ├── YYYY_features.csv  
+    |         ├── YYYY_fixture.csv  
     |         ├── YYYY_ftsyAll.csv  
-    |         ├── YYYY_ftsyPt.csv  
-    |         ├── YYYY_ftsyPx.csv  
+    |         ├── YYYY_ftsyStat.csv  
+    |         ├── YYYY_FTWnamemap.csv  
     |         ├── YYYY_idPlayer.csv  
-    |         └── YYYY_nameMap.csv      
+    |         ├── YYYY_magicnumber.csv  
+    |         ├── YYYY_nameMap.csv  
+    |         └── YYYY_teamMatchup.csv      
     │   ├── raw  
     │      ├── season
     |         ├── YYYY_FTWfixture.csv  
-    |         └── curr_FTWbreakevens.csv    
+    |         └── YYYY_FFFfixture.csv    
     │      └── weekly  
+    |         ├── YYYYPxx_AFLteamlineup.csv  
     |         ├── YYYYRxx_AFLadvancedstats.csv  
     |         ├── YYYYRxx_AFLteamlineup.csv  
-    |         └── YYYYRxx_FTWstats.csv   
+    |         └── YYYYRxx_FTWteamlineup.csv   
     │   └── simulations 
     |         ├── LP00x_YYYY_PL.csv
     |         ├── LP00x_YYYY_Score.csv
