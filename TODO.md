@@ -280,6 +280,9 @@ https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-d
 https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
 https://github.com/google-research/football - google football   
 https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e - football analytical articles   
+https://public.tableau.com/profile/gordon.rae#!/vizhome/FantasyFootball201920/FantasyFootballGuide  visualisation  
+https://www.reddit.com/r/aflfantasy/comments/cgk6tq/planning_for_2020_already_things_i_learned_being/?utm_source=share&utm_medium=ios_app   
+
 
 
 
