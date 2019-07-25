@@ -19,17 +19,18 @@ Project Organization
     |         ├── YYYY_BE.csv  
     |         └── FTWotAFLFirstName.csv             
     │   ├── interim  
+    │      ├── season
+    |         ├── YYYY_AFLnamemap.csv  
+    |         └── YYYY_FTWnamemap.csv       
     │      └── weekly  
     |         ├── YYYYRxx_ftsyStat.csv  
     |         ├── YYYYRxx_PredRound.csv  
-    |         └── YYYYRxx_PredSeason.csv         
+    |         └── YYYYRxx_PredSeason.csv  
     │   ├── processed
-    |         ├── YYYY_AFLnamemap.csv  
     |         ├── YYYY_features.csv  
     |         ├── YYYY_fixture.csv  
     |         ├── YYYY_ftsyAll.csv  
     |         ├── YYYY_ftsyStat.csv  
-    |         ├── YYYY_FTWnamemap.csv  
     |         ├── YYYY_idPlayer.csv  
     |         ├── YYYY_magicnumber.csv  
     |         ├── YYYY_nameMap.csv  
