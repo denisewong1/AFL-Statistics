@@ -5,6 +5,9 @@ https://github.com/mkrapp/cookiecutter-reproducible-science/tree/master/%7B%7Bco
 https://nicercode.github.io/blog/2013-04-05-projects/  
 https://nicercode.github.io/blog/2013-05-17-organising-my-project/  
 
+
+Note : FTWName & TeamID is the source of all truth  
+
 Project Organization
 --------------------
 
@@ -21,7 +24,8 @@ Project Organization
     │   ├── interim  
     │      ├── season
     |         ├── YYYY_AFLnamemap.csv  
-    |         └── YYYY_FTWnamemap.csv       
+    |         ├── YYYY_FTWnameMap.csv      
+    |         └── YYYY_namemap.csv       
     │      └── weekly  
     |         ├── YYYYRxx_ftsyStat.csv  
     |         ├── YYYYRxx_PredRound.csv  
@@ -33,7 +37,6 @@ Project Organization
     |         ├── YYYY_ftsyStat.csv  
     |         ├── YYYY_idPlayer.csv  
     |         ├── YYYY_magicnumber.csv  
-    |         ├── YYYY_nameMap.csv  
     |         └── YYYY_teamMatchup.csv      
     │   ├── raw  
     │      ├── season
