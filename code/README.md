@@ -11,6 +11,18 @@ Functions for reading scraped files in \raw directory
 |  |  |readW_AFLadvancedstats |  
 
 
+## scrapers
+Functions for scraping files 
+
+|Source | Season | Weekly | Player |  
+|--- |--- |--- |--- |    
+|FFF |readS_FFFfixture |  |  |  
+|FTW |scrape_FTWfixture | readW_FTWstats | scrape_FTWplayerprofile |  
+|  |  |scrape_FTWteamlineup | scrape_FTWplayerhistory  |    
+|AFL |  |readW_AFLteamlineup |  |    
+|  |  |readW_AFLteamchange |  |     
+|  |  |readW_AFLadvancedstats |  |  
+
 
 
 
