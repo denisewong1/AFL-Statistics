@@ -36,8 +36,7 @@ Project Organization
     |         ├── YYYY_ftsyAll.csv  
     |         ├── YYYY_ftsyStat.csv  
     |         ├── YYYY_idPlayer.csv  
-    |         ├── YYYY_magicnumber.csv  
-    |         └── YYYY_teamMatchup.csv      
+    |         └── YYYY_magicnumber.csv      
     │   ├── raw  
     │      ├── season
     |         ├── YYYY_FTWfixture.csv  
@@ -62,7 +61,8 @@ Project Organization
            ├── features.R  
            ├── preprocess_make.R  
            ├── preprocess_read.R  
-           ├── scrapeAFL.R            
+           ├── scrapeAFL.R 
+           ├── scrapeFFF.R 
            └── scrapeFTW.R          
         ├── external
         ├── models
