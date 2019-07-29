@@ -17,8 +17,8 @@ Functions for scraping files
 |Source | Season | Weekly | Player |  
 |--- |--- |--- |--- |    
 |FFF |readS_FFFfixture |  |  |  
-|FTW |scrape_FTWfixture | readW_FTWstats | scrape_FTWplayerprofile |  
-|  |  |scrape_FTWteamlineup | scrape_FTWplayerhistory  |    
+|FTW |scrape_FTWfixture | scrape_FTWteamlineup | scrape_FTWplayerhistory  |    
+|  |  |  | scrape_FTWplayerprofile |  
 |AFL |  |readW_AFLteamlineup |  |    
 |  |  |readW_AFLteamchange |  |     
 |  |  |readW_AFLadvancedstats |  |  
