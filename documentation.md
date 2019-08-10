@@ -19,8 +19,9 @@ Project Organization
     ├── config
     ├── data
     │   ├── external  
-    |         ├── YYYY_BE.csv  
-    |         └── FTWotAFLFirstName.csv             
+    |         ├── YYYY_BE.csv 
+    |         ├── dfSalaryCap.csv 
+    |         └── mapFTWotAFLNameFirst.csv             
     │   ├── interim (preprocess)
     │      ├── season
     |         ├── YYYY_AFLnamemap.csv  
