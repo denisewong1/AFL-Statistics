@@ -26,6 +26,8 @@ Project Organization
     │      ├── season
     |         ├── YYYY_AFLnamemap.csv  
     |         ├── YYYY_FTWnameMap.csv    
+    |         ├── YYYY_ftsyAFL.csv  
+    |         ├── YYYY_ftsyFTW.csv     
     |         ├── YYYY_nameMap.csv    
     |         └── YYYY_namemapError.csv       
     │      └── weekly  
@@ -34,8 +36,6 @@ Project Organization
     │   ├── processed (clean)
     |         ├── YYYY_features.csv  
     |         ├── YYYY_fixture.csv  
-    |         ├── YYYY_ftsyAFL.csv  - move to interim
-    |         ├── YYYY_ftsyFTW.csv  - move to interim
     |         ├── YYYY_idPlayer.csv  
     |         └── YYYY_magicnumber.csv      
     │   ├── raw (scrape) 
