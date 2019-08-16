@@ -250,7 +250,6 @@ http://www.afl.com.au/news/2018-02-13/how-to-dominate-fantasy-2017s-winner-revea
 https://intoli.com/blog/fantasy-football-for-hackers/  
 https://www.afl.com.au/news/2019-04-23/fantasy-dpp-additions-meet-the-record-15-new-forwards  
 https://aflratings.com.au/category/injuries/ - Injury weekly pages  
-http://www.fanfooty.com.au/resources.php - very good reference  
 http://www.fanfooty.com.au/blog/  - news pages to scrape  
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
