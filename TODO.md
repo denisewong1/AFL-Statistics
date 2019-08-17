@@ -166,7 +166,6 @@ http://figuringfooty.com/2015/08/12/how-the-best-teams-are-not-necessarily-the-o
 13.  Other interesting things 
 https://www.reddit.com/r/datascience/comments/c4mgsg/daily_fantasy_sports_ownership_projection/?utm_source=share&utm_medium=ios_app - fantasy sports ownership   
 https://www.reddit.com/r/dataisbeautiful/comments/bsgeit/the_impact_of_rookie_players_in_fantasy_football/?utm_source=share&utm_medium=ios_app - rookies  
-https://analyticsprofile.com/analytics-in-cricket/cricket-analytics-part-3-application-of-machine-learning-in-cricket/?utm_source=reddit&utm_medium=p - cricket analysis   
 https://www.armchairanalysis.com/  
 https://medium.com/fantasy-outliers  
 https://www.datarobot.com/sports-analytics/  
