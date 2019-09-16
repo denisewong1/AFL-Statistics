@@ -4,6 +4,7 @@
 http://www.matterofstats.com/  
 https://github.com/jimmyday12/fitzRoy  
 https://squiggle.com.au/the-squiggle-api/  
+http://www.mathsportinternational.com/anziam.html  
 
 Machine Learning Model - https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731  
 Reddit - https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
