@@ -12,7 +12,6 @@ Consider small and big data sets which can be built to quicken the analysis
 3. Calculate average season margin of victory; do EDA on Ladder  
 http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
-https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-conversion-history-in-the-vflafl-1897-2015  
 4. Calculate home game advantage and other venue stats - EDA_dfHGA.r  
 Data for home ground advantage is in dfHGA.csv - mean margin for home team at end of each game  
 HGA using Random Forest - http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
@@ -147,6 +146,7 @@ http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversio
 http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
 https://mafl-online.squarespace.com/mafl-stats-journal/2010/4/12/goalkicking-accuracy-across-the-seasons.html  
 http://figuringfooty.com/2016/06/29/goal-kicking-accuracy-maps-expscore/  
+https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-conversion-history-in-the-vflafl-1897-2015  
 https://squiggle.com.au/its-2018/  
 16b.  Team Stat Analysis - team strength - inside 50 and scoring shots  
 https://hurlingpeoplenow.wordpress.com/2016/04/29/lets-rate-team-strength-and-do-a-round-6-preview/  
