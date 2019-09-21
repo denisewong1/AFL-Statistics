@@ -74,10 +74,8 @@ http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-15-2018.html
 http://troywheatley.blogspot.com/2018/06/afl-power-rankings-round-13-2018.html  
 http://troywheatley.blogspot.com/2017/07/afl-power-rankings-round-16-2017.html  
 http://troywheatley.blogspot.com/2016/10/which-afl-club-has-easiest-fixture-in.html  
-http://troywheatley.blogspot.com/2012/05/what-has-happened-to-collingwood.html  
 http://mafl-stats.blogspot.com/2009/04/from-one-year-to-next-part-2.html  
 http://troywheatley.blogspot.com/2012/05/as-noted-in-this-weeks-afl-power.html  
-http://troywheatley.blogspot.com/2012/06/home-town-free-kick-bias-in-afl.html  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
 http://troywheatley.blogspot.com/2016/05/afl-power-rankings-round-8-2016.html  
 Another model - http://figuringfooty.com/the-figuring-footy-predictions/  
@@ -97,10 +95,7 @@ Use it to simulate outcomes for future matches - http://www.matterofstats.com/ma
 correlation stats  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html  
-http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-analysis-of-the-kicking-statistics-in-afl.html    
 http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
-http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversion-rates-how-predictable-are-they  
-http://www.espn.com/espn/feature/story/_/id/19235793/footy-forensics-afl-ruckmen-redundant  
 7. Build a rating system for each player based on player stats  
 http://www.matterofstats.com/mafl-stats-journal/2018/11/21/classifying-recent-afl-players-by-position-part-4-2018-team-profiles-how-many-player-types-are-there  
 https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
@@ -115,7 +110,6 @@ https://hurlingpeoplenow.wordpress.com/2017/08/31/introducing-player-approximate
 http://hurlingpeoplenow.tumblr.com/post/98964610922/hpn-draft-pick-trade-value-chart-v1  
 https://hurlingpeoplenow.wordpress.com/2017/09/02/the-2017-pav-all-australian-team/  
 http://www.matterofstats.com/mafl-stats-journal/2018/9/5/player-experience-data-analysis-and-modelling  
-http://troywheatley.blogspot.com/2018/10/afl-statistics-series-1-which.html  
 9. Combining team and player rating data  
 http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-combining-afl-team-and-player-data-in-a-predictive-model  
 10.  Game scoring progression  
@@ -127,6 +121,7 @@ http://www.matterofstats.com/mafl-stats-journal/2014/7/17/modelling-the-total-sc
 10. Read statistical models
 http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
 http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
+https://mafl-online.squarespace.com/where-can-i-find-a-mafl-analysis-of-x  
 11. Dashboards  
 http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
 https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team-dashboard-for-round-6.html  
@@ -140,20 +135,53 @@ https://squiggle.com.au/is-patrick-dangerfield-having-a-better-2017-than-2016/
 http://figuringfooty.com/2017/06/01/are-west-coast-too-dependent-on-kennedy/  
 http://insightlane.com/2018/10/15/buddy-900-and-benchmarking-the-greatest-goal-kickers-in-vfl-afl-history/  
 https://plussixoneblog.com/post/the-deledio-effect/  
-https://plussixoneblog.com/post/the-tackle-machine/  
 http://www.afl.com.au/stats/player-ratings/ratings-explained  
 http://www.espn.com/espn/feature/story/_/id/19122983/footy-forensics-statistics-champion-team-team-champions-2017-afl-season?ex_cid=espnTW_ANZL  
 http://www.espn.com/espn/feature/story/_/id/20355634/footy-forensics-statistics-west-coast-josh-kennedy-season-ages  
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
+16a. Team Stats Analysis - goal kicking accuracy or goal/score conversion  
+http://figuringfooty.com/2015/08/12/how-the-best-teams-are-not-necessarily-the-ones-who-kick-the-most-goals/  
+http://figuringfooty.com/2016/07/07/the-goal-kicking-accuracy-fallacy/  
+http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversion-rates-how-predictable-are-they  
+http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
+https://mafl-online.squarespace.com/mafl-stats-journal/2010/4/12/goalkicking-accuracy-across-the-seasons.html  
+http://figuringfooty.com/2016/06/29/goal-kicking-accuracy-maps-expscore/  
+https://squiggle.com.au/its-2018/  
+16b.  Team Stat Analysis - team strength - inside 50 and scoring shots  
+https://hurlingpeoplenow.wordpress.com/2016/04/29/lets-rate-team-strength-and-do-a-round-6-preview/  
+http://www.espn.com/espn/feature/story/_/id/20157852/footy-forensics-sydney-swans-rewrite-history-how-done-it  
+http://figuringfooty.com/2017/08/10/the-quality-and-quantity-of-shots-created-by-each-club/  
+http://figuringfooty.com/2015/10/05/a-brief-analysis-of-scoring-shots-in-the-grand-final/  
+http://figuringfooty.com/2016/08/08/match-analysis-using-shot-quality/  
+http://figuringfooty.com/2015/08/07/are-good-teams-straighter-shooters-than-poor-teams/   
+http://figuringfooty.com/2016/08/04/a-model-to-predict-and-rate-shots-by-quality/ 
+http://figuringfooty.com/2017/04/18/the-secret-weapon-of-the-afls-best-forward-line/  
+16c. Team Stat Analysis - kicks  
+http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-analysis-of-the-kicking-statistics-in-afl.html  
+16d. Team Stat Analysis - tackles  
+https://plussixoneblog.com/post/the-tackle-machine/  
+16e. Team Stat Analysis  - hitouts
+http://www.espn.com/espn/feature/story/_/id/19235793/footy-forensics-afl-ruckmen-redundant  
+16f. Team Stat Analysis - free kicks  
+http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-explains-free-kick-counts-2017-afl-season  
+http://troywheatley.blogspot.com/2012/06/home-town-free-kick-bias-in-afl.html  
+16g. Team Stat Analysis - score involvements
+http://figuringfooty.com/2016/11/21/your-clubs-most-important-avenue-to-goal-score-involvements-in-2016/  
+16h. Team Stat Analysis - possession chains  
+http://troywheatley.blogspot.com/2018/10/afl-statistics-series-1-which.html  
+https://madnessofsport.wordpress.com/2015/05/08/possession-chains-and-the-future-of-advanced-afl-statistics/  
+16i. Team Stat Analysis - metres gained  
+https://www.theroar.com.au/2017/03/28/stats-enough-metres-gained-irrelevant/  
+https://www.theage.com.au/sport/afl/metres-gained-a-stat-for-winners-20090716-ge7zp2.html  
+https://www.adelaidenow.com.au/sport/afl/the-afls-top-metre-eaters/news-story/1cfa60cdb667f03d4a2770289ccffb91  
+https://www.espn.com.au/afl/story/_/id/27199381/metres-gained-breaking-afl-most-misunderstood-statistic  
 16.  Team Analysis  
 http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/  
-http://www.espn.com/espn/feature/story/_/id/20157852/footy-forensics-sydney-swans-rewrite-history-how-done-it  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
 http://figuringfooty.com/2017/04/14/why-2017-results-are-flattering-the-cats/  
 https://thearcfooty.com/2017/07/04/sydneys-path-finals/  
 https://thearcfooty.com/2017/04/23/cant-eagles-fly/  
-https://hurlingpeoplenow.wordpress.com/2016/04/29/lets-rate-team-strength-and-do-a-round-6-preview/  
 http://hurlingpeoplenow.tumblr.com/post/100067599722/jarryd-haynes-prospects-in-the-nfl  
 https://hurlingpeoplenow.wordpress.com/2016/04/08/hpns-afl-round-3-preview/  
 http://insightlane.com/australian-football/scoreworm/  
@@ -162,8 +190,9 @@ https://plussixoneblog.com/post/leaping-kangaroos/
 https://plussixoneblog.com/post/annus-horribilis-fremantle/  
 http://figuringfooty.com/2016/09/15/a-fresh-way-to-think-about-footy-hawthorn-v-western-bulldogs/  
 http://figuringfooty.com/2016/09/28/grand-final-preview-part-2-a-team-of-champions-or-a-champion-team/  
-http://figuringfooty.com/2015/08/12/how-the-best-teams-are-not-necessarily-the-ones-who-kick-the-most-goals/  
-13.  Other interesting things 
+http://troywheatley.blogspot.com/2012/05/what-has-happened-to-collingwood.html  
+https://hurlingpeoplenow.wordpress.com/2017/06/01/what-do-we-really-know-about-port-adelaide/  
+17.  Other interesting things 
 https://www.reddit.com/r/datascience/comments/c4mgsg/daily_fantasy_sports_ownership_projection/?utm_source=share&utm_medium=ios_app - fantasy sports ownership   
 https://www.armchairanalysis.com/  
 https://medium.com/fantasy-outliers  
@@ -184,14 +213,8 @@ https://github.com/BriBecker/FantasyFootballAnalyticsR
 https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
 http://www.afl.com.au/news/2017-12-28/stats-glossary-every-stat-explained  
 https://www.pro-football-reference.com/blog/indexd65e.html?cat=8  
-http://figuringfooty.com/2016/11/21/your-clubs-most-important-avenue-to-goal-score-involvements-in-2016/  
 https://hurlingpeoplenow.wordpress.com/2016/07/15/round-17-close-games-are-still-basically-random/  
 http://figuringfooty.com/2016/09/30/grand-final-preview-part-4-reader-questions/  
-http://figuringfooty.com/2016/08/08/match-analysis-using-shot-quality/  
-http://figuringfooty.com/2015/10/05/a-brief-analysis-of-scoring-shots-in-the-grand-final/  
-http://figuringfooty.com/2015/08/07/are-good-teams-straighter-shooters-than-poor-teams/  
-http://figuringfooty.com/2016/07/07/the-goal-kicking-accuracy-fallacy/  
-http://figuringfooty.com/2016/08/04/a-model-to-predict-and-rate-shots-by-quality/  
 http://www.afl.com.au/news/2018-06-05/the-stats-files-the-three-keys-to-winning-games-in-2018  
 https://www.abc.net.au/news/2017-09-07/what-chance-do-teams-really-have-of-winning-the-afl-grand-final/8862758  
 https://plussixoneblog.com/page/project-world-cup-datathon/  
@@ -210,7 +233,6 @@ http://footymaths.blogspot.com/2017/03/post-jlt-break.html
 https://squiggle.com.au/who-won-the-pre-season/  
 http://www.matterofstats.com/mafl-stats-journal/2017/2/20/selected-afl-twitter-networks  
 https://hurlingpeoplenow.wordpress.com/2017/04/07/the-archpn-crossover-dont-stress-if-your-team-is-0-2/  
-http://figuringfooty.com/2017/04/18/the-secret-weapon-of-the-afls-best-forward-line/  
 https://squiggle.com.au/how-surprising-were-the-round-7-results/  
 http://www.matterofstats.com/mafl-stats-journal/2014/3/7/attaching-probabilities-to-game-margins-the-magic-of-quantile-regression  
 https://hurlingpeoplenow.wordpress.com/2017/04/21/are-north-and-hawthorn-bad-or-have-they-just-faced-a-tough-draw/  
@@ -221,15 +243,11 @@ http://www.espn.com/espn/feature/story/_/id/19501873/footy-forensics-your-afl-cl
 http://www.espn.com/espn/feature/story/_/id/19449458/footy-forensics-your-afl-club-key-game-trend  
 https://squiggle.com.au/time-in-front-vs-wins/  
 https://squiggle.com.au/how-close-has-the-2017-season-been-matter-of-stats/  
-http://figuringfooty.com/2017/08/10/the-quality-and-quantity-of-shots-created-by-each-club/  
 http://www.espn.com/espn/feature/story/_/id/20231436/footy-forensics-afl-finals-swing-which-games-matter-most  
-https://squiggle.com.au/sydneys-path-to-the-finals/  
-https://hurlingpeoplenow.wordpress.com/2017/06/01/what-do-we-really-know-about-port-adelaide/  
 https://hurlingpeoplenow.wordpress.com/2017/06/15/anatomy-of-an-upset-how-do-afl-teams-overcome-the-odds-to-spring-a-big-win/  
 https://legacy.baseballprospectus.com/glossary/index.php?context=6&category=true  
 https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors  
 https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/  
-http://www.espn.com/espn/feature/story/_/id/19071496/footy-forensics-statistics-explains-free-kick-counts-2017-afl-season  
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 18. Fantasy Analysis  
 http://dream-stats.com/  - visualisations  
