@@ -297,7 +297,27 @@ https://github.com/google-research/football - google football
 https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e - football analytical articles   
 https://public.tableau.com/profile/gordon.rae#!/vizhome/FantasyFootball201920/FantasyFootballGuide  visualisation  
 https://www.reddit.com/r/aflfantasy/comments/cgk6tq/planning_for_2020_already_things_i_learned_being/?utm_source=share&utm_medium=ios_app   
-
-
+20. Images  
+https://ccsearch.creativecommons.org/photos/fcce81da-d7be-4e3f-88ae-21892df53c11  
+https://ccsearch.creativecommons.org/photos/502b262b-13b4-47e2-8e7c-6e1afa97054c  
+https://ccsearch.creativecommons.org/photos/90c7b30a-4510-4075-bf88-fc5de5c4f878  
+https://ccsearch.creativecommons.org/photos/9049ceb7-32cd-44e8-bdd6-3f431d966afb  
+https://ccsearch.creativecommons.org/photos/3bb4184b-895a-436e-bbb5-148d6a48b014  
+https://ccsearch.creativecommons.org/photos/5bc467ac-e7f1-46d9-89f1-01f29485ee0d  
+https://ccsearch.creativecommons.org/photos/6db9066f-c4dd-4192-a00a-1543d5f65d60  
+https://ccsearch.creativecommons.org/photos/102de1e6-816e-4845-a328-9ae9ddd11020  
+https://ccsearch.creativecommons.org/photos/04443241-fe18-4c77-b7c8-f5b5e0fbdf79  
+https://ccsearch.creativecommons.org/photos/d5dec935-4a48-4744-8ac7-f06f98375f9a  
+https://ccsearch.creativecommons.org/photos/012530aa-8835-414e-8bbc-577fe1ac3c7e  
+https://ccsearch.creativecommons.org/photos/77919cbc-6e4b-42a7-9c04-16a0a665d6d7  
+https://ccsearch.creativecommons.org/photos/2d2ed543-a7ba-4f65-aaef-e20003de58ff  
+https://ccsearch.creativecommons.org/photos/2549449d-535b-47d9-8be4-6c8555c3601a  
+https://ccsearch.creativecommons.org/photos/ca004486-1c61-40cd-b8c7-8511e10f78c1  
+https://ccsearch.creativecommons.org/photos/c244a04f-3ae6-46d1-bd5d-6db2b9402de3  
+https://ccsearch.creativecommons.org/photos/eceebbe4-d245-44b0-9bfc-b62937df99a2  
+https://ccsearch.creativecommons.org/photos/dab7e935-6aec-4606-aec6-797e83a2a528  
+https://ccsearch.creativecommons.org/photos/dfb64502-8006-4a12-8df5-6ea372228faa  
+https://ccsearch.creativecommons.org/photos/c537c085-bc15-480b-991e-3a0005cec7ef  
+https://ccsearch.creativecommons.org/photos/8c35a8ac-1ed8-430c-b9da-418c542ce796  
 
 
