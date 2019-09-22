@@ -3,6 +3,7 @@
 ### Resources
 http://www.matterofstats.com/  
 https://github.com/jimmyday12/fitzRoy  
+how to use fitzroy - https://www.r-bloggers.com/brownlow-competition/  
 https://squiggle.com.au/the-squiggle-api/  
 http://www.mathsportinternational.com/anziam.html  
 
