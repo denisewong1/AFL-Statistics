@@ -137,6 +137,7 @@ https://plussixoneblog.com/post/the-deledio-effect/
 http://www.afl.com.au/stats/player-ratings/ratings-explained  
 http://www.espn.com/espn/feature/story/_/id/19122983/footy-forensics-statistics-champion-team-team-champions-2017-afl-season?ex_cid=espnTW_ANZL  
 http://www.espn.com/espn/feature/story/_/id/20355634/footy-forensics-statistics-west-coast-josh-kennedy-season-ages  
+https://towardsdatascience.com/predicting-premier-league-odds-from-ea-player-bfdb52597392  
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
 16a. Team Stats Analysis - goal kicking accuracy or goal/score conversion  
@@ -192,6 +193,8 @@ http://figuringfooty.com/2016/09/15/a-fresh-way-to-think-about-footy-hawthorn-v-
 http://figuringfooty.com/2016/09/28/grand-final-preview-part-2-a-team-of-champions-or-a-champion-team/  
 http://troywheatley.blogspot.com/2012/05/what-has-happened-to-collingwood.html  
 https://hurlingpeoplenow.wordpress.com/2017/06/01/what-do-we-really-know-about-port-adelaide/  
+17a Match Analysis  
+https://mobile.abc.net.au/news/2019-09-28/the-data-says-afl-grand-final-might-be-closer-than-you-think/11549510?pfmredir=sm  
 17.  Other interesting things 
 https://www.reddit.com/r/datascience/comments/c4mgsg/daily_fantasy_sports_ownership_projection/?utm_source=share&utm_medium=ios_app - fantasy sports ownership   
 https://www.armchairanalysis.com/  
@@ -297,6 +300,9 @@ https://github.com/google-research/football - google football
 https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e - football analytical articles   
 https://public.tableau.com/profile/gordon.rae#!/vizhome/FantasyFootball201920/FantasyFootballGuide  visualisation  
 https://www.reddit.com/r/aflfantasy/comments/cgk6tq/planning_for_2020_already_things_i_learned_being/?utm_source=share&utm_medium=ios_app   
+https://amiles.netlify.com/2019/09/building-optimal-daily-fantasy-lineups-in-r/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_252  
+20a. Player Positions  
+https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef  
 20. Images  
 https://ccsearch.creativecommons.org/photos/fcce81da-d7be-4e3f-88ae-21892df53c11  
 https://ccsearch.creativecommons.org/photos/502b262b-13b4-47e2-8e7c-6e1afa97054c  
