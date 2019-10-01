@@ -141,11 +141,7 @@ https://towardsdatascience.com/predicting-premier-league-odds-from-ea-player-bfd
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
 16a. Team Stats Analysis - goal kicking accuracy or goal/score conversion  
-http://figuringfooty.com/2015/08/12/how-the-best-teams-are-not-necessarily-the-ones-who-kick-the-most-goals/  
-http://figuringfooty.com/2016/07/07/the-goal-kicking-accuracy-fallacy/  
-http://www.matterofstats.com/mafl-stats-journal/2014/9/17/scoring-shot-conversion-rates-how-predictable-are-they  
-http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
-https://mafl-online.squarespace.com/mafl-stats-journal/2010/4/12/goalkicking-accuracy-across-the-seasons.html  
+http://figuringfooty.com/2016/07/07/the-goal-kicking-accuracy-fallacy/  create an index for each match/team during season  
 http://figuringfooty.com/2016/06/29/goal-kicking-accuracy-maps-expscore/  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-conversion-history-in-the-vflafl-1897-2015  
 https://squiggle.com.au/its-2018/  
