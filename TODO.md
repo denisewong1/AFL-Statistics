@@ -311,7 +311,6 @@ https://ccsearch.creativecommons.org/photos/102de1e6-816e-4845-a328-9ae9ddd11020
 https://ccsearch.creativecommons.org/photos/04443241-fe18-4c77-b7c8-f5b5e0fbdf79  
 https://ccsearch.creativecommons.org/photos/d5dec935-4a48-4744-8ac7-f06f98375f9a  
 https://ccsearch.creativecommons.org/photos/012530aa-8835-414e-8bbc-577fe1ac3c7e  
-https://ccsearch.creativecommons.org/photos/77919cbc-6e4b-42a7-9c04-16a0a665d6d7  
 https://ccsearch.creativecommons.org/photos/2d2ed543-a7ba-4f65-aaef-e20003de58ff  
 https://ccsearch.creativecommons.org/photos/2549449d-535b-47d9-8be4-6c8555c3601a  
 https://ccsearch.creativecommons.org/photos/ca004486-1c61-40cd-b8c7-8511e10f78c1  
@@ -320,6 +319,5 @@ https://ccsearch.creativecommons.org/photos/eceebbe4-d245-44b0-9bfc-b62937df99a2
 https://ccsearch.creativecommons.org/photos/dab7e935-6aec-4606-aec6-797e83a2a528  
 https://ccsearch.creativecommons.org/photos/dfb64502-8006-4a12-8df5-6ea372228faa  
 https://ccsearch.creativecommons.org/photos/c537c085-bc15-480b-991e-3a0005cec7ef  
-https://ccsearch.creativecommons.org/photos/8c35a8ac-1ed8-430c-b9da-418c542ce796  
 
 
