@@ -6,9 +6,6 @@ Table fivethirtyeight - https://cfss.uchicago.edu/hw02-explore-data.html
 Chart formatting - https://flowingdata.com/tag/fivethirtyeight/ ; http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html ; http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles   
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
-Consider which table contains information for mapping and id tables  
-Consider the analysis from this table before merging with another one  
-Consider small and big data sets which can be built to quicken the analysis  
 3. Calculate average season margin of victory; do EDA on Ladder  
 http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
@@ -16,7 +13,6 @@ https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-t
 Data for home ground advantage is in dfHGA.csv - mean margin for home team at end of each game  
 HGA using Random Forest - http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
 http://www.hpnfooty.com/?p=27528  
-2018 fixture Analysis - https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
 Home vs Interstate at Home Ground, Percentage of Games won by Home Ground, Players on Home Ground - http://www.espn.com/espn/feature/story/_/id/19752486/footy-forensics-does-home-ground-advantage-exist  
 Injuries by Venue - http://figuringfooty.com/2016/05/16/injuries-are-still-happening-far-too-often-at-etihad-stadium/  
 Venue dimensions - https://www.afl.com.au/tickets/venues  
@@ -26,45 +22,49 @@ Excess Venue Experience - http://www.matterofstats.com/mafl-stats-journal/2013/1
 coordinate distance calc - https://stackoverflow.com/questions/32363998/function-to-calculate-geospatial-distance-between-two-points-lat-long-using-r  
 https://stackoverflow.com/questions/44773789/using-distm-function-in-r-to-calculate-distance-between-two-coordinates-gives-a  
 https://stackoverflow.com/questions/29585759/calculating-distances-from-latitude-and-longitude-coordinates-in-r  
+5a. Strength of Schedule and Fixture Analysis  
+http://www.hpnfooty.com/?p=31263  
+https://www.matterofstats.com/mafl-stats-journal/2015/12/7/the-2016-afl-draw-difficulty-and-distortion  
+http://troywheatley.blogspot.com/2016/10/which-afl-club-has-easiest-fixture-in.html  
+https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
 6. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder - EDAv20.r  
 Data is stored in dfEDAv20.csv  
-Improvements needed - predictive accuracy falls over time, recalculate using 5 year windows, recalculate k factors.  Take into account lack of accuracy in early rounds.    
-Normalisation of games over a long history   
+Improvements needed - predictive accuracy falls over time, recalculate using 5 year windows, recalculate k factors.  Take into account lack of accuracy in early rounds. The aim is to get an average MAE of less than 30 points per game at least  - my MAE is 26ish  
+Other references and improvements to basic model.  Normalisation of games over a long history   
+6a. Team Model - ELO Rank to calculate win probability game by game margin of victory and home/away    
 ELO analysis - http://pier4r.wikidot.com/pierworks:articles:2017-06:elo-inights  
-MOV adjustments - http://andr3w321.com/elo-ratings-part-2-margin-of-victory-adjustments/  
-Close Games - http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
 Change in Form - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
-Interstate status - http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
-Interstatus status and recent form - http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
 http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
-Goal kicking accuracy and early round accuracy - https://squiggle.com.au/its-2018/  
 Team experience on each ground, Distance travelled - https://thearcfooty.com/2016/12/29/introducing-the-arcs-ratings-system/  
-https://plussixoneblog.com/post/grand-final-preview4/  
 Using ELO to tell a story - https://thearcfooty.com/2017/01/28/a-complete-history-of-the-afl/  
-Benchmark my results - https://plussixoneblog.com/post/round-results/  
-Data visualisation -  https://projects.fivethirtyeight.com/complete-history-of-the-nfl/  
-https://projects.fivethirtyeight.com/2018-nfl-predictions/?ex_cid=rrpromo  
-The aim is to get an average MAE of less than 30 points per game at least  - my MAE is 26ish  
-Other references and improvements to basic model  
-Benchmarking - https://squiggle.com.au/leaderboard/  
-Visualisation - http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
+MOV adjustments - http://andr3w321.com/elo-ratings-part-2-margin-of-victory-adjustments/  
+https://plussixoneblog.com/post/round-results/  
+Close Games - http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
+https://projects.fivethirtyeight.com/complete-history-of-the-nfl/  
+http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
 http://www.matterofstats.com/mafl-stats-journal/2013/12/8/optimising-the-very-simple-rating-system-vsrs.html  
 https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
-Defensive and Offensive Ratings - http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
+6b. Team Model - converting ELO rank and win probability to margin of victory  
+6c. Team Model - TAB probabilities    
+Interstate status - http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
+Interstatus status and recent form - http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
+6d. Team Model - Offensive Defensive  
+http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
 http://www.matterofstats.com/mafl-stats-journal/2015/11/1/an-improved-vflafl-team-rating-system-mossbods-20  
 http://www.matterofstats.com/mafl-stats-journal/2017/1/5/team-rating-revisited-a-rival-for-mossbods  
-how does ratings during the regular season stack up in the finals rounds?  
 https://www.matterofstats.com/mafl-stats-journal/2015/7/10/best-and-worst-afl-teams-2005-2015-a-mossbod-perspective  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
 https://hurlingpeoplenow.wordpress.com/2017/07/21/the-hpn-second-trimester-ish-awards-plus-round-17-team-ratings/  
-https://www.matterofstats.com/mafl-stats-journal/2015/12/7/the-2016-afl-draw-difficulty-and-distortion  
-benchmarking other models - http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
-Using ELO - https://plussixoneblog.com/post/grand-final-preview4/  
+http://www.matterofstats.com/mafl-stats-journal/2017/6/17/does-offence-or-defence-win-games  
+6y. Team Model - benchmarking  
+Benchmarking - https://squiggle.com.au/leaderboard/  
+http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
+6z. Match & Finals Predictions  
+https://plussixoneblog.com/post/grand-final-preview4/  
 https://stattraction.wordpress.com/2018/08/23/predictions-after-round-22-2018/  
 https://stattraction.wordpress.com/2018/03/27/ladder-prediction-after-round-1-2018/  
 https://stattraction.wordpress.com/2018/03/20/ladder-prediction-ratings-before-round-1-2018-and-some-housekeeping/  
 https://stattraction.wordpress.com/2016/03/06/fixture-analysis-pre-round-1-2016/  
-http://www.matterofstats.com/mafl-stats-journal/2017/6/17/does-offence-or-defence-win-games  
 http://www.matterofstats.com/mafl-stats-journal/2017/8/10/how-close-has-the-2017-season-been  
 http://www.matterofstats.com/mafl-stats-journal/2017/6/9/tipping-accuracy-vs-mae-as-a-footy-forecaster-metric  
 http://troywheatley.blogspot.com/2011/02/introducing-afl-power-rankings-part.html  
@@ -72,7 +72,6 @@ http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-17-2018.html
 http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-15-2018.html  
 http://troywheatley.blogspot.com/2018/06/afl-power-rankings-round-13-2018.html  
 http://troywheatley.blogspot.com/2017/07/afl-power-rankings-round-16-2017.html  
-http://troywheatley.blogspot.com/2016/10/which-afl-club-has-easiest-fixture-in.html  
 http://mafl-stats.blogspot.com/2009/04/from-one-year-to-next-part-2.html  
 http://troywheatley.blogspot.com/2012/05/as-noted-in-this-weeks-afl-power.html  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
@@ -95,6 +94,7 @@ correlation stats
 http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html  
 http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
+http://www.matterofstats.com/mafl-stats-journal/2014/2/16/pythagorean-expectation-for-vflafl-and-the-nrl  
 7. Build a rating system for each player based on player stats  
 http://www.matterofstats.com/mafl-stats-journal/2018/11/21/classifying-recent-afl-players-by-position-part-4-2018-team-profiles-how-many-player-types-are-there  
 https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
@@ -151,9 +151,10 @@ http://www.espn.com/espn/feature/story/_/id/20157852/footy-forensics-sydney-swan
 http://figuringfooty.com/2017/08/10/the-quality-and-quantity-of-shots-created-by-each-club/  
 http://figuringfooty.com/2015/10/05/a-brief-analysis-of-scoring-shots-in-the-grand-final/  
 http://figuringfooty.com/2016/08/08/match-analysis-using-shot-quality/  
-http://figuringfooty.com/2015/08/07/are-good-teams-straighter-shooters-than-poor-teams/   
 http://figuringfooty.com/2016/08/04/a-model-to-predict-and-rate-shots-by-quality/ 
 http://figuringfooty.com/2017/04/18/the-secret-weapon-of-the-afls-best-forward-line/  
+https://www.hpnfooty.com/?p=29844  
+http://www.hpnfooty.com/?p=31703  
 16c. Team Stat Analysis - kicks  
 http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-analysis-of-the-kicking-statistics-in-afl.html  
 16d. Team Stat Analysis - tackles  
