@@ -33,27 +33,22 @@ Improvements needed - predictive accuracy falls over time, recalculate using 5 y
 Other references and improvements to basic model.  Normalisation of games over a long history   
 6a. Team Model - ELO Rank to calculate win probability game by game margin of victory and home/away    
 ELO analysis - http://pier4r.wikidot.com/pierworks:articles:2017-06:elo-inights  
+https://www.pro-football-reference.com/blog/titles.html  
 Change in Form - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
-http://www.matterofstats.com/mafl-stats-journal/2016/1/26/reoptimisation-and-the-fear-of-overfitting  
 Team experience on each ground, Distance travelled - https://thearcfooty.com/2016/12/29/introducing-the-arcs-ratings-system/  
 Using ELO to tell a story - https://thearcfooty.com/2017/01/28/a-complete-history-of-the-afl/  
-MOV adjustments - http://andr3w321.com/elo-ratings-part-2-margin-of-victory-adjustments/  
-https://plussixoneblog.com/post/round-results/  
 Close Games - http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
 https://projects.fivethirtyeight.com/complete-history-of-the-nfl/  
 http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
-http://www.matterofstats.com/mafl-stats-journal/2013/12/8/optimising-the-very-simple-rating-system-vsrs.html  
-https://mafl-online.squarespace.com/mafl-stats-journal/2013/10/13/building-your-own-team-rating-system.html  
 6b. Team Model - converting ELO rank and win probability to margin of victory  
-6c. Team Model - TAB probabilities    
-Interstate status - http://www.matterofstats.com/mafl-stats-journal/2013/9/24/the-relative-importance-of-class-and-form-in-afl.html  
+MOV adjustments - http://andr3w321.com/elo-ratings-part-2-margin-of-victory-adjustments/  
+http://www.matterofstats.com/mafl-stats-journal/2014/2/16/pythagorean-expectation-for-vflafl-and-the-nrl 
+https://mafl-online.squarespace.com/mafl-stats-journal/2013/1/13/determining-bookmaker-implicit-probabilities-the-risk-equali.html
 Interstatus status and recent form - http://www.matterofstats.com/what-variables-are-used-in-mafl-statistical-models  
 6d. Team Model - Offensive Defensive  
-http://www.matterofstats.com/mafl-stats-journal/2015/7/4/rating-teams-based-on-scoring-ability  
 http://www.matterofstats.com/mafl-stats-journal/2015/11/1/an-improved-vflafl-team-rating-system-mossbods-20  
 http://www.matterofstats.com/mafl-stats-journal/2017/1/5/team-rating-revisited-a-rival-for-mossbods  
 https://www.matterofstats.com/mafl-stats-journal/2015/7/10/best-and-worst-afl-teams-2005-2015-a-mossbod-perspective  
-https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
 https://hurlingpeoplenow.wordpress.com/2017/07/21/the-hpn-second-trimester-ish-awards-plus-round-17-team-ratings/  
 http://www.matterofstats.com/mafl-stats-journal/2017/6/17/does-offence-or-defence-win-games  
 6y. Team Model - benchmarking  
@@ -77,8 +72,7 @@ http://troywheatley.blogspot.com/2012/05/as-noted-in-this-weeks-afl-power.html
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
 http://troywheatley.blogspot.com/2016/05/afl-power-rankings-round-8-2016.html  
 Another model - http://figuringfooty.com/the-figuring-footy-predictions/  
-https://github.com/cfranklin11/footy-tipper  
-https://multithreaded.stitchfix.com/blog/2016/11/22/nba-rankings/  
+https://multithreaded.stitchfix.com/blog/2016/11/22/nba-rankings/  - clustering  
 https://towardsdatascience.com/toward-a-better-footy-tipping-model-an-analysis-of-basic-heuristics-80de4235e768  
 https://medium.com/@craigjfranklin/toward-a-better-footy-tipping-model-the-folly-of-memory-9351670abe19  
 https://blog.goodaudience.com/toward-a-better-footy-tipping-model-the-first-model-bbc8c67a472a  
@@ -88,13 +82,7 @@ declining hga - http://old.clubelo.com/Articles/Themysteriousdeclineofhomeadvant
 factor - http://old.clubelo.com/Articles/Two-LegGames.html  
 weight index - http://old.clubelo.com/Articles/WeightIndex.html  
 poisson and histogram - http://old.clubelo.com/Articles/AdaptivePoissonparametersandresulthistogram.html  
-Use it to simulate outcomes for future matches - http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14  
-8. Look at game statistics that matter - relationship between game stats and game outcomes (final score), remove colinearity & high
-correlation stats  
-http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
-http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html  
-http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
-http://www.matterofstats.com/mafl-stats-journal/2014/2/16/pythagorean-expectation-for-vflafl-and-the-nrl  
+Use it to simulate outcomes for future matches - http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14   
 7. Build a rating system for each player based on player stats  
 http://www.matterofstats.com/mafl-stats-journal/2018/11/21/classifying-recent-afl-players-by-position-part-4-2018-team-profiles-how-many-player-types-are-there  
 https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
@@ -153,8 +141,11 @@ http://figuringfooty.com/2015/10/05/a-brief-analysis-of-scoring-shots-in-the-gra
 http://figuringfooty.com/2016/08/08/match-analysis-using-shot-quality/  
 http://figuringfooty.com/2016/08/04/a-model-to-predict-and-rate-shots-by-quality/ 
 http://figuringfooty.com/2017/04/18/the-secret-weapon-of-the-afls-best-forward-line/  
+http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
 https://www.hpnfooty.com/?p=29844  
 http://www.hpnfooty.com/?p=31703  
+http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
+http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html  
 16c. Team Stat Analysis - kicks  
 http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-analysis-of-the-kicking-statistics-in-afl.html  
 16d. Team Stat Analysis - tackles  
@@ -320,5 +311,3 @@ https://ccsearch.creativecommons.org/photos/eceebbe4-d245-44b0-9bfc-b62937df99a2
 https://ccsearch.creativecommons.org/photos/dab7e935-6aec-4606-aec6-797e83a2a528  
 https://ccsearch.creativecommons.org/photos/dfb64502-8006-4a12-8df5-6ea372228faa  
 https://ccsearch.creativecommons.org/photos/c537c085-bc15-480b-991e-3a0005cec7ef  
-
-
