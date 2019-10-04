@@ -13,10 +13,13 @@ https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-t
 Data for home ground advantage is in dfHGA.csv - mean margin for home team at end of each game  
 HGA using Random Forest - http://www.matterofstats.com/mafl-stats-journal/2013/11/20/revisiting-home-ground-advantage.html  
 http://www.hpnfooty.com/?p=27528  
+https://theafllab.com/2018/06/28/home-ground-advantage-a-mess/  
 Home vs Interstate at Home Ground, Percentage of Games won by Home Ground, Players on Home Ground - http://www.espn.com/espn/feature/story/_/id/19752486/footy-forensics-does-home-ground-advantage-exist  
 Injuries by Venue - http://figuringfooty.com/2016/05/16/injuries-are-still-happening-far-too-often-at-etihad-stadium/  
 Venue dimensions - https://www.afl.com.au/tickets/venues  
 Weather - https://www.ncdc.noaa.gov/data-access  
+Weather - https://theafllab.com/2018/07/06/environmental-factors-affecting-afl-outcomes-the-weather/  
+Weather - https://theafllab.com/2018/08/23/environmental-factors-affecting-afl-outcomes-the-weather-part-2/
 5. Calculate interstate advantage  
 Excess Venue Experience - http://www.matterofstats.com/mafl-stats-journal/2013/11/23/whats-more-important-who-you-play-or-where-you-play-them.html   
 coordinate distance calc - https://stackoverflow.com/questions/32363998/function-to-calculate-geospatial-distance-between-two-points-lat-long-using-r  
@@ -40,6 +43,8 @@ Using ELO to tell a story - https://thearcfooty.com/2017/01/28/a-complete-histor
 Close Games - http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
 https://projects.fivethirtyeight.com/complete-history-of-the-nfl/  
 http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
+https://theartandscienceofdata.wordpress.com/2016/09/17/predicting-the-english-premier-league-standings/  
+http://www.inforubiks.com/blog/ranking-every-afl-team-ever  
 6b. Team Model - converting ELO rank and win probability to margin of victory  
 MOV adjustments - http://andr3w321.com/elo-ratings-part-2-margin-of-victory-adjustments/  
 http://www.matterofstats.com/mafl-stats-journal/2014/2/16/pythagorean-expectation-for-vflafl-and-the-nrl 
@@ -97,8 +102,10 @@ https://hurlingpeoplenow.wordpress.com/2017/08/31/introducing-player-approximate
 http://hurlingpeoplenow.tumblr.com/post/98964610922/hpn-draft-pick-trade-value-chart-v1  
 https://hurlingpeoplenow.wordpress.com/2017/09/02/the-2017-pav-all-australian-team/  
 http://www.matterofstats.com/mafl-stats-journal/2018/9/5/player-experience-data-analysis-and-modelling  
+https://theafllab.com/2018/06/13/how-do-you-measure-a-players-form/  
 9. Combining team and player rating data  
 http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-combining-afl-team-and-player-data-in-a-predictive-model  
+https://theafllab.com/2019/03/02/the-soldier-model/  
 10.  Game scoring progression  
 https://squiggle.com.au/0-4-futures/  
 https://afltables.com/afl/stats/games/2018/101420180906.html  
