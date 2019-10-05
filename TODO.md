@@ -298,6 +298,8 @@ https://www.reddit.com/r/aflfantasy/comments/cgk6tq/planning_for_2020_already_th
 https://amiles.netlify.com/2019/09/building-optimal-daily-fantasy-lineups-in-r/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_252  
 20a. Player Positions  
 https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef  
+20b. Dual Position Players
+https://dreamteamtalk.com/2019/10/04/lachie-whitfield-to-be-a-mid-fwd-and-other-2020-afl-fantasy-player-positions/  
 20. Images  
 https://ccsearch.creativecommons.org/photos/fcce81da-d7be-4e3f-88ae-21892df53c11  
 https://ccsearch.creativecommons.org/photos/502b262b-13b4-47e2-8e7c-6e1afa97054c  
