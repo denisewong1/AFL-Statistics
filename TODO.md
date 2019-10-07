@@ -149,6 +149,7 @@ http://figuringfooty.com/2016/08/08/match-analysis-using-shot-quality/
 http://figuringfooty.com/2016/08/04/a-model-to-predict-and-rate-shots-by-quality/ 
 http://figuringfooty.com/2017/04/18/the-secret-weapon-of-the-afls-best-forward-line/  
 http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
+https://aflratings.com.au/2019/08/08/by-the-numbers-points-per-inside-50-round-20/  
 https://www.hpnfooty.com/?p=29844  
 http://www.hpnfooty.com/?p=31703  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
@@ -257,6 +258,7 @@ https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  - v
 http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf  - visualisation  
 https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5 - visualisation  
 https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/ - visualisation    
+https://dreamteamtalk.com/2019/08/06/inside-the-numbers-rd-20 - can i do these numbers in the five takeaways section?  
 https://towardsdatascience.com/mythbusting-fantasy-premier-league-form-over-fixtures-eecf9022e834  
 https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750  
 https://dreamteamtalk.com/2018/11/01/2019-afl-fixture-and-fantasy/  
