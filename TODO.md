@@ -140,6 +140,7 @@ http://figuringfooty.com/2016/07/07/the-goal-kicking-accuracy-fallacy/  create a
 http://figuringfooty.com/2016/06/29/goal-kicking-accuracy-maps-expscore/  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-conversion-history-in-the-vflafl-1897-2015  
 https://squiggle.com.au/its-2018/  
+https://i.redd.it/pbpoki6bf6r31.png - what do teams that made the grand final look like?  filter by round name?  
 16b.  Team Stat Analysis - team strength - inside 50 and scoring shots  
 https://hurlingpeoplenow.wordpress.com/2016/04/29/lets-rate-team-strength-and-do-a-round-6-preview/  
 http://www.espn.com/espn/feature/story/_/id/20157852/footy-forensics-sydney-swans-rewrite-history-how-done-it  
