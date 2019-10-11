@@ -56,6 +56,11 @@ http://www.matterofstats.com/mafl-stats-journal/2017/1/5/team-rating-revisited-a
 https://www.matterofstats.com/mafl-stats-journal/2015/7/10/best-and-worst-afl-teams-2005-2015-a-mossbod-perspective  
 https://hurlingpeoplenow.wordpress.com/2017/07/21/the-hpn-second-trimester-ish-awards-plus-round-17-team-ratings/  
 http://www.matterofstats.com/mafl-stats-journal/2017/6/17/does-offence-or-defence-win-games  
+6e. non ELO models  
+https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Ftrueskill%2F  
+http://www.glicko.net/glicko/glicko2.pdf  
+https://cran.r-project.org/web/packages/trueskill/trueskill.pdf  
+https://github.com/bhoung/trueskill-in-r  
 6y. Team Model - benchmarking  
 Benchmarking - https://squiggle.com.au/leaderboard/  
 http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
