@@ -126,8 +126,13 @@ http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashbo
 https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team-dashboard-for-round-6.html  
 http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
 http://footymaths.blogspot.com/p/season-charts.html  
-13.  Draft Picks  
+13.  Draft Picks and Player Salaries    
 https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-riding-this-year/  
+https://overthecap.com/the-basics-and-methodology-of-projecting-the-nfls-compensatory-draft-picks/  
+https://www.afl.com.au/news/2019-03-06/six-milliondollar-men-as-player-salaries-go-up-again  
+https://dreamteamtalk.com/?p=64750  
+http://www.hpnfooty.com/?p=32006  
+https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8?shareType=nongift  
 14.  Player Analysis  
 https://squiggle.com.au/how-impressive-was-dustys-game/  
 https://squiggle.com.au/is-patrick-dangerfield-having-a-better-2017-than-2016/  
@@ -138,6 +143,7 @@ http://www.afl.com.au/stats/player-ratings/ratings-explained
 http://www.espn.com/espn/feature/story/_/id/19122983/footy-forensics-statistics-champion-team-team-champions-2017-afl-season?ex_cid=espnTW_ANZL  
 http://www.espn.com/espn/feature/story/_/id/20355634/footy-forensics-statistics-west-coast-josh-kennedy-season-ages  
 https://towardsdatascience.com/predicting-premier-league-odds-from-ea-player-bfdb52597392  
+https://public.tableau.com/profile/craig.heard#!/vizhome/Book1_15691139127170/100Club?publish=yes  
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
 16a. Team Stats Analysis - goal kicking accuracy or goal/score conversion  
@@ -179,6 +185,8 @@ https://www.theroar.com.au/2017/03/28/stats-enough-metres-gained-irrelevant/
 https://www.theage.com.au/sport/afl/metres-gained-a-stat-for-winners-20090716-ge7zp2.html  
 https://www.adelaidenow.com.au/sport/afl/the-afls-top-metre-eaters/news-story/1cfa60cdb667f03d4a2770289ccffb91  
 https://www.espn.com.au/afl/story/_/id/27199381/metres-gained-breaking-afl-most-misunderstood-statistic  
+16j. Team Stat Analysis - centre bounce  
+https://thedraftdoctors.com.au/2019/08/14/cbas-centre-bounce-attendances-round-21-afl-fantasy-supercoach-gold/  
 16.  Team Analysis  
 http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
