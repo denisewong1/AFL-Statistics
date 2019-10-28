@@ -144,6 +144,9 @@ http://www.espn.com/espn/feature/story/_/id/19122983/footy-forensics-statistics-
 http://www.espn.com/espn/feature/story/_/id/20355634/footy-forensics-statistics-west-coast-josh-kennedy-season-ages  
 https://towardsdatascience.com/predicting-premier-league-odds-from-ea-player-bfdb52597392  
 https://public.tableau.com/profile/craig.heard#!/vizhome/Book1_15691139127170/100Club?publish=yes  
+https://arxiv.org/pdf/1802.00998.pdf  
+http://www.82games.com/comm30.htm  
+https://www.reddit.com/r/dataisbeautiful/comments/disxti/mlb_batting_average_leaders_over_time_oc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf  
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
 16a. Team Stats Analysis - goal kicking accuracy or goal/score conversion  
