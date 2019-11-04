@@ -30,21 +30,22 @@ http://www.hpnfooty.com/?p=31263
 https://www.matterofstats.com/mafl-stats-journal/2015/12/7/the-2016-afl-draw-difficulty-and-distortion  
 http://troywheatley.blogspot.com/2016/10/which-afl-club-has-easiest-fixture-in.html  
 https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
-6. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder - EDAv20.r  
-Data is stored in dfEDAv20.csv  
-Improvements needed - predictive accuracy falls over time, recalculate using 5 year windows, recalculate k factors.  Take into account lack of accuracy in early rounds. The aim is to get an average MAE of less than 30 points per game at least  - my MAE is 26ish  
-Other references and improvements to basic model.  Normalisation of games over a long history   
+6. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder
 6a. Team Model - ELO Rank to calculate win probability game by game margin of victory and home/away    
 ELO analysis - http://pier4r.wikidot.com/pierworks:articles:2017-06:elo-inights  
 https://www.pro-football-reference.com/blog/titles.html  
 Change in Form - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
 Team experience on each ground, Distance travelled - https://thearcfooty.com/2016/12/29/introducing-the-arcs-ratings-system/  
-Using ELO to tell a story - https://thearcfooty.com/2017/01/28/a-complete-history-of-the-afl/  
 Close Games - http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensics-afl-world-most-even-sports-league  
 https://projects.fivethirtyeight.com/complete-history-of-the-nfl/  
 http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
 https://theartandscienceofdata.wordpress.com/2016/09/17/predicting-the-english-premier-league-standings/  
 http://www.inforubiks.com/blog/ranking-every-afl-team-ever  
+betting odds for AFL - http://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/  
+https://www.espn.com.au/afl/story/_/id/27892329/afl-biggest-question-marks-every-team-heading-2020  
+https://www.stuff.co.nz/sport/rugby/rugby-world-cup/rwc-2019-japan/115754410/rwc-2019-all-blacks-are-favourites-but-they-probably-wont-win-the-rugby-world-cup  
+2020 predictions - https://www.abc.net.au/news/2019-10-31/crunching-the-numbers-behind-the-2020-afl-fixture/11657036  
+Simulations & good code in R - https://github.com/lazappi/afl-2018/blob/master/analysis/round5.Rmd  and https://github.com/lazappi/aflelo/blob/master/R/simulate.R  and http://lazappi.id.au/2018/04/my-afl-elo-model/  
 6b. Team Model - converting ELO rank and win probability to margin of victory  
 MOV adjustments - http://andr3w321.com/elo-ratings-part-2-margin-of-victory-adjustments/  
 http://www.matterofstats.com/mafl-stats-journal/2014/2/16/pythagorean-expectation-for-vflafl-and-the-nrl 
@@ -88,11 +89,10 @@ https://medium.com/@craigjfranklin/toward-a-better-footy-tipping-model-the-folly
 https://blog.goodaudience.com/toward-a-better-footy-tipping-model-the-first-model-bbc8c67a472a  
 https://towardsdatascience.com/footy-tipping-with-machine-learning-adding-player-data-9ccdab56a4c5  
 Model accuracy - http://old.clubelo.com/Articles/HowaccurateistheElosystemanditspredictions.html  
-declining hga - http://old.clubelo.com/Articles/Themysteriousdeclineofhomeadvantage.html  
 factor - http://old.clubelo.com/Articles/Two-LegGames.html  
 weight index - http://old.clubelo.com/Articles/WeightIndex.html  
 poisson and histogram - http://old.clubelo.com/Articles/AdaptivePoissonparametersandresulthistogram.html  
-Use it to simulate outcomes for future matches - http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14   
+Use it to simulate outcomes for future matches Monte Carlo using rbinom - http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14   
 7. Build a rating system for each player based on player stats  
 http://www.matterofstats.com/mafl-stats-journal/2018/11/21/classifying-recent-afl-players-by-position-part-4-2018-team-profiles-how-many-player-types-are-there  
 https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
@@ -320,7 +320,6 @@ https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-m
 20b. Dual Position Players
 https://dreamteamtalk.com/2019/10/04/lachie-whitfield-to-be-a-mid-fwd-and-other-2020-afl-fantasy-player-positions/  
 20. Images  
-https://ccsearch.creativecommons.org/photos/fcce81da-d7be-4e3f-88ae-21892df53c11  
 https://ccsearch.creativecommons.org/photos/502b262b-13b4-47e2-8e7c-6e1afa97054c  
 https://ccsearch.creativecommons.org/photos/90c7b30a-4510-4075-bf88-fc5de5c4f878  
 https://ccsearch.creativecommons.org/photos/9049ceb7-32cd-44e8-bdd6-3f431d966afb  
