@@ -116,7 +116,6 @@ https://squiggle.com.au/0-4-futures/
 https://afltables.com/afl/stats/games/2018/101420180906.html  
 https://afltables.com/afl/seas/2018.html#1  
 http://www.matterofstats.com/score-progressions/  
-http://www.matterofstats.com/mafl-stats-journal/2014/7/17/modelling-the-total-score-in-an-afl-game  
 10. Read statistical models
 http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
 http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
@@ -124,8 +123,6 @@ https://mafl-online.squarespace.com/where-can-i-find-a-mafl-analysis-of-x
 11. Dashboards  
 http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
 https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team-dashboard-for-round-6.html  
-http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
-http://footymaths.blogspot.com/p/season-charts.html  
 13.  Draft Picks and Player Salaries    
 https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-riding-this-year/  
 https://overthecap.com/the-basics-and-methodology-of-projecting-the-nfls-compensatory-draft-picks/  
@@ -165,6 +162,7 @@ http://figuringfooty.com/2016/08/04/a-model-to-predict-and-rate-shots-by-quality
 http://figuringfooty.com/2017/04/18/the-secret-weapon-of-the-afls-best-forward-line/  
 http://www.matterofstats.com/mafl-stats-journal/2010/4/24/modelling-afl-team-scoring.html  
 https://aflratings.com.au/2019/08/08/by-the-numbers-points-per-inside-50-round-20/  
+http://www.matterofstats.com/mafl-stats-journal/2014/7/17/modelling-the-total-score-in-an-afl-game  
 https://www.hpnfooty.com/?p=29844  
 http://www.hpnfooty.com/?p=31703  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
