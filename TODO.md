@@ -113,9 +113,8 @@ http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-com
 https://theafllab.com/2019/03/02/the-soldier-model/  
 10.  Game scoring progression  
 https://squiggle.com.au/0-4-futures/  
-https://afltables.com/afl/stats/games/2018/101420180906.html  
-https://afltables.com/afl/seas/2018.html#1  
 http://www.matterofstats.com/score-progressions/  
+https://afltables.com/afl/stats/games/2019/031420190321.html - look at the very bottom table   
 10. Read statistical models
 http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
 http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
