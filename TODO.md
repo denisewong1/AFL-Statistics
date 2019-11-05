@@ -41,7 +41,6 @@ https://projects.fivethirtyeight.com/complete-history-of-the-nfl/
 http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
 https://theartandscienceofdata.wordpress.com/2016/09/17/predicting-the-english-premier-league-standings/  
 http://www.inforubiks.com/blog/ranking-every-afl-team-ever  
-betting odds for AFL - http://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/  
 https://www.espn.com.au/afl/story/_/id/27892329/afl-biggest-question-marks-every-team-heading-2020  
 https://www.stuff.co.nz/sport/rugby/rugby-world-cup/rwc-2019-japan/115754410/rwc-2019-all-blacks-are-favourites-but-they-probably-wont-win-the-rugby-world-cup  
 2020 predictions - https://www.abc.net.au/news/2019-10-31/crunching-the-numbers-behind-the-2020-afl-fixture/11657036  
@@ -62,6 +61,9 @@ https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/?from=
 http://www.glicko.net/glicko/glicko2.pdf  
 https://cran.r-project.org/web/packages/trueskill/trueskill.pdf  
 https://github.com/bhoung/trueskill-in-r  
+6f. Betting Odds models  
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198668 - Elo-Result, Elo-Goal and Elo-Odds model  
+betting odds for AFL - http://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/  
 6y. Team Model - benchmarking  
 Benchmarking - https://squiggle.com.au/leaderboard/  
 http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
