@@ -221,7 +221,6 @@ https://fantasyfootballers.quora.com/
 https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
 https://www.kdnuggets.com/2018/08/optimization-101-data-scientists.html  
 https://github.com/FantasyFootballAnalytics/FantasyFootballAnalyticsR/tree/master/R%20Scripts  
-https://github.com/fivethirtyeight/nfl-elo-game  
 https://thearcfooty.com/2017/04/23/arcs-first-birthday/  
 https://github.com/BriBecker/FantasyFootballAnalyticsR  
 https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
@@ -231,7 +230,6 @@ https://hurlingpeoplenow.wordpress.com/2016/07/15/round-17-close-games-are-still
 http://figuringfooty.com/2016/09/30/grand-final-preview-part-4-reader-questions/  
 http://www.afl.com.au/news/2018-06-05/the-stats-files-the-three-keys-to-winning-games-in-2018  
 https://www.abc.net.au/news/2017-09-07/what-chance-do-teams-really-have-of-winning-the-afl-grand-final/8862758  
-https://plussixoneblog.com/page/project-world-cup-datathon/  
 https://plussixoneblog.com/post/the-round-7-rule/  
 https://plussixoneblog.com/post/round-21-bring-back-match-importance/  
 https://plussixoneblog.com/post/beyond-the-8-point-game-estimating-match-importance-in-the-afl/  
