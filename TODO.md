@@ -151,6 +151,7 @@ https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-convers
 https://squiggle.com.au/its-2018/  
 https://i.redd.it/pbpoki6bf6r31.png - what do teams that made the grand final look like?  filter by round name?  
 16b.  Team Stat Analysis - team strength - inside 50 and scoring shots  
+https://i.redd.it/c26a81z3dyw31.png  - margin of difference  
 https://hurlingpeoplenow.wordpress.com/2016/04/29/lets-rate-team-strength-and-do-a-round-6-preview/  
 http://www.espn.com/espn/feature/story/_/id/20157852/footy-forensics-sydney-swans-rewrite-history-how-done-it  
 http://figuringfooty.com/2017/08/10/the-quality-and-quantity-of-shots-created-by-each-club/  
