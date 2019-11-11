@@ -32,6 +32,7 @@ http://troywheatley.blogspot.com/2016/10/which-afl-club-has-easiest-fixture-in.h
 https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/  
 6. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder
 6a. Team Model - ELO Rank to calculate win probability game by game margin of victory and home/away    
+https://en.wikipedia.org/wiki/Scoring_rule  
 ELO analysis - http://pier4r.wikidot.com/pierworks:articles:2017-06:elo-inights  
 https://www.pro-football-reference.com/blog/titles.html  
 Change in Form - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
