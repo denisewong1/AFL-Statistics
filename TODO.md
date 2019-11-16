@@ -70,7 +70,6 @@ Benchmarking - https://squiggle.com.au/leaderboard/
 http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
 6z. Match & Finals Predictions   
 https://stattraction.wordpress.com/2018/08/23/predictions-after-round-22-2018/  
-https://stattraction.wordpress.com/2018/03/27/ladder-prediction-after-round-1-2018/  
 https://stattraction.wordpress.com/2018/03/20/ladder-prediction-ratings-before-round-1-2018-and-some-housekeeping/  
 https://stattraction.wordpress.com/2016/03/06/fixture-analysis-pre-round-1-2016/  
 http://www.matterofstats.com/mafl-stats-journal/2017/8/10/how-close-has-the-2017-season-been  
