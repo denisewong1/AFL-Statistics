@@ -119,7 +119,6 @@ http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x
 https://mafl-online.squarespace.com/where-can-i-find-a-mafl-analysis-of-x  
 11. Dashboards  
 http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
-https://mafl-online.squarespace.com/mafl-team-dashboards/2013/5/5/mafl-2013-team-dashboard-for-round-6.html  
 13.  Draft Picks and Player Salaries    
 https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-riding-this-year/  
 https://overthecap.com/the-basics-and-methodology-of-projecting-the-nfls-compensatory-draft-picks/  
