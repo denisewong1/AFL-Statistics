@@ -268,6 +268,7 @@ https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  - v
 http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf  - visualisation  
 https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5 - visualisation  
 https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/ - visualisation    
+https://dreamteamtalk.com/2019/11/24/2019-afl-draft-fantasy-prospects/  
 https://dreamteamtalk.com/2019/08/06/inside-the-numbers-rd-20 - can i do these numbers in the five takeaways section?  
 https://towardsdatascience.com/mythbusting-fantasy-premier-league-form-over-fixtures-eecf9022e834  
 https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750  
