@@ -185,7 +185,6 @@ https://thedraftdoctors.com.au/2019/08/14/cbas-centre-bounce-attendances-round-2
 http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
 http://figuringfooty.com/2017/04/14/why-2017-results-are-flattering-the-cats/  
-https://thearcfooty.com/2017/07/04/sydneys-path-finals/  
 https://thearcfooty.com/2017/04/23/cant-eagles-fly/  
 http://hurlingpeoplenow.tumblr.com/post/100067599722/jarryd-haynes-prospects-in-the-nfl  
 https://hurlingpeoplenow.wordpress.com/2016/04/08/hpns-afl-round-3-preview/  
