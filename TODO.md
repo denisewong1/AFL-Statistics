@@ -84,7 +84,6 @@ https://towardsdatascience.com/toward-a-better-footy-tipping-model-an-analysis-o
 https://medium.com/@craigjfranklin/toward-a-better-footy-tipping-model-the-folly-of-memory-9351670abe19  
 https://blog.goodaudience.com/toward-a-better-footy-tipping-model-the-first-model-bbc8c67a472a  
 https://towardsdatascience.com/footy-tipping-with-machine-learning-adding-player-data-9ccdab56a4c5  
-factor - http://old.clubelo.com/Articles/Two-LegGames.html  
 weight index - http://old.clubelo.com/Articles/WeightIndex.html  
 poisson and histogram - http://old.clubelo.com/Articles/AdaptivePoissonparametersandresulthistogram.html  
 Use it to simulate outcomes for future matches Monte Carlo using rbinom - http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14   
