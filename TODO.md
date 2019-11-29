@@ -75,9 +75,7 @@ https://stattraction.wordpress.com/2016/03/06/fixture-analysis-pre-round-1-2016/
 http://www.matterofstats.com/mafl-stats-journal/2017/8/10/how-close-has-the-2017-season-been  
 http://www.matterofstats.com/mafl-stats-journal/2017/6/9/tipping-accuracy-vs-mae-as-a-footy-forecaster-metric  
 http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-17-2018.html  
-http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-15-2018.html  
 http://troywheatley.blogspot.com/2018/06/afl-power-rankings-round-13-2018.html  
-http://troywheatley.blogspot.com/2017/07/afl-power-rankings-round-16-2017.html  
 http://troywheatley.blogspot.com/2012/05/as-noted-in-this-weeks-afl-power.html  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
 http://troywheatley.blogspot.com/2016/05/afl-power-rankings-round-8-2016.html  
