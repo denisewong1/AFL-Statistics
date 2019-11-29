@@ -230,7 +230,6 @@ http://www.espn.com/espn/feature/story/_/id/19501873/footy-forensics-your-afl-cl
 http://www.espn.com/espn/feature/story/_/id/19449458/footy-forensics-your-afl-club-key-game-trend  
 https://squiggle.com.au/time-in-front-vs-wins/  
 http://www.espn.com/espn/feature/story/_/id/20231436/footy-forensics-afl-finals-swing-which-games-matter-most  
-https://hurlingpeoplenow.wordpress.com/2017/06/15/anatomy-of-an-upset-how-do-afl-teams-overcome-the-odds-to-spring-a-big-win/  
 https://legacy.baseballprospectus.com/glossary/index.php?context=6&category=true  
 https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors  
 https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/  
