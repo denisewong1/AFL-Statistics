@@ -219,11 +219,7 @@ http://www.afl.com.au/news/2018-06-05/the-stats-files-the-three-keys-to-winning-
 https://www.abc.net.au/news/2017-09-07/what-chance-do-teams-really-have-of-winning-the-afl-grand-final/8862758  
 https://plussixoneblog.com/post/the-round-7-rule/  
 https://plussixoneblog.com/post/beyond-the-8-point-game-estimating-match-importance-in-the-afl/  
-http://footymaths.blogspot.com/2017/03/2017-unpredictions-expected-wins.html  
-http://footymaths.blogspot.com/2017/03/2017-unpredictions-expected-finish.html  
 http://figuringfooty.com/2017/06/28/every-shot-in-the-2017-coleman-medal-race/  
-http://footymaths.blogspot.com/2017/06/15-score-review.html  
-http://footymaths.blogspot.com/2017/03/1-summer-of-footballing-love.html  
 http://footymaths.blogspot.com/2017/07/16-transition-rendition.html  
 https://squiggle.com.au/who-will-make-the-finals-the-wisdom-of-crowds-the-arc/  
 https://thearcfooty.com/2017/02/16/who-do-you-think-will-make-the-finals/  
