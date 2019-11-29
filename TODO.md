@@ -225,12 +225,10 @@ https://thearcfooty.com/2017/02/16/who-do-you-think-will-make-the-finals/
 http://footymaths.blogspot.com/2017/03/post-jlt-break.html  
 http://www.matterofstats.com/mafl-stats-journal/2017/2/20/selected-afl-twitter-networks  
 http://www.matterofstats.com/mafl-stats-journal/2014/3/7/attaching-probabilities-to-game-margins-the-magic-of-quantile-regression  
-https://thearcfooty.com/2017/04/02/3055/  
 http://www.espn.com/espn/feature/story/_/id/19013312/footy-forensics-statistics-prove-crunch-already-2017-afl-season  
 http://www.espn.com/espn/feature/story/_/id/19501873/footy-forensics-your-afl-club-key-game-trend-part-ii  
 http://www.espn.com/espn/feature/story/_/id/19449458/footy-forensics-your-afl-club-key-game-trend  
 https://squiggle.com.au/time-in-front-vs-wins/  
-https://squiggle.com.au/how-close-has-the-2017-season-been-matter-of-stats/  
 http://www.espn.com/espn/feature/story/_/id/20231436/footy-forensics-afl-finals-swing-which-games-matter-most  
 https://hurlingpeoplenow.wordpress.com/2017/06/15/anatomy-of-an-upset-how-do-afl-teams-overcome-the-odds-to-spring-a-big-win/  
 https://legacy.baseballprospectus.com/glossary/index.php?context=6&category=true  
