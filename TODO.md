@@ -207,14 +207,11 @@ https://blog.datarobot.com/using-datarobot-to-predict-nba-player-performance
 https://becominghuman.ai/a-i-fantasy-football-week-to-week-projections-e7f8895e9cb1  
 https://arxiv.org/pdf/1604.01455v2.pdf  
 http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
-https://fantasyfootballers.quora.com/  
 https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
 https://www.kdnuggets.com/2018/08/optimization-101-data-scientists.html  
 https://github.com/FantasyFootballAnalytics/FantasyFootballAnalyticsR/tree/master/R%20Scripts  
-https://thearcfooty.com/2017/04/23/arcs-first-birthday/  
 https://github.com/BriBecker/FantasyFootballAnalyticsR  
 https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
-http://www.afl.com.au/news/2017-12-28/stats-glossary-every-stat-explained  
 https://www.pro-football-reference.com/blog/indexd65e.html?cat=8  
 https://hurlingpeoplenow.wordpress.com/2016/07/15/round-17-close-games-are-still-basically-random/  
 http://figuringfooty.com/2016/09/30/grand-final-preview-part-4-reader-questions/  
