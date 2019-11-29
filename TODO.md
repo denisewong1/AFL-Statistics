@@ -194,8 +194,6 @@ https://plussixoneblog.com/post/leaping-kangaroos/
 https://plussixoneblog.com/post/annus-horribilis-fremantle/  
 http://figuringfooty.com/2016/09/15/a-fresh-way-to-think-about-footy-hawthorn-v-western-bulldogs/  
 http://figuringfooty.com/2016/09/28/grand-final-preview-part-2-a-team-of-champions-or-a-champion-team/  
-http://troywheatley.blogspot.com/2012/05/what-has-happened-to-collingwood.html  
-https://hurlingpeoplenow.wordpress.com/2017/06/01/what-do-we-really-know-about-port-adelaide/  
 17a Match Analysis  
 https://mobile.abc.net.au/news/2019-09-28/the-data-says-afl-grand-final-might-be-closer-than-you-think/11549510?pfmredir=sm  
 17.  Other interesting things 
