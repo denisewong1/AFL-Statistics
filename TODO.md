@@ -221,10 +221,8 @@ https://plussixoneblog.com/post/the-round-7-rule/
 https://plussixoneblog.com/post/beyond-the-8-point-game-estimating-match-importance-in-the-afl/  
 http://figuringfooty.com/2017/06/28/every-shot-in-the-2017-coleman-medal-race/  
 http://footymaths.blogspot.com/2017/07/16-transition-rendition.html  
-https://squiggle.com.au/who-will-make-the-finals-the-wisdom-of-crowds-the-arc/  
 https://thearcfooty.com/2017/02/16/who-do-you-think-will-make-the-finals/  
 http://footymaths.blogspot.com/2017/03/post-jlt-break.html  
-https://squiggle.com.au/who-won-the-pre-season/  
 http://www.matterofstats.com/mafl-stats-journal/2017/2/20/selected-afl-twitter-networks  
 https://hurlingpeoplenow.wordpress.com/2017/04/07/the-archpn-crossover-dont-stress-if-your-team-is-0-2/  
 https://squiggle.com.au/how-surprising-were-the-round-7-results/  
