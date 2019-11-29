@@ -224,11 +224,7 @@ http://footymaths.blogspot.com/2017/07/16-transition-rendition.html
 https://thearcfooty.com/2017/02/16/who-do-you-think-will-make-the-finals/  
 http://footymaths.blogspot.com/2017/03/post-jlt-break.html  
 http://www.matterofstats.com/mafl-stats-journal/2017/2/20/selected-afl-twitter-networks  
-https://hurlingpeoplenow.wordpress.com/2017/04/07/the-archpn-crossover-dont-stress-if-your-team-is-0-2/  
-https://squiggle.com.au/how-surprising-were-the-round-7-results/  
 http://www.matterofstats.com/mafl-stats-journal/2014/3/7/attaching-probabilities-to-game-margins-the-magic-of-quantile-regression  
-https://hurlingpeoplenow.wordpress.com/2017/04/21/are-north-and-hawthorn-bad-or-have-they-just-faced-a-tough-draw/  
-https://hurlingpeoplenow.wordpress.com/2017/03/30/what-does-winning-in-round-1-mean/  
 https://thearcfooty.com/2017/04/02/3055/  
 http://www.espn.com/espn/feature/story/_/id/19013312/footy-forensics-statistics-prove-crunch-already-2017-afl-season  
 http://www.espn.com/espn/feature/story/_/id/19501873/footy-forensics-your-afl-club-key-game-trend-part-ii  
