@@ -76,9 +76,8 @@ http://www.matterofstats.com/mafl-stats-journal/2017/8/10/how-close-has-the-2017
 http://www.matterofstats.com/mafl-stats-journal/2017/6/9/tipping-accuracy-vs-mae-as-a-footy-forecaster-metric  
 http://troywheatley.blogspot.com/2018/07/afl-power-rankings-round-17-2018.html  
 http://troywheatley.blogspot.com/2018/06/afl-power-rankings-round-13-2018.html  
-http://troywheatley.blogspot.com/2012/05/as-noted-in-this-weeks-afl-power.html  
+https://thearcfooty.com/2019/09/11/ratings-and-projects-after-finals-week-1/  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
-http://troywheatley.blogspot.com/2016/05/afl-power-rankings-round-8-2016.html  
 Another model - http://figuringfooty.com/the-figuring-footy-predictions/  
 https://multithreaded.stitchfix.com/blog/2016/11/22/nba-rankings/  - clustering  
 https://towardsdatascience.com/toward-a-better-footy-tipping-model-an-analysis-of-basic-heuristics-80de4235e768  
