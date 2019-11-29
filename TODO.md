@@ -248,7 +248,6 @@ https://keeperleaguepod.com.au/afl-draft-club-fantasy-scores/
 https://dreamteamtalk.com/2019/08/06/inside-the-numbers-rd-20 - can i do these numbers in the five takeaways section?  
 https://towardsdatascience.com/mythbusting-fantasy-premier-league-form-over-fixtures-eecf9022e834  
 https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750  
-https://dreamteamtalk.com/2018/11/01/2019-afl-fixture-and-fantasy/  
 http://www.afl.com.au/news/2018-02-13/how-to-dominate-fantasy-2017s-winner-reveals-all  
 https://intoli.com/blog/fantasy-football-for-hackers/  
 https://www.afl.com.au/news/2019-04-23/fantasy-dpp-additions-meet-the-record-15-new-forwards  
@@ -260,10 +259,7 @@ https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/
 https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet     
 https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ output vs expectations  
 https://dreamteamtalk.com/2013/04/18/mythbusting-dt-insider-guest-post/ strategies  
-https://dreamteamtalk.com/2012/02/01/2012-fixture-study/  fixture study   
-https://dreamteamtalk.com/2018/10/06/2017-18-ha-season-player-average-comparison-western-bulldogs/  
 https://dreamteamtalk.com/author/aflratings/   
-https://dreamteamtalk.com/2019/01/19/roys-best-22-for-2019-january-edition/  
 https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/  
 https://dreamteamtalk.com/category/resources/sample-teams/  
 https://dreamteamtalk.com/2017/09/11/the-2017-optimal-afl-fantasy-team-finally-proves-link-between-genius-and-madness/  
@@ -274,7 +270,6 @@ https://supercoachtalk.com/supercoach-points-distribution/
 https://dspace.mit.edu/handle/1721.1/100687  
 https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
 Stanford - http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
-http://forum.fanfooty.com.au/index.php/board,1.0.html  
 https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/afl-analysis-should-favourite-stacks-include-the-defenders  
 https://www.fantasyinsider.com.au/blog/AFL/a-beginners-guide-to-afl-dfs-game-day-strategies  
 https://www.fantasyinsider.com.au/blog/Site%20News/now-available-nrl-afl-draft-guides  
