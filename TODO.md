@@ -65,6 +65,7 @@ https://github.com/bhoung/trueskill-in-r
 6f. Betting Odds models  
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198668 - Elo-Result, Elo-Goal and Elo-Odds model  
 betting odds for AFL - http://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/  
+https://teddykoker.com/2019/12/beating-the-odds-machine-learning-for-horse-racing/  
 6y. Team Model - benchmarking  
 Benchmarking - https://squiggle.com.au/leaderboard/  
 http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
