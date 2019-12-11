@@ -89,6 +89,7 @@ weight index - http://old.clubelo.com/Articles/WeightIndex.html
 poisson and histogram - http://old.clubelo.com/Articles/AdaptivePoissonparametersandresulthistogram.html  
 Use it to simulate outcomes for future matches Monte Carlo using rbinom - http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14   
 7. Build a rating system for each player based on player stats  
+https://twitter.com/FanFooty/status/1199904493174804480/photo/1 sample player dashboard  
 https://www.afl.com.au/news/retirements-and-delistings  for 2020 season  
 http://www.matterofstats.com/mafl-stats-journal/2018/11/21/classifying-recent-afl-players-by-position-part-4-2018-team-profiles-how-many-player-types-are-there  
 https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
@@ -138,6 +139,7 @@ https://public.tableau.com/profile/craig.heard#!/vizhome/Book1_15691139127170/10
 https://arxiv.org/pdf/1802.00998.pdf  
 http://www.82games.com/comm30.htm  
 https://www.reddit.com/r/dataisbeautiful/comments/disxti/mlb_batting_average_leaders_over_time_oc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf  
+https://dreamteamtalk.com/2019/10/04/lachie-whitfield-to-be-a-mid-fwd-and-other-2020-afl-fantasy-player-positions player positions  
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
 16a. Team Stats Analysis - goal kicking accuracy or goal/score conversion  
