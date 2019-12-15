@@ -116,6 +116,9 @@ https://afltables.com/afl/stats/games/2019/031420190321.html - look at the very 
 http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
 http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
 https://mafl-online.squarespace.com/where-can-i-find-a-mafl-analysis-of-x  
+https://jamesblandecon.github.io/AFLAngleSetShots.html  
+https://www.statsinsider.com.au/afl/afl-stats-review-key-statistics-that-defined-the-2019-season  
+https://sites.google.com/site/jamesbland/code-examples?authuser=0  
 11. Dashboards  
 http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
 13.  Draft Picks and Player Salaries    
