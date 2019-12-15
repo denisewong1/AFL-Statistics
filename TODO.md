@@ -62,6 +62,7 @@ https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/?from=
 http://www.glicko.net/glicko/glicko2.pdf  
 https://cran.r-project.org/web/packages/trueskill/trueskill.pdf  
 https://github.com/bhoung/trueskill-in-r  
+https://github.com/JaseZiv/Dont-Blame-the-Data-Data-Files/tree/master/analysing_afl_team_age  
 6f. Betting Odds models  
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198668 - Elo-Result, Elo-Goal and Elo-Odds model  
 betting odds for AFL - http://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/  
@@ -70,6 +71,8 @@ https://teddykoker.com/2019/12/beating-the-odds-machine-learning-for-horse-racin
 Benchmarking - https://squiggle.com.au/leaderboard/  
 http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
 6z. Match & Finals Predictions   
+https://cran.r-project.org/web/packages/fitzRoy/index.html  
+https://github.com/JaseZiv/AFL-Crowd-Analytics  
 https://stattraction.wordpress.com/2018/08/23/predictions-after-round-22-2018/  
 https://stattraction.wordpress.com/2018/03/20/ladder-prediction-ratings-before-round-1-2018-and-some-housekeeping/  
 https://stattraction.wordpress.com/2016/03/06/fixture-analysis-pre-round-1-2016/  
