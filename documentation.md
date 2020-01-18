@@ -11,16 +11,16 @@ Note : FTWName & TeamID is the source of all truth
 Project Organization
 --------------------
 
-    .
-    ├── AUTHORS.md
-    ├── LICENSE
-    ├── README.md
-    ├── bin
-    ├── config
-    ├── data
+    
+    ├── AUTHORS.md  
+    ├── LICENSE  
+    ├── README.md  
+    ├── bin  
+    ├── config  
+    ├── data  
     │   ├── external  
     |       ├── YYYY_BE.csv 
-    |       ├── dfSalaryCap.csv 
+    |       ├── dfSalaryCap.csv  
     |       └── mapFTWotAFLNameFirst.csv   
     │   ├── results  
     |       └── ftsy  
@@ -28,12 +28,12 @@ Project Organization
     |           └── YYYY_magicnumber.csv           
     │   ├── round  
     |       ├── YYYYRRR_FWplayerpos.csv  
-    |       └── YYYYRRR_FWplayerstats.csv        
-    |   └── season  
+    |       └── YYYYRRR_FWplayerstats.csv           
+    |   └── season  
     |       ├── YYYY_FWbetting.csv  
     |       ├── YYYY_FWfixture.csv    
     |       ├── YYYY_FWplayerftsy.csv    
-    |       └── YYYY_FWplayerid.csv       
+    |       └── YYYY_FWplayerid.csv           
     ├── docs  
     ├── notebooks  
     |   ├── 001_compile_data  
@@ -47,8 +47,8 @@ Project Organization
             ├── compile_helper.R  
             ├── compileFW.R  
             ├── scrape_helper.R  
-            ├── scrapeAT.R 
-            ├── scrapeDT.R 
+            ├── scrapeAT.R  
+            ├── scrapeDT.R  
             └── scrapeFW.R          
         ├── eda  
             └── EDA001_draft.Rmd          
