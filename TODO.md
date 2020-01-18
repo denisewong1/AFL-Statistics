@@ -129,8 +129,6 @@ http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashbo
 13.  Draft Picks and Player Salaries    
 https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-riding-this-year/  
 https://overthecap.com/the-basics-and-methodology-of-projecting-the-nfls-compensatory-draft-picks/  
-https://www.afl.com.au/news/2019-03-06/six-milliondollar-men-as-player-salaries-go-up-again  
-https://dreamteamtalk.com/?p=64750  
 http://www.hpnfooty.com/?p=32006  
 https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8?shareType=nongift  
 14.  Player Analysis  
