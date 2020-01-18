@@ -19,55 +19,41 @@ Project Organization
     ├── config
     ├── data
     │   ├── external  
-    |         ├── YYYY_BE.csv 
-    |         ├── dfSalaryCap.csv 
-    |         └── mapFTWotAFLNameFirst.csv             
-    │   ├── interim (preprocess)
-    │      ├── season
-    |         ├── YYYY_AFLnamemap.csv  
-    |         ├── YYYY_FTWnameMap.csv    
-    |         ├── YYYY_ftsyAFL.csv  
-    |         ├── YYYY_ftsyFTW.csv     
-    |         ├── YYYY_nameMap.csv    
-    |         └── YYYY_namemapError.csv       
-    │      └── weekly  
-    |         ├── YYYYRxx_PredRound.csv  
-    |         └── YYYYRxx_PredSeason.csv  
-    │   ├── processed (clean)
-    |         ├── YYYY_features.csv  
-    |         ├── YYYY_fixture.csv  
-    |         ├── YYYY_idPlayer.csv  
-    |         └── YYYY_magicnumber.csv      
-    │   ├── raw (scrape) 
-    │      ├── season
-    |         ├── YYYY_FFFfixture.csv  
-    |         ├── YYYY_FTWfixture.csv  
-    |         ├── YYYY_FTWplayerhistory.csv  
-    |         └── YYYY_FFFplayerprofile.csv    
-    │      └── weekly  
-    |         ├── YYYYRxx_AFLadvancedstats.csv  
-    |         ├── YYYYRxx_AFLteamlineup.csv  
-    |         └── YYYYRxx_FTWteamlineup.csv   
-    │   └── simulations 
-    |         ├── LP00x_YYYY_PL.csv
-    |         ├── LP00x_YYYY_Score.csv
-    |         └── LP00x_YYYY_Team.csv   
+    |       ├── YYYY_BE.csv 
+    |       ├── dfSalaryCap.csv 
+    |       └── mapFTWotAFLNameFirst.csv   
+    │   ├── results
+    |       └── ftsy
+    |           ├── YYYY_ftsy.csv    
+    |           └── YYYY_magicnumber.csv           
+    │   ├── round
+    |       ├── YYYYRRR_FWplayerpos.csv  
+    |       └── YYYYRRR_FWplayerstats.csv        
+    |   └── season
+    |       ├── YYYY_FWbetting.csv  
+    |       ├── YYYY_FWfixture.csv    
+    |       ├── YYYY_FWplayerftsy.csv    
+    |       └── YYYY_FWplayerid.csv       
     ├── docs
     ├── notebooks
+    |   ├── 001_compile_data
+    |   └── 002_ftsy_breakeven
     ├── reports
     │   └── figures
     └── src
         ├── apps
-           ├── AFLFantasyApp          
+            ├── AFLFantasyApp          
         ├── data
-           ├── features.R  
-           ├── preprocess_make.R  
-           ├── preprocess_read.R  
-           ├── scrapeAFL.R 
-           ├── scrapeFFF.R 
-           └── scrapeFTW.R          
-        ├── external
+            ├── compile_helper.R  
+            ├── compileFW.R  
+            ├── scrape_helper.R  
+            ├── scrapeAT.R 
+            ├── scrapeDT.R 
+            └── scrapeFW.R          
+        ├── eda
+            └── EDA001_draft.Rmd          
         ├── models
-           └── model_LP00x.R          
+            ├── params_ftsy.R
+            └── model_ftsy.R          
         ├── tools
         └── visualization
