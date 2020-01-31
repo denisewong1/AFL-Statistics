@@ -33,6 +33,7 @@ https://squiggle.com.au/fixture-analysis-2018-home-ground-advantage/
 6. Calculate ELO style team ratings for each round before adjustments for HGA venue and interstate; compare to AFL ladder
 6a. Team Model - ELO Rank to calculate win probability game by game margin of victory and home/away    
 https://en.wikipedia.org/wiki/Scoring_rule  
+http://freerangestats.info/blog/2019/03/23/afl-elo  
 ELO analysis - http://pier4r.wikidot.com/pierworks:articles:2017-06:elo-inights  
 https://www.pro-football-reference.com/blog/titles.html  
 Change in Form - http://www.matterofstats.com/mafl-stats-journal/2014/1/7/introducing-chips?rq=chips  
@@ -292,6 +293,15 @@ https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e - foo
 https://public.tableau.com/profile/gordon.rae#!/vizhome/FantasyFootball201920/FantasyFootballGuide  visualisation  
 https://www.reddit.com/r/aflfantasy/comments/cgk6tq/planning_for_2020_already_things_i_learned_being/?utm_source=share&utm_medium=ios_app   
 https://amiles.netlify.com/2019/09/building-optimal-daily-fantasy-lineups-in-r/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_252  
+https://fantasyfootballdatapros.com/index.php/2020/01/02/how-to-get-started-using-python-for-fantasy-football-analysis/  
+https://towardsdatascience.com/basketball-analytics-predicting-win-shares-7c155651e7cc  
+https://medium.com/@bdruby01  
+https://i.redd.it/z845a74zlgb41.png  
+https://i.redd.it/daf66mqqqsc41.png  
+https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e  
+https://preview.redd.it/otuo2ylmpl641.gif?format=mp4&s=a3b7c45fa6e2c9df168dac2772397955ad3585c9  
+https://aflratings.com.au/2019/12/18/afl-fantasy-new-utility-position-strategy/  
+http://www.fanfooty.com.au/game/dreamteam.php  
 20a. Player Positions  
 https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef  
 20b. Dual Position Players
