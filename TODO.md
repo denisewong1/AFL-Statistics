@@ -145,7 +145,8 @@ https://public.tableau.com/profile/craig.heard#!/vizhome/Book1_15691139127170/10
 https://arxiv.org/pdf/1802.00998.pdf  
 http://www.82games.com/comm30.htm  
 https://www.reddit.com/r/dataisbeautiful/comments/disxti/mlb_batting_average_leaders_over_time_oc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf  
-https://dreamteamtalk.com/2019/10/04/lachie-whitfield-to-be-a-mid-fwd-and-other-2020-afl-fantasy-player-positions player positions  
+https://dreamteamtalk.com/2019/10/04/lachie-whitfield-to-be-a-mid-fwd-and-other-2020-afl-fantasy-player-positions player positions 
+https://keeperleaguepod.com.au/breakout-tracker-out-now/  breakout tracker  
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
 16a. Team Stats Analysis - goal kicking accuracy or goal/score conversion  
@@ -255,6 +256,7 @@ https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5 -
 https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/ - visualisation    
 https://dreamteamtalk.com/2019/11/24/2019-afl-draft-fantasy-prospects/  
 https://keeperleaguepod.com.au/afl-draft-club-fantasy-scores/  
+https://keeperleaguepod.com.au/top-20-fantasy-draftees/ draft players  
 https://dreamteamtalk.com/2019/08/06/inside-the-numbers-rd-20 - can i do these numbers in the five takeaways section?  
 https://towardsdatascience.com/mythbusting-fantasy-premier-league-form-over-fixtures-eecf9022e834  
 https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750  
