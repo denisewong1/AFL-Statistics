@@ -46,6 +46,7 @@ http://www.inforubiks.com/blog/ranking-every-afl-team-ever
 https://www.espn.com.au/afl/story/_/id/27892329/afl-biggest-question-marks-every-team-heading-2020  
 https://www.stuff.co.nz/sport/rugby/rugby-world-cup/rwc-2019-japan/115754410/rwc-2019-all-blacks-are-favourites-but-they-probably-wont-win-the-rugby-world-cup  
 2020 predictions - https://www.abc.net.au/news/2019-10-31/crunching-the-numbers-behind-the-2020-afl-fixture/11657036  
+https://towardsdatascience.com/how-to-improve-sports-betting-odds-step-by-step-guide-in-python-94626b852f45  
 Simulations & good code in R - https://github.com/lazappi/afl-2018/blob/master/analysis/round5.Rmd  and https://github.com/lazappi/aflelo/blob/master/R/simulate.R  and http://lazappi.id.au/2018/04/my-afl-elo-model/  
 6b. Team Model - converting ELO rank and win probability to margin of victory  
 MOV adjustments - http://andr3w321.com/elo-ratings-part-2-margin-of-victory-adjustments/  
