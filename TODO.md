@@ -133,6 +133,7 @@ https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-rid
 https://overthecap.com/the-basics-and-methodology-of-projecting-the-nfls-compensatory-draft-picks/  
 http://www.hpnfooty.com/?p=32006  
 https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8?shareType=nongift  
+https://www.bigfooty.com/forum/threads/resources-rules-and-regulations-a-guide-to-the-draft-trading-and-free-agency-in-the-afl.1229400/  draft resources  
 14.  Player Analysis  
 https://squiggle.com.au/how-impressive-was-dustys-game/  
 https://squiggle.com.au/is-patrick-dangerfield-having-a-better-2017-than-2016/  
