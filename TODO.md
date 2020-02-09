@@ -150,6 +150,10 @@ http://www.82games.com/comm30.htm
 https://www.reddit.com/r/dataisbeautiful/comments/disxti/mlb_batting_average_leaders_over_time_oc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf  
 https://dreamteamtalk.com/2019/10/04/lachie-whitfield-to-be-a-mid-fwd-and-other-2020-afl-fantasy-player-positions player positions 
 https://keeperleaguepod.com.au/breakout-tracker-out-now/  breakout tracker  
+http://coachespanel.tv/what-is-the-50-most-relevant/  
+http://coachespanel.tv/round-3-positional-changes/ dual position players  
+http://coachespanel.tv/17-players-that-will-have-different-positions-in-2020/  dual position players  
+https://www.afl.com.au/news/367727/secrets-to-success-how-best-to-use-the-new-utility-position-in-fantasy utility position  
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
 16a. Team Stats Analysis - goal kicking accuracy or goal/score conversion  
