@@ -141,7 +141,9 @@ http://figuringfooty.com/2017/06/01/are-west-coast-too-dependent-on-kennedy/
 http://insightlane.com/2018/10/15/buddy-900-and-benchmarking-the-greatest-goal-kickers-in-vfl-afl-history/  
 https://plussixoneblog.com/post/the-deledio-effect/  
 http://www.afl.com.au/stats/player-ratings/ratings-explained  
+https://twitter.com/championdata/status/1200221394799222784/photo/1  player similarity  
 http://www.espn.com/espn/feature/story/_/id/19122983/footy-forensics-statistics-champion-team-team-champions-2017-afl-season?ex_cid=espnTW_ANZL  
+https://dreamteamtalk.com/2020/02/13/rory-laird-deck-of-dt-2020  scores by oppisition  
 http://www.espn.com/espn/feature/story/_/id/20355634/footy-forensics-statistics-west-coast-josh-kennedy-season-ages  
 https://towardsdatascience.com/predicting-premier-league-odds-from-ea-player-bfdb52597392  
 https://public.tableau.com/profile/craig.heard#!/vizhome/Book1_15691139127170/100Club?publish=yes  
@@ -161,6 +163,7 @@ http://figuringfooty.com/2016/07/07/the-goal-kicking-accuracy-fallacy/  create a
 http://figuringfooty.com/2016/06/29/goal-kicking-accuracy-maps-expscore/  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/23/scoring-shot-conversion-history-in-the-vflafl-1897-2015  
 https://squiggle.com.au/its-2018/  
+https://www.afl.com.au/news/41072/the-misfiring-mids-cruelling-the-dogs-finals-chances expected scores  
 https://i.redd.it/pbpoki6bf6r31.png - what do teams that made the grand final look like?  filter by round name?  
 16b.  Team Stat Analysis - team strength - inside 50 and scoring shots  
 https://i.redd.it/c26a81z3dyw31.png  - margin of difference  
@@ -178,6 +181,7 @@ https://www.hpnfooty.com/?p=29844
 http://www.hpnfooty.com/?p=31703  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html  
+https://twitter.com/championdata/status/1199475212300902401 scoring efficiency  
 16c. Team Stat Analysis - kicks  
 http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-analysis-of-the-kicking-statistics-in-afl.html  
 16d. Team Stat Analysis - tackles  
@@ -199,6 +203,8 @@ https://www.adelaidenow.com.au/sport/afl/the-afls-top-metre-eaters/news-story/1c
 https://www.espn.com.au/afl/story/_/id/27199381/metres-gained-breaking-afl-most-misunderstood-statistic  
 16j. Team Stat Analysis - centre bounce  
 https://thedraftdoctors.com.au/2019/08/14/cbas-centre-bounce-attendances-round-21-afl-fantasy-supercoach-gold/  
+16k. Team Stat Analysis - time on ground  
+https://twitter.com/championdata/status/1194386576043737090/photo/1  
 16.  Team Analysis  
 http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
@@ -212,10 +218,16 @@ https://plussixoneblog.com/post/leaping-kangaroos/
 https://plussixoneblog.com/post/annus-horribilis-fremantle/  
 http://figuringfooty.com/2016/09/15/a-fresh-way-to-think-about-footy-hawthorn-v-western-bulldogs/  
 http://figuringfooty.com/2016/09/28/grand-final-preview-part-2-a-team-of-champions-or-a-champion-team/  
+https://i.redd.it/r80p9l2zzog41.png  where do teams defend?  
 17a Match Analysis  
 https://mobile.abc.net.au/news/2019-09-28/the-data-says-afl-grand-final-might-be-closer-than-you-think/11549510?pfmredir=sm  
 17.  Other interesting things 
 https://www.reddit.com/r/datascience/comments/c4mgsg/daily_fantasy_sports_ownership_projection/?utm_source=share&utm_medium=ios_app - fantasy sports ownership   
+https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/121397 feature creation  
+https://www.kaggle.com/jpmiller/nfl-punt-analytics eda  
+https://www.kaggle.com/statsbymichaellopez/nfl-tracking-wrangling-voronoi-and-sonars vectirs  
+https://www.kaggle.com/jaseziv83/comprehensive-cleaning-and-eda-of-all-variables eda  
+https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/112044 probability  
 https://www.armchairanalysis.com/  
 https://medium.com/fantasy-outliers  
 https://www.datarobot.com/sports-analytics/  
