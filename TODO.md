@@ -103,6 +103,7 @@ https://www.pro-football-reference.com/blog/index37a8.html
 https://thearcfooty.com/2016/10/15/classifying-players-positions-using-public-data/  
 http://www.hpnfooty.com/?p=27528  
 http://www.hpnfooty.com/?p=21810  
+https://content.iospress.com/articles/journal-of-sports-analytics/jsa190290  
 https://www.pro-football-reference.com/blog/index37a8.html  
 https://www.pro-football-reference.com/blog/index6b92.html?p=465  
 https://hurlingpeoplenow.wordpress.com/2017/08/31/introducing-player-approximate-value-pav/  
