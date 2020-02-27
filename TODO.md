@@ -186,6 +186,7 @@ https://twitter.com/championdata/status/1199475212300902401 scoring efficiency
 http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-analysis-of-the-kicking-statistics-in-afl.html  
 16d. Team Stat Analysis - tackles  
 https://plussixoneblog.com/post/the-tackle-machine/  
+https://www.scisports.com/defensive-contribution-ratings-in-scisports-platform-enable-in-depth-data-driven-scouting-of-defenders/  
 16e. Team Stat Analysis  - hitouts
 http://www.espn.com/espn/feature/story/_/id/19235793/footy-forensics-afl-ruckmen-redundant  
 16f. Team Stat Analysis - free kicks  
@@ -205,6 +206,10 @@ https://www.espn.com.au/afl/story/_/id/27199381/metres-gained-breaking-afl-most-
 https://thedraftdoctors.com.au/2019/08/14/cbas-centre-bounce-attendances-round-21-afl-fantasy-supercoach-gold/  
 16k. Team Stat Analysis - time on ground  
 https://twitter.com/championdata/status/1194386576043737090/photo/1  
+16l. Team Stat Analysis - Centre Bounce Attendances
+Centre bounce attendances (CBAs) are a key stat that Fantasy coaches like to track. Players starting in the middle when each quarter commences or after a goal are gold. Even better when they are named as defenders or forwards in Fantasy that could see them bargain buys in Classic or potential sleepers in Draft that could give you a leg-up over your opponents.  
+https://www.afl.com.au/news/377802  
+https://www.jockreynolds.com.au/2020/02/26/all-of-the-jrsc-supercoach-2020-tools-in-one-place/  
 16.  Team Analysis  
 http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
@@ -223,6 +228,7 @@ https://i.redd.it/r80p9l2zzog41.png  where do teams defend?
 https://mobile.abc.net.au/news/2019-09-28/the-data-says-afl-grand-final-might-be-closer-than-you-think/11549510?pfmredir=sm  
 17.  Other interesting things 
 https://www.reddit.com/r/datascience/comments/c4mgsg/daily_fantasy_sports_ownership_projection/?utm_source=share&utm_medium=ios_app - fantasy sports ownership   
+https://www.afl.com.au/news/368098/roy-s-first-fantasy-team-and-five-simple-steps-to-making-yours  
 https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/121397 feature creation  
 https://www.kaggle.com/jpmiller/nfl-punt-analytics eda  
 https://www.kaggle.com/statsbymichaellopez/nfl-tracking-wrangling-voronoi-and-sonars vectirs  
