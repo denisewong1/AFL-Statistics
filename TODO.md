@@ -291,6 +291,7 @@ https://intoli.com/blog/fantasy-football-for-hackers/
 https://www.afl.com.au/news/2019-04-23/fantasy-dpp-additions-meet-the-record-15-new-forwards  
 https://aflratings.com.au/category/injuries/ - Injury weekly pages  
 http://www.fanfooty.com.au/blog/  - news pages to scrape  
+https://www.espn.com/soccer/english-premier-league/story/4061662/how-firmino-and-salahsterling-and-de-bruyne-rank-among-best-duos-in-soccer-when-it-comes-to-chemistry - duos  
 https://aflfantasies.com/2018/buyer-beware-part-2/  
 https://aflfantasies.com/2018/band-brothers-part-3/  
 https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/  
