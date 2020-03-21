@@ -1,0 +1,3 @@
+Player Performance Prediction : Predicting how well a player will perform in the real-world and therefore the number of points that a player will obtain both in a single game and over a given time period.
+Team Formation Optimization : Selecting an optimal team using the performance predictions so that the constraints of the fantasy league are met.  This also includes the challenge of making effective transfers in the longer fantasy leagues.
+Other challenges are player price forecasts, opponent modelling after every match, draft strategies and betting strategies to maximize the chances of winning cash in DFS fantasy games.
