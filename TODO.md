@@ -333,6 +333,7 @@ https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e
 https://preview.redd.it/otuo2ylmpl641.gif?format=mp4&s=a3b7c45fa6e2c9df168dac2772397955ad3585c9  
 https://aflratings.com.au/2019/12/18/afl-fantasy-new-utility-position-strategy/  
 http://www.fanfooty.com.au/game/dreamteam.php  
+Implementation of Reinforcement Learning Algorithm for Fantasy Football - https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/download/5088/5473    
 20a. Player Positions  
 https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef  
 20b. Dual Position Players
