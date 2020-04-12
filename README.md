@@ -7,6 +7,7 @@ how to use fitzroy - https://www.r-bloggers.com/brownlow-competition/
 https://squiggle.com.au/the-squiggle-api/  
 http://www.mathsportinternational.com/anziam.html  
 Define the goal of fantasy football explicitly   http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
+Handbook with soccer analytics research https://github.com/devinpleuler/analytics-handbook  
 
 Machine Learning Model - https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731  
 Reddit - https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
