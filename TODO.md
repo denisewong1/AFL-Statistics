@@ -120,7 +120,7 @@ https://theafllab.com/2019/03/02/the-soldier-model/
 https://squiggle.com.au/0-4-futures/  
 http://www.matterofstats.com/score-progressions/  
 https://afltables.com/afl/stats/games/2019/031420190321.html - look at the very bottom table   
-10. Read statistical models
+10. Read statistical models  
 http://www.matterofstats.com/where-can-i-find-a-mafl-statistical-model-of-x  
 http://www.matterofstats.com/where-can-i-find-an-example-of-the-use-of-x  
 https://mafl-online.squarespace.com/where-can-i-find-a-mafl-analysis-of-x  
@@ -136,6 +136,13 @@ http://www.hpnfooty.com/?p=32006
 https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8?shareType=nongift  
 https://www.bigfooty.com/forum/threads/resources-rules-and-regulations-a-guide-to-the-draft-trading-and-free-agency-in-the-afl.1229400/  draft resources  
 14.  Player Analysis  
+http://www.matterofstats.com/mafl-stats-journal/2020/4/28/a-review-of-afl-player-rating-data  
+https://pdfs.semanticscholar.org/765f/63edf57f6f349da9b716f170fc221394ba44.pdf  
+https://github.com/devinpleuler/analytics-handbook  
+https://statsbomb.com/articles/  
+http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
+https://www.statsinsider.com.au/afl/the-stats-and-trends-that-defined-round-one  
+https://www.abc.net.au/news/2020-06-11/how-richmond-tigers-afl-player-dustin-martin-destroys-compeition/12335750?section=sport  
 https://squiggle.com.au/how-impressive-was-dustys-game/  
 https://squiggle.com.au/is-patrick-dangerfield-having-a-better-2017-than-2016/  
 http://figuringfooty.com/2017/06/01/are-west-coast-too-dependent-on-kennedy/  
