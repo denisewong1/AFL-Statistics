@@ -136,6 +136,7 @@ http://www.hpnfooty.com/?p=32006
 https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8?shareType=nongift  
 https://www.bigfooty.com/forum/threads/resources-rules-and-regulations-a-guide-to-the-draft-trading-and-free-agency-in-the-afl.1229400/  draft resources  
 14.  Player Analysis  
+https://www.afl.com.au/news/441163/the-22-for-round-two-our-reporters-predict-your-line-ups  
 http://www.matterofstats.com/mafl-stats-journal/2020/4/28/a-review-of-afl-player-rating-data  
 https://pdfs.semanticscholar.org/765f/63edf57f6f349da9b716f170fc221394ba44.pdf  
 https://github.com/devinpleuler/analytics-handbook  
