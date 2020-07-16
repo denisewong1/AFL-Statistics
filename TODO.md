@@ -212,9 +212,6 @@ https://www.theroar.com.au/2017/03/28/stats-enough-metres-gained-irrelevant/
 https://www.theage.com.au/sport/afl/metres-gained-a-stat-for-winners-20090716-ge7zp2.html  
 https://www.adelaidenow.com.au/sport/afl/the-afls-top-metre-eaters/news-story/1cfa60cdb667f03d4a2770289ccffb91  
 https://www.espn.com.au/afl/story/_/id/27199381/metres-gained-breaking-afl-most-misunderstood-statistic  
-16j. Team Stat Analysis - centre bounce  
-https://thedraftdoctors.com.au/2019/08/14/cbas-centre-bounce-attendances-round-21-afl-fantasy-supercoach-gold/  
-Centre bounce attendances (CBAs) are a key stat that Fantasy coaches like to track. Players starting in the middle when each quarter commences or after a goal are gold. Even better when they are named as defenders or forwards in Fantasy that could see them bargain buys in Classic or potential sleepers in Draft that could give you a leg-up over your opponents.  
 https://www.afl.com.au/news/377802  
 https://www.jockreynolds.com.au/2020/02/26/all-of-the-jrsc-supercoach-2020-tools-in-one-place/  
 16.  Team Analysis  
