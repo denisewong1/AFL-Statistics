@@ -5,7 +5,10 @@ Each of these should have their own id and mapping tables which should be upload
 Table fivethirtyeight - https://cfss.uchicago.edu/hw02-explore-data.html  
 Chart formatting - https://flowingdata.com/tag/fivethirtyeight/ ; http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html ; http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles   
 Split data in the following manner?  https://www.americansocceranalysis.com/glossary  
-Application Framework - https://www.americansocceranalysis.com/home/2020/7/6/asas-new-interactive-tables  
+1a. Application Framework possibilities with Shiny   
+https://www.americansocceranalysis.com/home/2020/7/6/asas-new-interactive-tables  
+https://github.com/American-Soccer-Analysis/asa-shiny-app/tree/master/app  
+https://towardsdatascience.com/an-open-source-solution-to-deploy-enterprise-level-r-shiny-applications-2e19d950ff35  
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
 3. Calculate average season margin of victory; do EDA on Ladder  
@@ -131,6 +134,8 @@ https://www.statsinsider.com.au/afl/afl-stats-review-key-statistics-that-defined
 https://sites.google.com/site/jamesbland/code-examples?authuser=0  
 11. Dashboards  
 http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashboard-for-round-23  
+12. Textual Data  
+http://www.fanfooty.com.au/game/bloglog.php?id=7201  
 13.  Draft Picks and Player Salaries    
 https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-riding-this-year/  
 https://overthecap.com/the-basics-and-methodology-of-projecting-the-nfls-compensatory-draft-picks/  
