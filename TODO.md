@@ -214,9 +214,6 @@ https://www.adelaidenow.com.au/sport/afl/the-afls-top-metre-eaters/news-story/1c
 https://www.espn.com.au/afl/story/_/id/27199381/metres-gained-breaking-afl-most-misunderstood-statistic  
 16j. Team Stat Analysis - centre bounce  
 https://thedraftdoctors.com.au/2019/08/14/cbas-centre-bounce-attendances-round-21-afl-fantasy-supercoach-gold/  
-16k. Team Stat Analysis - time on ground  
-https://twitter.com/championdata/status/1194386576043737090/photo/1  
-16l. Team Stat Analysis - Centre Bounce Attendances
 Centre bounce attendances (CBAs) are a key stat that Fantasy coaches like to track. Players starting in the middle when each quarter commences or after a goal are gold. Even better when they are named as defenders or forwards in Fantasy that could see them bargain buys in Classic or potential sleepers in Draft that could give you a leg-up over your opponents.  
 https://www.afl.com.au/news/377802  
 https://www.jockreynolds.com.au/2020/02/26/all-of-the-jrsc-supercoach-2020-tools-in-one-place/  
