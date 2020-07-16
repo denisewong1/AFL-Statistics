@@ -5,6 +5,7 @@ Each of these should have their own id and mapping tables which should be upload
 Table fivethirtyeight - https://cfss.uchicago.edu/hw02-explore-data.html  
 Chart formatting - https://flowingdata.com/tag/fivethirtyeight/ ; http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html ; http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles   
 Split data in the following manner?  https://www.americansocceranalysis.com/glossary  
+Application Framework - https://www.americansocceranalysis.com/home/2020/7/6/asas-new-interactive-tables  
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
 3. Calculate average season margin of victory; do EDA on Ladder  
