@@ -344,8 +344,6 @@ https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-m
 20b. Dual Position Players
 https://dreamteamtalk.com/2019/10/04/lachie-whitfield-to-be-a-mid-fwd-and-other-2020-afl-fantasy-player-positions/  
 20. Images  
-https://ccsearch.creativecommons.org/photos/6db9066f-c4dd-4192-a00a-1543d5f65d60  
-https://ccsearch.creativecommons.org/photos/102de1e6-816e-4845-a328-9ae9ddd11020  
 https://ccsearch.creativecommons.org/photos/04443241-fe18-4c77-b7c8-f5b5e0fbdf79  
 https://ccsearch.creativecommons.org/photos/d5dec935-4a48-4744-8ac7-f06f98375f9a  
 https://ccsearch.creativecommons.org/photos/012530aa-8835-414e-8bbc-577fe1ac3c7e  
