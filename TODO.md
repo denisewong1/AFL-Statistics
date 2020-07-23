@@ -11,6 +11,16 @@ https://github.com/American-Soccer-Analysis/asa-shiny-app/tree/master/app
 https://towardsdatascience.com/an-open-source-solution-to-deploy-enterprise-level-r-shiny-applications-2e19d950ff35  
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
+Each of the groups below requires a different database
+Match :
+Player : tiles 
+Team : tiles
+Venue : home game advantage, interstate advantage, weather
+Ladder : strength of schedule, eloWILMA
+Premiership :
+Season : margin of victory
+Fantasy : Breakevens
+Notes : abbreviations, new features created
 3. Calculate average season margin of victory; do EDA on Ladder  
 http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
