@@ -42,10 +42,13 @@ Project Organization
             ├── AFLFantasyApp          
         ├── data  
             ├── compile_helper.R  
+            ├── compilefitzRoy.R              
             ├── compileFW.R  
             ├── scrape_helper.R  
             ├── scrapeAT.R  
             ├── scrapeDT.R  
+            ├── scrapefitzRoy.R  
+            ├── scrapeFF.R              
             └── scrapeFW.R          
         ├── eda  
             └── EDA001_draft.Rmd          
