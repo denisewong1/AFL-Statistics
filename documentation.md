@@ -39,7 +39,7 @@ Project Organization
     │   └── figures  
     └── src  
         ├── apps  
-            ├── AFLFantasyApp          
+            ├── AFLAppViz          
         ├── data  
             ├── compile_helper.R  
             ├── compilefitzRoy.R              
