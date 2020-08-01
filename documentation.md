@@ -4,6 +4,8 @@ Note :
 1. for FW files PlayerID is the source of all truth within a seasons  
 2. for FW files NameRef & DOB is the source of all truth across seasons    
 
+Template : https://github.com/dslp/dslp-repo-template  
+
 Project Organization
 --------------------
 
