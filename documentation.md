@@ -22,6 +22,7 @@ Project Organization
     |       └── mapFTWotAFLNameFirst.csv   
     │   ├── results  
     |       └── ftsy  
+    |           ├── predType_ftsyseason.csv    
     |           ├── YYYY_ftsy.csv    
     |           ├── YYYY_magicnumber.csv    
     |           └── YYYY_preseasonpxest.csv           
@@ -35,8 +36,9 @@ Project Organization
     |       └── YYYY_FWplayerid.csv           
     ├── docs  
     ├── notebooks  
-    |   ├── 001_compile_data  
-    |   └── 002_ftsy_breakeven  
+    |   ├── 001_compile_data_ftsy    
+    |   ├── 002_compile_data_fitzroy  
+    |   └── 003_compile_ftsy_breakeven  
     ├── reports  
     │   └── figures  
     └── src  
@@ -59,3 +61,12 @@ Project Organization
             └── model_ftsy.R          
         ├── tools  
         └── visualization  
+        
+        
+
+Notebook Descriptions
+001_compile_data_ftsy : scrape weekly data from footywire  
+002_compile_data_fitzroy : scrape weekly data from afltables  
+003_compile_data_ftsy_breakeven : calculate fantasy round values and predict breakevens  
+
+
