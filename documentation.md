@@ -64,7 +64,7 @@ Project Organization
         
         
 
-Notebook Descriptions
+Notebook Descriptions  
 001_compile_data_ftsy : scrape weekly data from footywire  
 002_compile_data_fitzroy : scrape weekly data from afltables  
 003_compile_data_ftsy_breakeven : calculate fantasy round values and predict breakevens  
