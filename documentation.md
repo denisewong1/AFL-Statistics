@@ -16,10 +16,12 @@ Project Organization
     ├── bin  
     ├── config  
     ├── data  
-    │   ├── external  
-    |       ├── YYYY_BE.csv 
-    |       ├── dfSalaryCap.csv  
-    |       └── mapFTWotAFLNameFirst.csv   
+    │   ├── fitzRoy  
+    |       ├── Afixture.rds   
+    |       ├── Astats.rds   
+    |       ├── Bstats.rds  
+    |       ├── ladder.rds 
+    |       └── fixture.rds     
     │   ├── results  
     |       └── ftsy  
     |           ├── predType_ftsyseason.csv    
