@@ -27,10 +27,7 @@ Project Organization
     |       ├── FWbyeround.rds   
     |       ├── FWmatchid.rds  
     |       ├── FWplayerid.rds 
-    |       ├── FWplayerall.rds       # compiled player position price & stats file  
-    |       ├── FWplayerposition.rds  # sub-calc file, to delete  
-    |       ├── FWplayerprice.rds     # sub-calc file, to delete  
-    |       └── FWplayerstats.rds     # sub-calc file, to delete  
+    |       └── FWplayerall.rds       # compiled player position price & stats file  
     │   ├── results  
     |       └── ftsy  
     |           ├── predType_ftsyseason.csv    
@@ -81,6 +78,6 @@ Project Organization
 001_compile_data_ftsy : scrape weekly data from footywire  
 002_compile_data_fitzroy : scrape weekly data from afltables - to be used for all future research   
 003_compile_data_ftsy_breakeven : calculate fantasy round values and predict breakevens - makes copy in app directory   
-004_collate_ftsy_multiseason : collate all fantasy data across seasons - to be used for all future research  
+004_collate_footywire_multiseason : collate and clean all fantasy data across seasons - to be used for all future research  
 
 
