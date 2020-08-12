@@ -80,7 +80,7 @@ Project Organization
 Notebook Descriptions  
 001_compile_data_ftsy : scrape weekly data from footywire  
 002_compile_data_fitzroy : scrape weekly data from afltables - to be used for all future research   
-003_compile_data_ftsy_breakeven : calculate fantasy round values and predict breakevens  
+003_compile_data_ftsy_breakeven : calculate fantasy round values and predict breakevens - makes copy in app directory   
 004_collate_ftsy_multiseason : collate all fantasy data across seasons - to be used for all future research  
 
 
