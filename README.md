@@ -2,8 +2,6 @@
 
 ### Resources
 http://www.matterofstats.com/  
-https://github.com/jimmyday12/fitzRoy  
-how to use fitzroy - https://www.r-bloggers.com/brownlow-competition/  
 https://squiggle.com.au/the-squiggle-api/  
 http://www.mathsportinternational.com/anziam.html  
 Define the goal of fantasy football explicitly   http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
