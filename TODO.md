@@ -3,8 +3,8 @@
 Season -> Round -> Game -> Venue -> Team -> Position -> Player (Profile, Stats & Fantasy)   
 Each of these should have their own id and mapping tables which should be uploaded at the start of each run   
 Table fivethirtyeight - https://cfss.uchicago.edu/hw02-explore-data.html  
-Chart formatting - https://flowingdata.com/tag/fivethirtyeight/ ; http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html ; http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles   
-Split data in the following manner?  https://www.americansocceranalysis.com/glossary  
+Chart formatting - http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html 
+Split data in the following manner?  Create a glossary  https://www.americansocceranalysis.com/glossary  
 1a. Application Framework possibilities with Shiny   
 https://www.americansocceranalysis.com/home/2020/7/6/asas-new-interactive-tables  
 https://github.com/American-Soccer-Analysis/asa-shiny-app/tree/master/app  
