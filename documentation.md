@@ -21,7 +21,16 @@ Project Organization
     |       ├── Astats.rds   
     |       ├── Bstats.rds  
     |       ├── ladder.rds 
-    |       └── fixture.rds     
+    |       └── fixture.rds    
+    │   ├── footywire  
+    |       ├── FWbetting.rds   
+    |       ├── FWbyeround.rds   
+    |       ├── FWmatchid.rds  
+    |       ├── FWplayerid.rds 
+    |       ├── FWplayerall.rds       # compiled player position price & stats file  
+    |       ├── FWplayerposition.rds  # sub-calc file, to delete  
+    |       ├── FWplayerprice.rds     # sub-calc file, to delete  
+    |       └── FWplayerstats.rds     # sub-calc file, to delete  
     │   ├── results  
     |       └── ftsy  
     |           ├── predType_ftsyseason.csv    
