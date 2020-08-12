@@ -72,8 +72,8 @@ Project Organization
             ├── params_ftsy.R  
             └── model_ftsy.R          
         ├── tools  
-        ├── visualization    
-        └── useful_load_multiseason.R    # contains code to load data across multi-seasons : to be used for all future research    
+            └── useful_load_multiseason.R    # contains code to load data across multi-seasons : to be used for all future research  
+        └── visualization    
         
         
 
