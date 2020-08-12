@@ -49,7 +49,8 @@ Project Organization
     ├── notebooks  
     |   ├── 001_compile_data_ftsy    
     |   ├── 002_compile_data_fitzroy  
-    |   └── 003_compile_ftsy_breakeven  
+    |   ├── 003_compile_ftsy_breakeven    
+    |   └── 004_collate_ftsy_multiseason    
     ├── reports  
     │   └── figures  
     └── src  
