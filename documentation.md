@@ -62,11 +62,10 @@ Project Organization
             └── scrapeFW.R          
         ├── eda  
             └── EDA001_draft.Rmd          
-        ├── models  
+        ├── models                   # only for live models  
             ├── params_ftsy.R  
             └── model_ftsy.R          
         ├── tools  
-            └── useful_load_multiseason.R    # contains code to load data across multi-seasons : to be used for all future research  
         └── visualization    
         
         
