@@ -15,7 +15,7 @@ Project Organization
     ├── README.md  
     ├── bin  
     ├── config  
-    ├── data  
+    ├── data                          # use rds files for future models                        
     │   ├── fitzRoy  
     |       ├── Afixture.rds   
     |       ├── Astats.rds   
@@ -43,17 +43,14 @@ Project Organization
     |       ├── YYYY_FWplayerftsy.csv    
     |       └── YYYY_FWplayerid.csv           
     ├── docs  
-    ├── notebooks  
-    |   ├── 001_compile_data_ftsy    
-    |   ├── 002_compile_data_fitzroy  
-    |   ├── 003_compile_ftsy_breakeven    
-    |   └── 004_collate_ftsy_multiseason    
+    ├── notebooks                    # see notebook.md for descriptions and principles of all notebooks  
     ├── reports  
     │   └── figures  
     └── src  
         ├── apps  
             ├── AFLAppViz          
-        ├── data  
+        ├── data                     # code in relation to sourcing and compiling the data  
+            ├── collate_footywire.R  
             ├── compile_helper.R  
             ├── compilefitzRoy.R              
             ├── compileFW.R  
