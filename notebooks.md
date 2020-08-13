@@ -15,7 +15,7 @@ Any final feature creation for the data should be done in this series.
 
 
 ### EDA    
-The EDA series is intended to ensure that understanding the data and what needs to be done to it only occurs once.  The relevant notebook-dataset should be reviewed prior to starting work on the actual models.  
+The EDA series is intended to ensure that understanding the data and what needs to be done to it only occurs once.  The relevant notebook-dataset should be reviewed prior to starting work on the actual models.  This series includes analysis of correlated, non zero variance and linear sums of various columns.  
 
 
 
