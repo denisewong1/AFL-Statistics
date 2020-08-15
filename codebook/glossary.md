@@ -13,6 +13,7 @@
 | Possession     | CP           | Like this \| | Contested Possession |
 | Possession     | CC           | Like this \| | Centre Clearance |
 | Ratio          | DE           | Like this \| | Disposal Efficiency | 
+| Ratio          | GP           | Like this \| | Goal Accuracy | 
  
  
  $ FA       : num  1 0 0 1 0 1 0 0 0 1 ...
