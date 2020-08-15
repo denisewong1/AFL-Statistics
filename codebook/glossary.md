@@ -45,27 +45,27 @@ dream team score is linear combination
 AF = BH + FA + FF + GL + HB + HO + KI + MK + TK 
  
    lstStat$Match <- c("BH","BO","CC","CG","CM","CP","ED","FA","FF","GA",
-                     "GL","HB","HO","I5","IT","KI","M5","MG","MK","MX",
-                     "OP","R5","SX","ST","T5","TK","TX","TO","UP")
-  lstStat$Play <- c("Played","GN","TG")
-  lstStat$Total <- c("BG","CL","DI","MK","TK","SI","SS")
-  lstStat$Ratio <- c("DE","GP")
-  lstStat$Adv <- c("CC","IT","MG","SX","ST","T5","TX","TO") #from 2015 incl
-  lstStat$Pos <- c("DEF","FOR","MID","RUC")
-  lstStat$AF <- c("AF","AF.Price","AF.Value","AF.Score")
-  lstStat$SC <- c("SC","SC.Price","SC.Value","SC.Score")
-  lstStat$All <- unique(c(lstStat$Match,lstStat$Play,lstStat$Total,lstStat$Adv,
-                          lstStat$Ratio,lstStat$Pos,lstStat$AF,lstStat$SC))
-  
-  # Other Groupings
-  lstStat$LocFwd <- c("GL","BH","I5","M5","T5","GA","SI","SX")
-  lstStat$LocMid <- c("ST","CC","CL","TX","MX")
-  lstStat$LocDef <- c("R5")
-  lstStat$Possession <- c("MX","M5","TX","T5","CP","UP","CM","IT")
-  lstStat$Disposal <- c("HO","KI","HB","GL","BH","MG","ED","BO")
-  lstStat$Pressure <- c("CM","CP","TX","T5","HO","CC","ST")
-  lstStat$Error <- c("CG","FA")
-  lstStat$Other <- c("TO","FF","OP","SX","GA")
+                   "GL","HB","HO","I5","IT","KI","M5","MG","MX","OP",
+                   "R5","SX","ST","T5","TX","TO","UP")
+lstStat$Play <- c("Played","GN","TG")
+lstStat$Total <- c("BG","CL","DI","MK","TK","SI","SS")
+lstStat$Ratio <- c("DE","GP","CU")
+lstStat$Adv <- c("CC","IT","MG","SX","ST","T5","TX","TO")
+lstStat$Pos <- c("DEF","FOR","MID","RUC")
+lstStat$AF <- c("AF","AF.Price","AF.Value","AF.Score")
+lstStat$SC <- c("SC","SC.Price","SC.Value","SC.Score")
+lstStat$All <- unique(c(lstStat$Match,lstStat$Play,lstStat$Total,lstStat$Adv,
+                        lstStat$Ratio,lstStat$Pos,lstStat$AF,lstStat$SC))
+
+# Other Groupings
+lstStat$LocFwd <- c("GL","BH","I5","M5","T5","GA","SI","SX","SS")
+lstStat$LocMid <- c("ST","CC","CL","TX","MX")
+lstStat$LocDef <- c("R5")
+lstStat$Possession <- c("MX","M5","TX","T5","CP","UP","CM","IT")
+lstStat$Disposal <- c("HO","KI","HB","GL","BH","MG","ED","BO")
+lstStat$Pressure <- c("CM","CP","TX","T5","HO","CC","ST")
+lstStat$Error <- c("CG","FA")
+lstStat$Other <- c("TO","FF","OP","SX","GA")
   
   Feature Creation
   * BG : Hard Ball Get = TK + CL + CP
