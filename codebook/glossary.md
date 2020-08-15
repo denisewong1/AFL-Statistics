@@ -66,3 +66,15 @@ AF = BH + FA + FF + GL + HB + HO + KI + MK + TK
   lstStat$Pressure <- c("CM","CP","TX","T5","HO","CC","ST")
   lstStat$Error <- c("CG","FA")
   lstStat$Other <- c("TO","FF","OP","SX","GA")
+  
+  Feature Creation
+  * BG : Hard Ball Get = TK + CL + CP
+* MX : Marks not inside 50
+* SX : Score involvement excluding scoring shots
+* TX : Tackles not inside 50
+* SS : Scoring Shots  
+* GN : Game Number since 2010
+
+Ratios have to be recreated at other grouping levels
+* CU : Contested to uncontested possession percentage 
+* GP : Goal kicking accuracy
