@@ -20,7 +20,7 @@ The EDA series is intended to ensure that understanding the data and what needs 
 
 
 ### Models  
-Models are tested here.  If they are good they will be replicated in the model directory.  
+Models are conceived here in an RMD file.  If they are good they will be replicated in the model directory.  
 
 
   
