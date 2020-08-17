@@ -125,8 +125,6 @@ http://hurlingpeoplenow.tumblr.com/post/98964610922/hpn-draft-pick-trade-value-c
 https://hurlingpeoplenow.wordpress.com/2017/09/02/the-2017-pav-all-australian-team/  
 http://www.matterofstats.com/mafl-stats-journal/2018/9/5/player-experience-data-analysis-and-modelling  
 https://theafllab.com/2018/06/13/how-do-you-measure-a-players-form/  
-https://dreamteamtalk.com/2019/11/17/basement-priced-players-who-are-yet-to-debut/  
-https://dreamteamtalk.com/2019/12/14/drawing-board-2020/  
 9. Combining team and player rating data  
 http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-combining-afl-team-and-player-data-in-a-predictive-model  
 https://theafllab.com/2019/03/02/the-soldier-model/  
