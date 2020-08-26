@@ -347,12 +347,9 @@ http://www.fanfooty.com.au/game/dreamteam.php
 Implementation of Reinforcement Learning Algorithm for Fantasy Football - https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/download/5088/5473    
 Soccer Analysis Positions  https://arxiv.org/pdf/2003.10294.pdf  
 20a. Player Positions  
-https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef  
-20b. Dual Position Players
-https://dreamteamtalk.com/2019/10/04/lachie-whitfield-to-be-a-mid-fwd-and-other-2020-afl-fantasy-player-positions/  
+https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef   
 20. Images  
 https://ccsearch.creativecommons.org/photos/04443241-fe18-4c77-b7c8-f5b5e0fbdf79  
-https://ccsearch.creativecommons.org/photos/012530aa-8835-414e-8bbc-577fe1ac3c7e  
 https://ccsearch.creativecommons.org/photos/2549449d-535b-47d9-8be4-6c8555c3601a  
 https://ccsearch.creativecommons.org/photos/ca004486-1c61-40cd-b8c7-8511e10f78c1  
 https://ccsearch.creativecommons.org/photos/c244a04f-3ae6-46d1-bd5d-6db2b9402de3  
