@@ -3,31 +3,40 @@
 | Category       | Statistic    | Alt Name     | Description  |
 | :------------- | :----------: | -----------: | -----------: |
 | Aggregate      | AF           | And Again    | AFL Fantasy Points    |
-| Aggregate      | CL           | Like this \| | Clearance |
-| Aggregate      | DI           | And Again    | Disposal    |
+| Aggregate      | CL           | Like this \| | Clearances |
+| Aggregate      | DI           | And Again    | Disposals    |
+| Aggregate      | MK           | And Again    | Marks    |
+
 | Disposal       | BO           | Like this \| | Bounces |
 | Disposal       | ED           | Like this \| | Effective Disposal |
+| Disposal       | HB           | Like this \| | Handballs |
+| Disposal       | HO           | Like this \| | Hitouts |
+| Disposal       | KI           | Like this \| | Kicks |
+| Disposal       | MG           | Like this \| | Metres Gained |
+
 | Other          | BH           | Like this \| | Behinds |
 | Other          | CG           | Like this \| | Clangers |
+| Other          | FA           | Like this \| | Frees For |
+| Other          | FF           | Like this \| | Frees Against |
+| Other          | GA           | Like this \| | Goal Assists |
+| Other          | GL           | Like this \| | Goals |
+| Other          | I5           | Like this \| | Inside 50 |
+
+
 | Possession     | CM           | Like this \| | Contested Mark |
 | Possession     | CP           | Like this \| | Contested Possession |
 | Possession     | CC           | Like this \| | Centre Clearance |
+| Possession     | IT           | Like this \| | Intercept |
+| Possession     | M5           | Like this \| | Marks Inside 50 |
+| Possession     | MX           | Like this \| | Marks Other |
+
 | Ratio          | DE           | Like this \| | Disposal Efficiency | 
 | Ratio          | GP           | Like this \| | Goal Accuracy | 
  
  
- $ FA       : num  1 0 0 1 0 1 0 0 0 1 ...
- $ FF       : num  0 1 0 0 0 2 0 0 0 0 ...
- $ GA       : num  0 0 0 0 0 0 0 0 0 0 ...
- $ GL       : num  0 1 0 0 0 1 0 0 0 0 ...
- $ HB       : num  6 5 0 13 0 12 0 0 13 10 ...
- $ HO       : num  0 2 0 1 0 0 0 0 0 0 ...
- $ I5       : num  1 2 0 1 0 2 0 0 1 0 ...
- $ IT       : num  0 0 0 0 0 0 0 0 0 0 ...
- $ KI       : num  5 12 0 8 0 8 0 0 4 2 ...
- $ M5       : num  0 0 0 0 0 1 0 0 0 0 ...
- $ MG       : num  0 0 0 0 0 0 0 0 0 0 ...
- $ MK       : num  4 3 0 4 0 3 0 0 3 3 ...
+ 
+
+ 
  $ OP       : num  1 6 0 1 0 2 0 0 4 1 ...
  $ R5       : num  1 1 0 3 0 1 0 0 2 0 ...
  $ SC       : num  18 72 0 65 0 93 0 0 61 21 ...
