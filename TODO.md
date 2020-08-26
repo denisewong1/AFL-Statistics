@@ -171,7 +171,6 @@ https://public.tableau.com/profile/craig.heard#!/vizhome/Book1_15691139127170/10
 https://arxiv.org/pdf/1802.00998.pdf  
 http://www.82games.com/comm30.htm  
 https://www.reddit.com/r/dataisbeautiful/comments/disxti/mlb_batting_average_leaders_over_time_oc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf  
-https://dreamteamtalk.com/2019/10/04/lachie-whitfield-to-be-a-mid-fwd-and-other-2020-afl-fantasy-player-positions player positions 
 https://keeperleaguepod.com.au/breakout-tracker-out-now/  breakout tracker  
 http://coachespanel.tv/what-is-the-50-most-relevant/  
 http://coachespanel.tv/round-3-positional-changes/ dual position players  
