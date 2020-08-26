@@ -6,14 +6,12 @@
 | Aggregate      | CL           | Like this \| | Clearances |
 | Aggregate      | DI           | And Again    | Disposals    |
 | Aggregate      | MK           | And Again    | Marks    |
-
 | Disposal       | BO           | Like this \| | Bounces |
 | Disposal       | ED           | Like this \| | Effective Disposal |
 | Disposal       | HB           | Like this \| | Handballs |
 | Disposal       | HO           | Like this \| | Hitouts |
 | Disposal       | KI           | Like this \| | Kicks |
 | Disposal       | MG           | Like this \| | Metres Gained |
-
 | Other          | BH           | Like this \| | Behinds |
 | Other          | CG           | Like this \| | Clangers |
 | Other          | FA           | Like this \| | Frees For |
@@ -21,15 +19,12 @@
 | Other          | GA           | Like this \| | Goal Assists |
 | Other          | GL           | Like this \| | Goals |
 | Other          | I5           | Like this \| | Inside 50 |
-
-
 | Possession     | CM           | Like this \| | Contested Mark |
 | Possession     | CP           | Like this \| | Contested Possession |
 | Possession     | CC           | Like this \| | Centre Clearance |
 | Possession     | IT           | Like this \| | Intercept |
 | Possession     | M5           | Like this \| | Marks Inside 50 |
 | Possession     | MX           | Like this \| | Marks Other |
-
 | Ratio          | DE           | Like this \| | Disposal Efficiency | 
 | Ratio          | GP           | Like this \| | Goal Accuracy | 
  
