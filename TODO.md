@@ -251,9 +251,7 @@ https://www.kaggle.com/jpmiller/nfl-punt-analytics eda
 https://www.kaggle.com/statsbymichaellopez/nfl-tracking-wrangling-voronoi-and-sonars vectirs  
 https://www.kaggle.com/jaseziv83/comprehensive-cleaning-and-eda-of-all-variables eda  
 https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/112044 probability  
-https://www.armchairanalysis.com/  
 https://medium.com/fantasy-outliers  
-https://www.datarobot.com/sports-analytics/  
 https://www.datarobot.com/wiki/feature-impact/  
 https://www.reddit.com/r/dataisbeautiful/comments/cc1cqf/viz_displaying_why_more_often_than_not_a_top3_rb/?utm_source=share&utm_medium=ios_app - position importance  
 https://blog.datarobot.com/using-datarobot-to-predict-nba-player-performance  
@@ -313,25 +311,20 @@ https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/
 https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1 - cheat sheet     
 https://dreamteamtalk.com/2013/05/28/traded-players-output-v-expectations/ output vs expectations  
 https://dreamteamtalk.com/2013/04/18/mythbusting-dt-insider-guest-post/ strategies  
-https://dreamteamtalk.com/author/aflratings/   
 https://dreamteamtalk.com/2012/05/09/hooks-quarterly-review/  
-https://dreamteamtalk.com/category/resources/sample-teams/  
 https://dreamteamtalk.com/2017/09/11/the-2017-optimal-afl-fantasy-team-finally-proves-link-between-genius-and-madness/  
 https://dreamteamtalk.com/2018/08/01/how-do-you-compare-to-the-top-100-afl-fantasy-coaches-finals-2018/  
 https://dreamteamtalk.com/2013/05/20/managing-your-afl-fantasy-dream-team-through-the-byes/  
-http://dailyfantasysportsaustralia.com/category/tools-explained/   
 https://supercoachtalk.com/supercoach-points-distribution/  
 https://dspace.mit.edu/handle/1721.1/100687  
 https://pdfs.semanticscholar.org/8e84/933903df9c5d2f73770ba6c9be8da31a751b.pdf  
 Stanford - http://cs229.stanford.edu/proj2012/Kapania-FantasyFootballAndMachineLearning.pdf  
 https://www.fantasyinsider.com.au/blog/Advanced%20Strategy/afl-analysis-should-favourite-stacks-include-the-defenders  
 https://www.fantasyinsider.com.au/blog/AFL/a-beginners-guide-to-afl-dfs-game-day-strategies  
-https://www.fantasyinsider.com.au/blog/Site%20News/now-available-nrl-afl-draft-guides  
 https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-draft.html  
 https://github.com/zzhangusf/Predicting-Fantasy-Football-Points-Using-Machine-Learning/blob/master/README.md  
 https://github.com/google-research/football - google football   
 https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e - football analytical articles   
-https://public.tableau.com/profile/gordon.rae#!/vizhome/FantasyFootball201920/FantasyFootballGuide  visualisation  
 https://www.reddit.com/r/aflfantasy/comments/cgk6tq/planning_for_2020_already_things_i_learned_being/?utm_source=share&utm_medium=ios_app   
 https://amiles.netlify.com/2019/09/building-optimal-daily-fantasy-lineups-in-r/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_252  
 https://fantasyfootballdatapros.com/index.php/2020/01/02/how-to-get-started-using-python-for-fantasy-football-analysis/  
@@ -342,7 +335,6 @@ https://i.redd.it/daf66mqqqsc41.png
 https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e  
 https://preview.redd.it/otuo2ylmpl641.gif?format=mp4&s=a3b7c45fa6e2c9df168dac2772397955ad3585c9  
 https://aflratings.com.au/2019/12/18/afl-fantasy-new-utility-position-strategy/  
-http://www.fanfooty.com.au/game/dreamteam.php  
 Implementation of Reinforcement Learning Algorithm for Fantasy Football - https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/download/5088/5473    
 Soccer Analysis Positions  https://arxiv.org/pdf/2003.10294.pdf  
 20a. Player Positions  
