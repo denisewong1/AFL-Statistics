@@ -9,6 +9,7 @@ Split data in the following manner?  Create a glossary  https://www.americansocc
 https://www.americansocceranalysis.com/home/2020/7/6/asas-new-interactive-tables  
 https://github.com/American-Soccer-Analysis/asa-shiny-app/tree/master/app  
 https://towardsdatascience.com/an-open-source-solution-to-deploy-enterprise-level-r-shiny-applications-2e19d950ff35  
+https://gitlab.com/jphwang/online_articles/-/tree/master/  organisation of models   
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
 Each of the groups below requires a different database
@@ -110,6 +111,9 @@ poisson and histogram - http://old.clubelo.com/Articles/AdaptivePoissonparameter
 Use it to simulate outcomes for future matches Monte Carlo using rbinom - http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14   
 7. Build a rating system for each player based on player stats  
 https://twitter.com/FanFooty/status/1199904493174804480/photo/1 sample player dashboard   
+https://www.americansocceranalysis.com/home/2020/8/3/defining-roles-how-every-player-contributes-to-goals  
+https://www.americansocceranalysis.com/home/2020/5/5/goals-added-and-the-great-possession-shift  
+https://www.thesignificantgame.com/portfolio/  
 https://onballers.com/2017/08/24/five-new-afl-metrics-and-the-players-who-lead-them-in-2017/  
 https://www.reddit.com/r/AFL/comments/8x17l4/machine_learning_in_afl_part_ii_its_all_about_the/  
 https://www.pro-football-reference.com/blog/index37a8.html  
