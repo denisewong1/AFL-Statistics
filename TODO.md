@@ -304,7 +304,6 @@ https://towardsdatascience.com/mythbusting-fantasy-premier-league-form-over-fixt
 https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750  
 http://www.afl.com.au/news/2018-02-13/how-to-dominate-fantasy-2017s-winner-reveals-all  
 https://intoli.com/blog/fantasy-football-for-hackers/  
-https://www.afl.com.au/news/2019-04-23/fantasy-dpp-additions-meet-the-record-15-new-forwards  
 https://aflratings.com.au/category/injuries/ - Injury weekly pages  
 http://www.fanfooty.com.au/blog/  - news pages to scrape  
 https://www.espn.com/soccer/english-premier-league/story/4061662/how-firmino-and-salahsterling-and-de-bruyne-rank-among-best-duos-in-soccer-when-it-comes-to-chemistry - duos  
