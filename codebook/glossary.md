@@ -46,27 +46,25 @@ Ratios have to be recreated for other grouping levels : eg team, season etc
 | Ratio          | TG           | Like this \| | Time on Ground         |  |
  
 
- 
-   lstStat$Match <- c("BH","BO","CC","CG","CM","CP","ED","FA","FF","GA",
-                   "GL","HB","HO","I5","IT","KI","M5","MG","MX","OP",
-                   "R5","SX","ST","T5","TX","TO","UP")
-lstStat$Play <- c("Played","GN","TG")
-lstStat$Total <- c("BG","CL","DI","MK","TK","SI","SS")
-lstStat$Ratio <- c("DE","GP","CU")
-lstStat$Adv <- c("CC","IT","MG","SX","ST","T5","TX","TO")
-lstStat$Pos <- c("DEF","FOR","MID","RUC")
-lstStat$AF <- c("AF","AF.Price","AF.Value","AF.Score")
-lstStat$SC <- c("SC","SC.Price","SC.Value","SC.Score")
-lstStat$All <- unique(c(lstStat$Match,lstStat$Play,lstStat$Total,lstStat$Adv,
-                        lstStat$Ratio,lstStat$Pos,lstStat$AF,lstStat$SC))
+#### Groups : lstStat 
+* some groups have not yet been created, or have not found use for yet  
 
-# Other Groupings
-lstStat$LocFwd <- c("GL","BH","I5","M5","T5","GA","SI","SX","SS")
-lstStat$LocMid <- c("ST","CC","CL","TX","MX")
-lstStat$LocDef <- c("R5")
-lstStat$Possession <- c("MX","M5","TX","T5","CP","UP","CM","IT")
-lstStat$Disposal <- c("HO","KI","HB","GL","BH","MG","ED","BO")
-lstStat$Pressure <- c("CM","CP","TX","T5","HO","CC","ST")
-lstStat$Error <- c("CG","FA")
-lstStat$Other <- c("TO","FF","OP","SX","GA")
+| Category       | Notes            | Statistic       | 
+| :------------- | :--------------: | :----------: | 
+| Match          | fully available  | "BH","BO","CC","CG","CM","CP","ED","FA","FF","GA","GL","HB","HO","I5","IT","KI","M5","MG","MX","OP","R5","SX","ST","T5","TX","TO","UP" |
+| Play           | match statistic  | "Played","GN","TG" |
+| Total          | aggregate        | BG","CL","DI","MK","TK","SI","SS" |
+| Ratio          | ratio            | "DE","GP","CU" | 
+| Adv            | from 2015 incl   | "CC","IT","MG","SX","ST","T5","TX","TO" |    
+| Pos            | position         | "DEF","FOR","MID","RUC" | 
+| AF             | AFL Fantasy      | "AF","AF.Price","AF.Value","AF.Score" | 
+| SC             | Supercoach       | "SC","SC.Price","SC.Value","SC.Score" | 
+| All            | complete         | lstStat$Match,lstStat$Play,lstStat$Total,lstStat$Adv,lstStat$Ratio,lstStat$Pos,lstStat$AF,lstStat$SC | 
+| Location       | location         | "GL","BH","I5","M5","T5","GA","SI","SX","SS","ST","CC","CL","TX","MX","R5" | 
+| Possession     | possession       | "MX","M5","TX","T5","CP","UP","CM","IT" | 
+| Disposal       | disposal         | "HO","KI","HB","GL","BH","MG","ED","BO" | 
+| Pressure       | pressure         | "CM","CP","TX","T5","HO","CC","ST" | 
+| Error          | error            | "CG","FA" | 
+| Other          | other            | "TO","FF","OP","SX","GA" | 
+
   
