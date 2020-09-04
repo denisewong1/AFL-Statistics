@@ -1,49 +1,51 @@
+Ratios have to be recreated for other grouping levels : eg team, season etc
 
 
-| Category       | Statistic    | Alt Name     | Description  |
-| :------------- | :----------: | -----------: | -----------: |
-| Aggregate      | AF           | And Again    | AFL Fantasy Points    |
-| Aggregate      | CL           | Like this \| | Clearances |
-| Aggregate      | DI           | And Again    | Disposals    |
-| Aggregate      | MK           | And Again    | Marks    |
-| Aggregate      | SC           | And Again    | Supercoach Score    |
-| Aggregate      | TK           | And Again    | Tackles    |
-| Disposal       | BO           | Like this \| | Bounces |
-| Disposal       | ED           | Like this \| | Effective Disposal |
-| Disposal       | HB           | Like this \| | Handballs |
-| Disposal       | HO           | Like this \| | Hitouts |
-| Disposal       | KI           | Like this \| | Kicks |
-| Disposal       | MG           | Like this \| | Metres Gained |
-| Other          | BH           | Like this \| | Behinds |
-| Other          | CG           | Like this \| | Clangers |
-| Other          | FA           | Like this \| | Frees For |
-| Other          | FF           | Like this \| | Frees Against |
-| Other          | GA           | Like this \| | Goal Assists |
-| Other          | GL           | Like this \| | Goals |
-| Other          | I5           | Like this \| | Inside 50 |
-| Other          | OP           | Like this \| | One Percenters |
-| Other          | R5           | Like this \| | Rebound 50 |
-| Other          | SI           | Like this \| | Score Involvement |
-| Other          | TO           | Like this \| | Turnover |
-| Possession     | CM           | Like this \| | Contested Mark |
-| Possession     | CP           | Like this \| | Contested Possession |
-| Possession     | CC           | Like this \| | Centre Clearance |
-| Possession     | IT           | Like this \| | Intercept |
-| Possession     | M5           | Like this \| | Marks Inside 50 |
-| Possession     | MX           | Like this \| | Marks Other |
-| Possession     | ST           | Like this \| | Stoppage Clearance |
-| Possession     | T5           | Like this \| | Tackles Inside 50 |
-| Possession     | TX           | Like this \| | Tackles Other |
-| Possession     | UP           | Like this \| | Uncontested Possession |
-| Ratio          | DE           | Like this \| | Disposal Efficiency | 
-| Ratio          | GP           | Like this \| | Goal Accuracy | 
-| Ratio          | TG           | Like this \| | Time on Ground | 
+| Category       | Statistic    | Alt Name     | Description            | Notes  |
+| :------------- | :----------: | -----------: | ---------------------: | -----------: |
+| Aggregate      | AF           | And Again    | AFL Fantasy Points     | BH + FA + FF + GL + HB + HO + KI + MK + TK |
+| Aggregate      | BG           | And Again    | Hard Ball Get          | TK + CL + CP : to create |
+| Aggregate      | CL           | Like this \| | Clearances             | ST + CC |
+| Aggregate      | DI           | And Again    | Disposals              | KI + HB |
+| Aggregate      | MK           | And Again    | Marks                  | |
+| Aggregate      | SC           | And Again    | Supercoach Score       | |
+| Aggregate      | SS           | And Again    | Scoring Shots          | BH + GL |
+| Aggregate      | SX           | And Again    | SI less scoring shots  | SI - GL - BH |
+| Aggregate      | TK           | And Again    | Tackles                | |
+| Disposal       | BO           | Like this \| | Bounces                | |
+| Disposal       | ED           | Like this \| | Effective Disposal     | |
+| Disposal       | HB           | Like this \| | Handballs              | |
+| Disposal       | HO           | Like this \| | Hitouts                | |
+| Disposal       | KI           | Like this \| | Kicks                  | |
+| Disposal       | MG           | Like this \| | Metres Gained          | |
+| Other          | BH           | Like this \| | Behinds                | |
+| Other          | CG           | Like this \| | Clangers               | |
+| Other          | FA           | Like this \| | Frees For              | |
+| Other          | FF           | Like this \| | Frees Against          | |
+| Other          | GA           | Like this \| | Goal Assists           | |
+| Other          | GL           | Like this \| | Goals                  | |
+| Other          | GN           | Like this \| | Game No since 2010     | new feature : to create |
+| Other          | I5           | Like this \| | Inside 50              | |
+| Other          | OP           | Like this \| | One Percenters         | |
+| Other          | R5           | Like this \| | Rebound 50             | |
+| Other          | SI           | Like this \| | Score Involvement      | |
+| Other          | TO           | Like this \| | Turnover               | |
+| Possession     | CM           | Like this \| | Contested Mark         | |
+| Possession     | CP           | Like this \| | Contested Possession   | |
+| Possession     | CC           | Like this \| | Centre Clearance       | |
+| Possession     | IT           | Like this \| | Intercept              | |
+| Possession     | M5           | Like this \| | Marks Inside 50        | |
+| Possession     | MX           | Like this \| | Marks Other            | MK - M5 |
+| Possession     | ST           | Like this \| | Stoppage Clearance     | |
+| Possession     | T5           | Like this \| | Tackles Inside 50      | |
+| Possession     | TX           | Like this \| | Tackles Other          | TK - T5 |
+| Possession     | UP           | Like this \| | Uncontested Possession | |
+| Ratio          | CU           | Like this \| | Contested Possession % | Contested to uncontested possession percentage : to create |
+| Ratio          | DE           | Like this \| | Disposal Efficiency    |  |
+| Ratio          | GP           | Like this \| | Goal Accuracy          | new feature : to create |
+| Ratio          | TG           | Like this \| | Time on Ground         |  |
  
- 
- CL = ST + CC : total clearances = stoppage + centre clearances
-DI = KI + HB : disposals = kicks + handballs  
-dream team score is linear combination  
-AF = BH + FA + FF + GL + HB + HO + KI + MK + TK 
+
  
    lstStat$Match <- c("BH","BO","CC","CG","CM","CP","ED","FA","FF","GA",
                    "GL","HB","HO","I5","IT","KI","M5","MG","MX","OP",
@@ -68,14 +70,3 @@ lstStat$Pressure <- c("CM","CP","TX","T5","HO","CC","ST")
 lstStat$Error <- c("CG","FA")
 lstStat$Other <- c("TO","FF","OP","SX","GA")
   
-  Feature Creation
-  * BG : Hard Ball Get = TK + CL + CP
-* MX : Marks not inside 50
-* SX : Score involvement excluding scoring shots
-* TX : Tackles not inside 50
-* SS : Scoring Shots  
-* GN : Game Number since 2010
-
-Ratios have to be recreated at other grouping levels
-* CU : Contested to uncontested possession percentage 
-* GP : Goal kicking accuracy
