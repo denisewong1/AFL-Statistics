@@ -6,6 +6,8 @@
 | Aggregate      | CL           | Like this \| | Clearances |
 | Aggregate      | DI           | And Again    | Disposals    |
 | Aggregate      | MK           | And Again    | Marks    |
+| Aggregate      | SC           | And Again    | Supercoach Score    |
+| Aggregate      | TK           | And Again    | Tackles    |
 | Disposal       | BO           | Like this \| | Bounces |
 | Disposal       | ED           | Like this \| | Effective Disposal |
 | Disposal       | HB           | Like this \| | Handballs |
@@ -19,29 +21,24 @@
 | Other          | GA           | Like this \| | Goal Assists |
 | Other          | GL           | Like this \| | Goals |
 | Other          | I5           | Like this \| | Inside 50 |
+| Other          | OP           | Like this \| | One Percenters |
+| Other          | R5           | Like this \| | Rebound 50 |
+| Other          | SI           | Like this \| | Score Involvement |
+| Other          | TO           | Like this \| | Turnover |
 | Possession     | CM           | Like this \| | Contested Mark |
 | Possession     | CP           | Like this \| | Contested Possession |
 | Possession     | CC           | Like this \| | Centre Clearance |
 | Possession     | IT           | Like this \| | Intercept |
 | Possession     | M5           | Like this \| | Marks Inside 50 |
 | Possession     | MX           | Like this \| | Marks Other |
+| Possession     | ST           | Like this \| | Stoppage Clearance |
+| Possession     | T5           | Like this \| | Tackles Inside 50 |
+| Possession     | TX           | Like this \| | Tackles Other |
+| Possession     | UP           | Like this \| | Uncontested Possession |
 | Ratio          | DE           | Like this \| | Disposal Efficiency | 
 | Ratio          | GP           | Like this \| | Goal Accuracy | 
+| Ratio          | TG           | Like this \| | Time on Ground | 
  
- 
- 
-
- 
- $ OP       : num  1 6 0 1 0 2 0 0 4 1 ...
- $ R5       : num  1 1 0 3 0 1 0 0 2 0 ...
- $ SC       : num  18 72 0 65 0 93 0 0 61 21 ...
- $ SI       : num  0 0 0 0 0 0 0 0 0 0 ...
- $ ST       : num  0 0 0 0 0 0 0 0 0 0 ...
- $ T5       : num  0 0 0 0 0 0 0 0 0 0 ...
- $ TG       : num  74 98 0 78 0 82 0 0 91 74 ...
- $ TK       : num  0 3 0 1 0 3 0 0 3 3 ...
- $ TO       : num  0 0 0 0 0 0 0 0 0 0 ...
- $ UP       : num  9 14 0 14 0 9 0 0 12 9 ...  
  
  CL = ST + CC : total clearances = stoppage + centre clearances
 DI = KI + HB : disposals = kicks + handballs  
