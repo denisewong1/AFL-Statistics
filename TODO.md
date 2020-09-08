@@ -205,6 +205,7 @@ http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-ga
 https://twitter.com/championdata/status/1199475212300902401 scoring efficiency  
 16c. Team Stat Analysis - kicks  
 http://www.matterofstats.com/mafl-stats-journal/2013/8/13/just-for-kicks-an-analysis-of-the-kicking-statistics-in-afl.html  
+https://miracleongraphs.com/2020/08/25/shooting-from-the-hipwood/  
 16d. Team Stat Analysis - tackles  
 https://plussixoneblog.com/post/the-tackle-machine/  
 https://www.scisports.com/defensive-contribution-ratings-in-scisports-platform-enable-in-depth-data-driven-scouting-of-defenders/  
