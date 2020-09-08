@@ -286,12 +286,10 @@ http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changin
 18. Fantasy Analysis  
 http://www.sqlservercentral.com/blogs/sql-with-dustin-ryan/2016/08/23/power-bi-nfl-fantasy-football-2016-reports/  powerbi  
 http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf  - visualisation  
-https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5 - visualisation  
 https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/ - visualisation    
 https://dreamteamtalk.com/2019/11/24/2019-afl-draft-fantasy-prospects/  
 https://keeperleaguepod.com.au/afl-draft-club-fantasy-scores/  
 https://keeperleaguepod.com.au/top-20-fantasy-draftees/ draft players  
-https://dreamteamtalk.com/2019/08/06/inside-the-numbers-rd-20 - can i do these numbers in the five takeaways section?  
 https://towardsdatascience.com/mythbusting-fantasy-premier-league-form-over-fixtures-eecf9022e834  
 https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750  
 http://www.afl.com.au/news/2018-02-13/how-to-dominate-fantasy-2017s-winner-reveals-all  
