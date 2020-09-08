@@ -284,10 +284,7 @@ https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors
 https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/  
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 18. Fantasy Analysis  
-http://tooserious.net/forum/player_calc.php?&id=4901&pcid=46584&name=Bailey%20Banfield#YgxfL1JWHzCqiwe6.97 - visualisation  
-https://aflfantasies.com/2019/happy-new-years/  comparing player performance visually  
 http://www.sqlservercentral.com/blogs/sql-with-dustin-ryan/2016/08/23/power-bi-nfl-fantasy-football-2016-reports/  powerbi  
-https://magicnumbertheory.wordpress.com/2016/06/08/fat-cow-futures-pre-r12/  - visualisation     
 http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf  - visualisation  
 https://finalsiren.com/PreviousGames.asp?Team1ID=9&Team2ID=5&Go=Go#PlayerLast5 - visualisation  
 https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/ - visualisation    
