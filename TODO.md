@@ -331,8 +331,17 @@ https://aflratings.com.au/2019/12/18/afl-fantasy-new-utility-position-strategy/
 Implementation of Reinforcement Learning Algorithm for Fantasy Football - https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/download/5088/5473    
 Soccer Analysis Positions  https://arxiv.org/pdf/2003.10294.pdf  
 20a. Player Positions  
-https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef   
-20. Images  
+https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef 
+21. R Dashboards for Fantasy Football  
+https://www.r-bloggers.com/2017-fantasy-football-projections/  
+https://fantasyfootballanalytics.net/  
+https://rforjournalists.com/2016/09/24/creating-premier-league-results-matrix-in-r/  
+https://rforjournalists.com/2019/11/12/how-to-track-your-fantasy-football-league-using-r/  
+https://nycdatascience.com/blog/student-works/nfl-dashboard-turns-play-by-play-data-into-actionable-insights-for-fantasy-football/  
+https://www.kaggle.com/ekrembayar/fifa-19-dashboard-with-r-shiny  look at all notebooks for chart ideas  
+https://www.footballdiehards.com/winning-fantasy-football-draft-strategies/  
+https://wesleypasfield.wordpress.com/2017/11/13/hosting-an-r-shiny-application-on-amazon-ec2/  hosting on amazon  
+22. Images  
 https://ccsearch.creativecommons.org/photos/04443241-fe18-4c77-b7c8-f5b5e0fbdf79  
 https://ccsearch.creativecommons.org/photos/2549449d-535b-47d9-8be4-6c8555c3601a  
 https://ccsearch.creativecommons.org/photos/ca004486-1c61-40cd-b8c7-8511e10f78c1  
