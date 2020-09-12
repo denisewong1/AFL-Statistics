@@ -61,7 +61,6 @@ Close Games - http://www.espn.com/espn/feature/story/_/id/19845122/footy-forensi
 https://projects.fivethirtyeight.com/complete-history-of-the-nfl/  
 http://figuringfooty.com/2017/03/22/my-focus-for-2017-and-some-round-1-tips/  
 https://theartandscienceofdata.wordpress.com/2016/09/17/predicting-the-english-premier-league-standings/  
-http://www.inforubiks.com/blog/ranking-every-afl-team-ever  
 https://www.espn.com.au/afl/story/_/id/27892329/afl-biggest-question-marks-every-team-heading-2020  
 https://www.stuff.co.nz/sport/rugby/rugby-world-cup/rwc-2019-japan/115754410/rwc-2019-all-blacks-are-favourites-but-they-probably-wont-win-the-rugby-world-cup  
 2020 predictions - https://www.abc.net.au/news/2019-10-31/crunching-the-numbers-behind-the-2020-afl-fixture/11657036  
