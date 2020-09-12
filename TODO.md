@@ -1,7 +1,6 @@
 ## To Do List  
 1. Document architecture and names here.  The order should be  -  
 Season -> Round -> Game -> Venue -> Team -> Position -> Player (Profile, Stats & Fantasy)   
-Each of these should have their own id and mapping tables which should be uploaded at the start of each run   
 Table fivethirtyeight - https://cfss.uchicago.edu/hw02-explore-data.html  
 Chart formatting - http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html 
 Split data in the following manner?  Create a glossary  https://www.americansocceranalysis.com/glossary  
@@ -228,7 +227,11 @@ https://www.adelaidenow.com.au/sport/afl/the-afls-top-metre-eaters/news-story/1c
 https://www.espn.com.au/afl/story/_/id/27199381/metres-gained-breaking-afl-most-misunderstood-statistic  
 https://www.afl.com.au/news/377802  
 https://www.jockreynolds.com.au/2020/02/26/all-of-the-jrsc-supercoach-2020-tools-in-one-place/  
+16j. Team Stat Analysis - clearances and hard ball   
+https://www.statsinsider.com.au/afl/understanding-how-clearances-shape-the-results-of-afl-games  
+https://www.statsinsider.com.au/afl/stats-that-matter-the-hard-ball  
 16.  Team Analysis  
+https://www.statsinsider.com.au/afl/stats-that-matter-the-tactical-evolution-of-afl  
 http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
 http://figuringfooty.com/2017/04/14/why-2017-results-are-flattering-the-cats/  
@@ -334,6 +337,9 @@ Implementation of Reinforcement Learning Algorithm for Fantasy Football - https:
 Soccer Analysis Positions  https://arxiv.org/pdf/2003.10294.pdf  
 20a. Player Positions  
 https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef 
+https://www.statsinsider.com.au/afl/size-matters-the-types-of-forwards-scoring-for-and-against-your-club  
+https://www.statsinsider.com.au/afl/beyond-the-goals-how-afl-tall-forwards-compare-across-some-unsung-stats  
+https://www.statsinsider.com.au/afl/afl-stats-that-matter-the-changing-face-of-the-forward  
 21. R Dashboards for Fantasy Football  
 https://www.r-bloggers.com/2017-fantasy-football-projections/  
 https://fantasyfootballanalytics.net/  
