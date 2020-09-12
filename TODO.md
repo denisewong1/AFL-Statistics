@@ -343,6 +343,7 @@ https://nycdatascience.com/blog/student-works/nfl-dashboard-turns-play-by-play-d
 https://www.kaggle.com/ekrembayar/fifa-19-dashboard-with-r-shiny  look at all notebooks for chart ideas  
 https://www.footballdiehards.com/winning-fantasy-football-draft-strategies/  
 https://wesleypasfield.wordpress.com/2017/11/13/hosting-an-r-shiny-application-on-amazon-ec2/  hosting on amazon  
+https://scplaybook.com.au/category/playmakers-insights/  example page  
 22. Images  
 https://ccsearch.creativecommons.org/photos/04443241-fe18-4c77-b7c8-f5b5e0fbdf79  
 https://ccsearch.creativecommons.org/photos/2549449d-535b-47d9-8be4-6c8555c3601a  
