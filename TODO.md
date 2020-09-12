@@ -201,7 +201,6 @@ https://aflratings.com.au/2019/08/08/by-the-numbers-points-per-inside-50-round-2
 http://www.matterofstats.com/mafl-stats-journal/2014/7/17/modelling-the-total-score-in-an-afl-game  
 https://www.hpnfooty.com/?p=29844  
 http://www.hpnfooty.com/?p=31703  
-http://www.matterofstats.com/mafl-stats-journal/2013/6/16/game-statistics-and-the-dream-team.html  
 http://www.matterofstats.com/mafl-stats-journal/2013/6/29/game-statistics-and-game-outcomes.html  
 https://twitter.com/championdata/status/1199475212300902401 scoring efficiency  
 16c. Team Stat Analysis - kicks  
