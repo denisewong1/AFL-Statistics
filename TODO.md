@@ -248,6 +248,8 @@ https://i.redd.it/r80p9l2zzog41.png  where do teams defend?
 17a Match Analysis  
 https://mobile.abc.net.au/news/2019-09-28/the-data-says-afl-grand-final-might-be-closer-than-you-think/11549510?pfmredir=sm  
 17.  Other interesting things 
+https://www.kaggle.com/c/google-football  look at discussions  
+https://tomdecroos.github.io/reports/thesis_tomdecroos.pdf interesting charts  
 https://www.reddit.com/r/datascience/comments/c4mgsg/daily_fantasy_sports_ownership_projection/?utm_source=share&utm_medium=ios_app - fantasy sports ownership   
 https://www.afl.com.au/news/368098/roy-s-first-fantasy-team-and-five-simple-steps-to-making-yours  
 https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/121397 feature creation  
