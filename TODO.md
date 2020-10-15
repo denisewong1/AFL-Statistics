@@ -1,7 +1,7 @@
 ## To Do List  
 1. Document architecture and names here.  The order should be  -  
 Season -> Round -> Game -> Venue -> Team -> Position -> Player (Profile, Stats & Fantasy)   
-Chart formatting - http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html 
+Chart formatting - http://blog.yhat.com/posts/replicating-five-thirty-eight-in-r.html  
 Split data in the following manner?  Create a glossary  https://www.americansocceranalysis.com/glossary  
 1a. Application Framework possibilities with Shiny   
 https://www.americansocceranalysis.com/home/2020/7/6/asas-new-interactive-tables  
