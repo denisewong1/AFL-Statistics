@@ -23,6 +23,14 @@ Premiership :
 Season : margin of victory
 Fantasy : Breakevens
 Notes : abbreviations, new features created
+2a. What do I want forecasts or model inputs for?  How do i organise the results in folder structure?  
+Home Game Advantage  
+Interstate Advantage  
+Player Position Estimate   
+Player Offensive/Defensive   
+Team Offensive/Defensive  
+Schedule Strength  
+Fantasy Stats  
 3. Calculate average season margin of victory; do EDA on Ladder  
 http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
