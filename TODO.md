@@ -10,6 +10,9 @@ https://towardsdatascience.com/an-open-source-solution-to-deploy-enterprise-leve
 https://shiny.rstudio.com/gallery/hospital-data-antimicrobial.html  
 https://shiny.rstudio.com/gallery/lego-world.html  
 https://shiny.rstudio.com/gallery/bus-company-simulation.html  
+https://www.aflalytics.com/apps/seasonDashboard/?competition=VFLAFL  
+https://www.aflgains.com/  
+https://footymaths.blogspot.com/  
 https://gitlab.com/jphwang/online_articles/-/tree/master/  organisation of models   
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
@@ -22,7 +25,7 @@ Ladder : strength of schedule, eloWILMA
 Premiership :
 Season : margin of victory
 Fantasy : Breakevens
-Notes : abbreviations, new features created
+Notes : abbreviations, new features created  
 2a. What do I want forecasts or model inputs for?  How do i organise the results in folder structure?  
 Home Game Advantage  
 Interstate Advantage  
@@ -30,7 +33,7 @@ Player Position Estimate
 Player Offensive/Defensive   
 Team Offensive/Defensive  
 Schedule Strength  
-Fantasy Stats  
+Fantasy Breakevens    
 3. Calculate average season margin of victory; do EDA on Ladder  
 http://troywheatley.blogspot.com/search/label/Australian%20Rules%20Football  
 https://www.matterofstats.com/mafl-stats-journal/2015/11/22/competitiveness-in-the-vflafl-1897-2015  
@@ -300,6 +303,16 @@ https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors
 https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/  
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 18. Fantasy Analysis  
+https://www.afl.com.au/news/510972/luck-or-skill-fantasy-champ-shares-his-secrets-to-success  
+https://www.afl.com.au/news/512563/by-the-numbers-best-average-top-scores-biggest-rise-largest-fall-more  
+https://dreamteamtalk.com/2020/09/22/2020-hindsight-heroes  
+https://dreamteamtalk.com/2020/10/04/centre-bounce-attendances-2020  
+https://theafllab.com/2019/03/19/theres-no-2019-preview-why/  
+https://aflratings.com.au/2019/05/16/afl-fantasy-team-points-round-8-2/  
+https://www.statsinsider.com.au/afl/brownlow  
+https://github.com/cardchase/Soccer-Betting  
+https://www.kaggle.com/c/nfl-big-data-bowl-2021  
+https://www.reddit.com/r/fantasyfootball/comments/jagtm0/defensive_maneuvers_week_6_dst_rankings/?utm_source=share&utm_medium=ios_app&utm_name=iossmf  
 http://www.sqlservercentral.com/blogs/sql-with-dustin-ryan/2016/08/23/power-bi-nfl-fantasy-football-2016-reports/  powerbi  
 http://dreamteamtalk.com/wp-content/uploads/2011/03/afldreamteamcheatsheet2011.pdf  - visualisation  
 https://magicnumbertheory.wordpress.com/2016/05/26/bye-planner-v2/ - visualisation    
