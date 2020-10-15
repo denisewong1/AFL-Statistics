@@ -13,6 +13,7 @@ https://shiny.rstudio.com/gallery/bus-company-simulation.html
 https://www.aflalytics.com/apps/seasonDashboard/?competition=VFLAFL  
 https://www.aflgains.com/  
 https://footymaths.blogspot.com/  
+https://fantasy.cultivateforecasts.com/challenges  
 https://gitlab.com/jphwang/online_articles/-/tree/master/  organisation of models   
 2. Document Process and storage folders for each process for both code and data     
 scrape -> clean and save -> EDA by each group in (1) above -> Analysis and Predictions    
