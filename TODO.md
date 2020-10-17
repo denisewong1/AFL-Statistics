@@ -372,6 +372,7 @@ https://rforjournalists.com/2016/09/24/creating-premier-league-results-matrix-in
 https://rforjournalists.com/2019/11/12/how-to-track-your-fantasy-football-league-using-r/  
 https://nycdatascience.com/blog/student-works/nfl-dashboard-turns-play-by-play-data-into-actionable-insights-for-fantasy-football/  
 https://www.kaggle.com/ekrembayar/fifa-19-dashboard-with-r-shiny  look at all notebooks for chart ideas  
+https://ekrem-bayar.shinyapps.io/FifaDash/ same as above with excellent dashboard layout and format  
 https://www.footballdiehards.com/winning-fantasy-football-draft-strategies/  
 https://wesleypasfield.wordpress.com/2017/11/13/hosting-an-r-shiny-application-on-amazon-ec2/  hosting on amazon  
 https://scplaybook.com.au/category/playmakers-insights/  example page  
