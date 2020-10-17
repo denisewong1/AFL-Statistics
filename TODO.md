@@ -7,7 +7,6 @@ Split data in the following manner?  Create a glossary  https://www.americansocc
 https://www.americansocceranalysis.com/home/2020/7/6/asas-new-interactive-tables  
 https://github.com/American-Soccer-Analysis/asa-shiny-app/tree/master/app  
 https://towardsdatascience.com/an-open-source-solution-to-deploy-enterprise-level-r-shiny-applications-2e19d950ff35  
-https://shiny.rstudio.com/gallery/hospital-data-antimicrobial.html  
 https://shiny.rstudio.com/gallery/lego-world.html  
 https://shiny.rstudio.com/gallery/bus-company-simulation.html  
 https://www.aflalytics.com/apps/seasonDashboard/?competition=VFLAFL  
