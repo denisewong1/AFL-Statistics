@@ -364,7 +364,6 @@ https://www.statsinsider.com.au/afl/afl-stats-that-matter-the-changing-face-of-t
 21. R Dashboards for Fantasy Football  
 https://www.r-bloggers.com/2017-fantasy-football-projections/  
 https://fantasyfootballanalytics.net/  
-https://rforjournalists.com/2016/09/24/creating-premier-league-results-matrix-in-r/  
 https://rforjournalists.com/2019/11/12/how-to-track-your-fantasy-football-league-using-r/  
 https://nycdatascience.com/blog/student-works/nfl-dashboard-turns-play-by-play-data-into-actionable-insights-for-fantasy-football/  
 https://www.kaggle.com/ekrembayar/fifa-19-dashboard-with-r-shiny  look at all notebooks for chart ideas  
