@@ -6,7 +6,6 @@ Split data in the following manner?  Create a glossary  https://www.americansocc
 1a. Application Framework possibilities with Shiny   
 https://www.americansocceranalysis.com/home/2020/7/6/asas-new-interactive-tables  
 https://towardsdatascience.com/an-open-source-solution-to-deploy-enterprise-level-r-shiny-applications-2e19d950ff35  
-https://shiny.rstudio.com/gallery/lego-world.html  
 https://www.aflalytics.com/apps/seasonDashboard/?competition=VFLAFL  
 https://www.aflgains.com/  
 https://footymaths.blogspot.com/  
