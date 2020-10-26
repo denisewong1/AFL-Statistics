@@ -354,11 +354,14 @@ https://i.redd.it/daf66mqqqsc41.png
 https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e  
 https://preview.redd.it/otuo2ylmpl641.gif?format=mp4&s=a3b7c45fa6e2c9df168dac2772397955ad3585c9  
 https://aflratings.com.au/2019/12/18/afl-fantasy-new-utility-position-strategy/  
+https://squiggle.com.au/some-useful-things-i-learned-about-football/  
 Implementation of Reinforcement Learning Algorithm for Fantasy Football - https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/download/5088/5473    
 Soccer Analysis Positions  https://arxiv.org/pdf/2003.10294.pdf  
 18. Bookmaker Oddds  
 https://cran.r-project.org/web/packages/implied/index.html  
 http://lkm.fri.uni-lj.si/uploads/eriks/strumbelj_workingpaper2013.pdf  
+https://help.smarkets.com/hc/en-gb/articles/115001457989-How-to-calculate-Poisson-distribution-for-football-betting  
+https://www.sbo.net/strategy/football-prediction-model-poisson-distribution/  
 20a. Player Positions  
 https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef 
 https://www.statsinsider.com.au/afl/size-matters-the-types-of-forwards-scoring-for-and-against-your-club  
