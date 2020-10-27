@@ -376,6 +376,7 @@ https://www.kaggle.com/ekrembayar/fifa-19-dashboard-with-r-shiny  look at all no
 https://ekrem-bayar.shinyapps.io/FifaDash/ same as above with excellent dashboard layout and format  
 https://www.footballdiehards.com/winning-fantasy-football-draft-strategies/  
 https://wesleypasfield.wordpress.com/2017/11/13/hosting-an-r-shiny-application-on-amazon-ec2/  hosting on amazon  
+https://www.splunk.com/en_us/blog/platform/how-to-win-at-fantasy-football-with-splunk-and-machine-learning-part-2.html   
 https://scplaybook.com.au/category/playmakers-insights/  example page  
 22. Images  
 https://ccsearch.creativecommons.org/photos/04443241-fe18-4c77-b7c8-f5b5e0fbdf79  
