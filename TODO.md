@@ -257,6 +257,7 @@ https://mobile.abc.net.au/news/2019-09-28/the-data-says-afl-grand-final-might-be
 17.  Other interesting things 
 https://github.com/liam-crow/stats-blog/tree/master/content/post  
 https://www.crowdatascience.com/travelling-salesman-problem-in-r-with-location-data/  
+https://www.thefatstats.com/post/predicting-the-brownlow-is-hard  
 https://www.kaggle.com/c/google-football  look at discussions  
 https://tomdecroos.github.io/reports/thesis_tomdecroos.pdf interesting charts  
 https://blogs.fangraphs.com/the-fangraphs-uzr-primer/  interesting charts and primer  
