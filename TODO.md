@@ -255,6 +255,8 @@ https://i.redd.it/r80p9l2zzog41.png  where do teams defend?
 17a Match Analysis  
 https://mobile.abc.net.au/news/2019-09-28/the-data-says-afl-grand-final-might-be-closer-than-you-think/11549510?pfmredir=sm  
 17.  Other interesting things 
+https://github.com/liam-crow/stats-blog/tree/master/content/post  
+https://www.crowdatascience.com/travelling-salesman-problem-in-r-with-location-data/  
 https://www.kaggle.com/c/google-football  look at discussions  
 https://tomdecroos.github.io/reports/thesis_tomdecroos.pdf interesting charts  
 https://blogs.fangraphs.com/the-fangraphs-uzr-primer/  interesting charts and primer  
