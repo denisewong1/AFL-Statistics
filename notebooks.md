@@ -21,6 +21,8 @@ The EDA series is intended to ensure that understanding the data and what needs 
 
 ### 03* Models  
 Models are conceived here in an RMD file.  If they are good they will be replicated in the model directory.  
+Naming convention for the player models : player_xxx where xxx relates to lstStat$xxx which defines the group for all the stats produced by the model.  
+All model results should have ONLY the following information : NameRef, Season, RoundID, MatchID, followed by the list of stats.
 031_model_ftsybreakeven : calculate fantasy round values and predict breakevens - makes copy in app directory   
 032_model_player_position : estimate player positions  
 033_model_linprog_ftsyteam : estimate best ftsy team  
