@@ -1,8 +1,8 @@
 
 Documentation Structure  
 Note : 
-1. for FW files PlayerID is the source of all truth within a seasons  
-2. for FW files NameRef & DOB is the source of all truth across seasons    
+1. for FW files NameRef is the source of all truth across seasons    
+2. for FW files Season & RoundID is the source of all truth across seasons - MatchID only available for games played per player
 
 Template : https://github.com/dslp/dslp-repo-template  
 
