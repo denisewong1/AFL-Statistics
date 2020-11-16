@@ -140,9 +140,12 @@ http://hurlingpeoplenow.tumblr.com/post/98964610922/hpn-draft-pick-trade-value-c
 https://hurlingpeoplenow.wordpress.com/2017/09/02/the-2017-pav-all-australian-team/  
 http://www.matterofstats.com/mafl-stats-journal/2018/9/5/player-experience-data-analysis-and-modelling  
 https://theafllab.com/2018/06/13/how-do-you-measure-a-players-form/  
+https://www.draftguru.com.au/years/1993  draft data  
 9. Combining team and player rating data  
 http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-combining-afl-team-and-player-data-in-a-predictive-model  
 https://theafllab.com/2019/03/02/the-soldier-model/  
+https://towardsdatascience.com/footy-tipping-with-machine-learning-adding-player-data-9ccdab56a4c5  
+http://www.tipresias.net/  
 10.  Game scoring progression  
 https://squiggle.com.au/0-4-futures/  
 http://www.matterofstats.com/score-progressions/  
