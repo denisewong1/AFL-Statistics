@@ -187,9 +187,7 @@ http://www.espn.com/espn/feature/story/_/id/20355634/footy-forensics-statistics-
 https://towardsdatascience.com/predicting-premier-league-odds-from-ea-player-bfdb52597392  
 https://arxiv.org/pdf/1802.00998.pdf  
 http://www.82games.com/comm30.htm  
-https://www.reddit.com/r/dataisbeautiful/comments/disxti/mlb_batting_average_leaders_over_time_oc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf  
 https://keeperleaguepod.com.au/breakout-tracker-out-now/  breakout tracker  
-http://coachespanel.tv/what-is-the-50-most-relevant/  
 https://www.afl.com.au/news/367727/secrets-to-success-how-best-to-use-the-new-utility-position-in-fantasy utility position  
 15.  Bye Rounds  
 http://www.espn.com/espn/feature/story/_/id/19693539/afl-footy-forensics-matt-cowgill-effects-byes  
