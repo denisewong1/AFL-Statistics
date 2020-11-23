@@ -265,8 +265,6 @@ https://www.kaggle.com/c/google-football  look at discussions
 https://tomdecroos.github.io/reports/thesis_tomdecroos.pdf interesting charts  
 https://blogs.fangraphs.com/the-fangraphs-uzr-primer/  interesting charts and primer  
 https://www.reddit.com/r/datascience/comments/c4mgsg/daily_fantasy_sports_ownership_projection/?utm_source=share&utm_medium=ios_app - fantasy sports ownership   
-https://www.afl.com.au/news/368098/roy-s-first-fantasy-team-and-five-simple-steps-to-making-yours  
-https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/121397 feature creation  
 https://www.kaggle.com/jpmiller/nfl-punt-analytics eda  
 https://www.kaggle.com/statsbymichaellopez/nfl-tracking-wrangling-voronoi-and-sonars vectirs  
 https://www.kaggle.com/jaseziv83/comprehensive-cleaning-and-eda-of-all-variables eda  
