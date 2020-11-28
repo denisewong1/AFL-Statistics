@@ -124,6 +124,7 @@ poisson and histogram - http://old.clubelo.com/Articles/AdaptivePoissonparameter
 Use it to simulate outcomes for future matches Monte Carlo using rbinom - http://www.matterofstats.com/mafl-simulations/2015/7/7/simulating-the-finalists-for-2015-after-round-14   
 7. Build a rating system for each player based on player stats  
 https://twitter.com/FanFooty/status/1199904493174804480/photo/1 sample player dashboard   
+http://m.mlb.com/glossary/projection-systems  
 https://www.americansocceranalysis.com/home/2020/8/3/defining-roles-how-every-player-contributes-to-goals  
 https://www.americansocceranalysis.com/home/2020/5/5/goals-added-and-the-great-possession-shift  
 https://www.thesignificantgame.com/portfolio/  
