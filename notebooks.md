@@ -34,6 +34,7 @@ All models have the following functions which uses the naming conventions
 * model_name_chart : gets predictions/results for the primary id key and puts it in a chart format, this may contain more than one chart per player  
 * model_name_prediction : runs only forecast model and saves results  
 * model_name_production : runs the full model and saves results  
+* model_name_accuracy : how the model is performing in production  
 
 The first part of the model_name will contain the primary id key : 031 player_ftsyBE, 032 player_position, 033 round_ftsyteamLP, 034 player_ppm  
 
