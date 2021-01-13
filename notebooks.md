@@ -7,7 +7,7 @@ Data gathering will ideally be done here.  If any errors are spotted in the futu
 001_compile_data_ftsy : scrape weekly data from footywire  
 002_collate_footywire_multiseason : collate and clean all fantasy data across seasons - to be used for all future research  
 003_collate_fitzroy_multiseason : scrape weekly data from afltables - to be used for all future research   
-
+004_collate_postgres : replaces 001 & 002 above by putting data into a postgres database
   
   
 ### 01* Feature Creation from Models   
@@ -26,6 +26,14 @@ All model results should have ONLY the following information : NameRef, Season, 
 031_model_ftsybreakeven : calculate fantasy round values and predict breakevens - makes copy in app directory   
 032_model_player_position : estimate player positions  
 033_model_linprog_ftsyteam : estimate best ftsy team  
+034_model_player_points : estimate average player points for season/match
+
+All models have the following functions which uses the naming conventions
+model_name_data : gathers data from postgres database
+model_name_prediction : runs only forecast model and saves results
+model_name_production : runs the full model and saves results
+The first part of the model_name will contain the primary id key : player_ftsyBE, player_position, player_points
+
 
 ### 04* Charts  
 Any charts from the data directories for the app are created here  
