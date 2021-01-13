@@ -28,13 +28,13 @@ All model results should have ONLY the following information : NameRef, Season, 
 033_model_linprog_ftsyteam : estimate best ftsy team  
 034_model_player_ppm : estimate average player points per minute for season/match
 
-All models will be saved into an .R file with the same name as the project (excluding project number).
-All models have the following functions which uses the naming conventions
-model_name_data : gathers data from postgres database - source useful_postgresql.R file
-model_name_chart : gets predictions/results for the primary id key and puts it in a chart format, this may contain more than one chart per player
-model_name_prediction : runs only forecast model and saves results
-model_name_production : runs the full model and saves results
-The first part of the model_name will contain the primary id key : 031 player_ftsyBE, 032 player_position, 033 round_ftsyteamLP, 034 player_ppm
+All models will be saved into an .R file with the same name as the project (excluding project number).  
+All models have the following functions which uses the naming conventions  
+* model_name_data : gathers data from postgres database - source useful_postgresql.R file  
+* model_name_chart : gets predictions/results for the primary id key and puts it in a chart format, this may contain more than one chart per player  
+* model_name_prediction : runs only forecast model and saves results  
+* model_name_production : runs the full model and saves results  
+The first part of the model_name will contain the primary id key : 031 player_ftsyBE, 032 player_position, 033 round_ftsyteamLP, 034 player_ppm  
 
 
 ### 04* Charts  
