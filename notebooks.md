@@ -21,7 +21,7 @@ The EDA series is intended to ensure that understanding the data and what needs 
 
 ### 03* Models  
 Models are conceived here in an RMD file.  If they are good they will be replicated in the model directory.  
-Naming convention for the player models : player_xxx where xxx relates to lstStat$xxx which defines the group for all the stats produced by the model.  
+Naming convention for the player models : playerXXX where XXX relates to lstStat$xxx which defines the group for all the stats produced by the model.  
 All model results should have ONLY the following information : NameRef, Season, RoundID, MatchID, followed by the list of stats.
 031_model_ftsybreakeven : calculate fantasy round values and predict breakevens - makes copy in app directory   
 032_model_player_position : estimate player positions  
@@ -32,6 +32,8 @@ All models will be saved into an .R file with the same name as the project (excl
 All models have the following functions which uses the naming conventions  
 * model_name_data : gathers data from postgres database - source useful_postgresql.R file  
 * model_name_chart : gets predictions/results for the primary id key and puts it in a chart format, this may contain more than one chart per player  
+* model_name_train : trains individual models eg rf, gbm, etc
+* model_name_results : prediction results
 * model_name_prediction : runs only forecast model and saves results  
 * model_name_production : runs the full model and saves results  
 * model_name_accuracy : how the model is performing in production  
