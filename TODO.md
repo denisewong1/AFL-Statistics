@@ -361,6 +361,15 @@ https://preview.redd.it/otuo2ylmpl641.gif?format=mp4&s=a3b7c45fa6e2c9df168dac277
 https://aflratings.com.au/2019/12/18/afl-fantasy-new-utility-position-strategy/  
 https://squiggle.com.au/some-useful-things-i-learned-about-football/  
 Implementation of Reinforcement Learning Algorithm for Fantasy Football - https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/download/5088/5473    
+https://fantasyfootballanalytics.net/2020/12/gold-mining-week-14-2020.html  
+https://fantasyfootballanalytics.net/2013/04/win-your-snake-draft-calculating-value.html  
+https://www.fantasypros.com/nfl/rankings/ppr-cheatsheets.php  
+https://fantasyfootballanalytics.net/2014/06/custom-rankings-and-projections-for-your-league.html  
+https://www.r-bloggers.com/2021/01/fantasy-football-and-the-classical-scheduling-problem/  
+https://fantasyfootballanalytics.net/2013/06/win-your-fantasy-football-auction-draft.html  
+https://www.sbnation.com/nfl/2019/4/22/18410620/nfl-draft-wide-receiver-stats-2019-projections-dk-metcalf-aj-brown-sleepers  
+https://www.footballperspective.com/guest-post-passing-volume-vs-passing-efficiency/  
+https://www.footballoutsiders.com/stat-analysis  
 Soccer Analysis Positions  https://arxiv.org/pdf/2003.10294.pdf  
 18. Bookmaker Oddds  
 https://cran.r-project.org/web/packages/implied/index.html  
