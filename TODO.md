@@ -166,6 +166,8 @@ http://www.fanfooty.com.au/game/bloglog.php?id=7201
 https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-riding-this-year/  
 https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8?shareType=nongift  
 https://www.footballdiehards.com/winning-fantasy-football-draft-strategies/  
+https://www.foxsports.com.au/afl/afl-draft-2020-value-of-draft-picks-games-played-what-are-draft-picks-worth-analysis-stats-history-of-afl-draft-news/news-story/80ddfd0cb057b2470ccec87394102b99  
+https://grantland.com/features/the-economics-moneyball/#:~:text=The%20Moneyball%20thesis%20is%20simple,are%20overvalued%20by%20other%20teams.&text=The%20best%2Dknown%20Moneyball%20theory,asset%20and%20sluggers%20were%20overvalued.  
 14.  Player Analysis  
 https://www.afl.com.au/news/441163/the-22-for-round-two-our-reporters-predict-your-line-ups  
 http://www.matterofstats.com/mafl-stats-journal/2020/4/28/a-review-of-afl-player-rating-data  
