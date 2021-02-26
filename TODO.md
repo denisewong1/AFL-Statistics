@@ -413,8 +413,17 @@ https://dreamteamtalk.com/2021/02/12/steele-sidebottom-deck-of-dt-2021/
 https://dreamteamtalk.com/2021/02/08/jack-crisp-deck-of-dt-2021/  
 https://keeperleaguepod.com.au/are-we-over-thinking-the-interchange-cap/  
 https://keeperleaguepod.com.au/late-season-averages-differentials-2021/  
+https://keeperleaguepod.com.au/defender-rankings-2021/  
+https://keeperleaguepod.com.au/midfielder-rankings-2021/  
+https://keeperleaguepod.com.au/forward-rankings-2021/  
+https://keeperleaguepod.com.au/ruck-rankings-2021/  
+https://keeperleaguepod.com.au/team-analysis-2021-west-coast/  
 https://aflratings.com.au/2021/02/21/fantasy-2021-richmond-targets/  
 https://aflratings.com.au/2021/01/01/bet-lab-the-2020-season-that-was/  
 https://sportsbyfry.com/2021/01/11/afl-fantasy-2021-preseason-cash-cows-watchlist/  
 https://sportsbyfry.com/2021/02/10/afl-fantasy-2021-22-mid-priced-players-to-seriously-consider-for-your-starting-squad/  
 https://sportsbyfry.com/2021/02/24/afl-fantasy-2021-15-unique-players-to-look-at-for-your-classic-team/  
+
+
+
+
