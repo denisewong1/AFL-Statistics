@@ -402,3 +402,19 @@ https://ccsearch.creativecommons.org/photos/eceebbe4-d245-44b0-9bfc-b62937df99a2
 https://ccsearch.creativecommons.org/photos/dab7e935-6aec-4606-aec6-797e83a2a528  
 https://ccsearch.creativecommons.org/photos/dfb64502-8006-4a12-8df5-6ea372228faa  
 https://ccsearch.creativecommons.org/photos/c537c085-bc15-480b-991e-3a0005cec7ef  
+23.  Best from preseason 2021 to incorporate in app   
+https://dreamteamtalk.com/2020/02/04/roys-rolling-22-pre-season-ii/  
+https://dreamteamtalk.com/2019/08/20/roys-trade-and-rolling-22-talk-rd-23/  
+https://dreamteamtalk.com/2020/12/24/warnies-first-fantasy-classic-team-reveal/  
+https://dreamteamtalk.com/2021/02/08/cals-scale-of-hardness-2021/  
+https://dreamteamtalk.com/2021/01/17/jack-scrimshaw-deck-of-dt-2021/  
+https://dreamteamtalk.com/2020/10/04/centre-bounce-attendances-2020  
+https://dreamteamtalk.com/2021/02/12/steele-sidebottom-deck-of-dt-2021/  
+https://dreamteamtalk.com/2021/02/08/jack-crisp-deck-of-dt-2021/  
+https://keeperleaguepod.com.au/are-we-over-thinking-the-interchange-cap/  
+https://keeperleaguepod.com.au/late-season-averages-differentials-2021/  
+https://aflratings.com.au/2021/02/21/fantasy-2021-richmond-targets/  
+https://aflratings.com.au/2021/01/01/bet-lab-the-2020-season-that-was/  
+https://sportsbyfry.com/2021/01/11/afl-fantasy-2021-preseason-cash-cows-watchlist/  
+https://sportsbyfry.com/2021/02/10/afl-fantasy-2021-22-mid-priced-players-to-seriously-consider-for-your-starting-squad/  
+https://sportsbyfry.com/2021/02/24/afl-fantasy-2021-15-unique-players-to-look-at-for-your-classic-team/  
