@@ -420,7 +420,9 @@ https://aflratings.com.au/2021/01/01/bet-lab-the-2020-season-that-was/
 https://sportsbyfry.com/2021/01/11/afl-fantasy-2021-preseason-cash-cows-watchlist/  
 https://sportsbyfry.com/2021/02/10/afl-fantasy-2021-22-mid-priced-players-to-seriously-consider-for-your-starting-squad/  
 https://sportsbyfry.com/2021/02/24/afl-fantasy-2021-15-unique-players-to-look-at-for-your-classic-team/  
-
+https://chewthestat.com/correlation-vs-causation-the-football-analysts-trap/ - features team -   
+http://www.hpnfooty.com/?p=33018 - elo attribution  
+https://www.abc.net.au/news/2021-03-18/will-afl-surprise-or-will-tigers-triumph-again/100014704  - rolling up ppm attribution model?  
 
 
 
