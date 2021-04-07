@@ -423,6 +423,11 @@ https://sportsbyfry.com/2021/02/24/afl-fantasy-2021-15-unique-players-to-look-at
 https://chewthestat.com/correlation-vs-causation-the-football-analysts-trap/ - features team -   
 http://www.hpnfooty.com/?p=33018 - elo attribution  
 https://www.abc.net.au/news/2021-03-18/will-afl-surprise-or-will-tigers-triumph-again/100014704  - rolling up ppm attribution model?  
-
-
+http://www.hpnfooty.com/?p=33056  
+24.  Supercoach  
+https://en.wikipedia.org/wiki/AFL_SuperCoach  
+https://www.news.com.au/sport/afl/kfc-supercoach-2021-study-guide-onestop-shop-for-preseason-research/news-story/cc876f8abdf3e9b9f8b701a32602f6b5  
+https://www.zerohanger.com/supercoach-scoring-system-explained-4034/  
+https://supercoachdata.com/  
+https://www.betfair.com.au/hub/afl-betting-products-resources/  
 
