@@ -424,10 +424,17 @@ https://chewthestat.com/correlation-vs-causation-the-football-analysts-trap/ - f
 http://www.hpnfooty.com/?p=33018 - elo attribution  
 https://www.abc.net.au/news/2021-03-18/will-afl-surprise-or-will-tigers-triumph-again/100014704  - rolling up ppm attribution model?  
 http://www.hpnfooty.com/?p=33056  
+https://www.abc.net.au/news/2021-04-15/how-buddy-franklin-changed-the-afl/100068110?utm_source=abc_news_web&utm_medium=content_shared&utm_campaign=abc_news_web non score involvements  
+https://www.abc.net.au/news/2021-04-08/can-afls-fallen-giants-rise-again/100052590?utm_source=abc_news_web&utm_medium=content_shared&utm_content=twitter&utm_campaign=abc_news_web  
 24.  Supercoach  
 https://en.wikipedia.org/wiki/AFL_SuperCoach  
 https://www.news.com.au/sport/afl/kfc-supercoach-2021-study-guide-onestop-shop-for-preseason-research/news-story/cc876f8abdf3e9b9f8b701a32602f6b5  
 https://www.zerohanger.com/supercoach-scoring-system-explained-4034/  
 https://supercoachdata.com/  
 https://www.betfair.com.au/hub/afl-betting-products-resources/  
+25.  Umpiring  
+https://llewellynjean.shinyapps.io/NBARefDatabase/  
+https://afltables.com/afl/stats/games/2021/010920210320.html  
+https://www.sen.com.au/news/2021/04/12/the-2021-free-kick-ladder-after-four-rounds  
+
 
