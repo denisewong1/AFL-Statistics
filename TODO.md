@@ -6,6 +6,7 @@ Split data in the following manner?  Create a glossary  https://www.americansocc
 1a. Application Framework possibilities with Shiny   
 https://dfsaustralia-apps.com/shiny/draftstars-slate-analysis/  
 https://medium.com/nightingale/the-most-important-role-youre-not-hiring-for-your-data-team-the-information-architect-7521887d4d50  
+http://insightlane.com/australian-football/era-adjusted-vfl-afl-goals/  
 https://www.americansocceranalysis.com/home/2020/7/6/asas-new-interactive-tables  
 https://towardsdatascience.com/an-open-source-solution-to-deploy-enterprise-level-r-shiny-applications-2e19d950ff35  
 https://www.aflalytics.com/apps/seasonDashboard/?competition=VFLAFL  
@@ -429,6 +430,8 @@ http://www.hpnfooty.com/?p=33056
 https://www.abc.net.au/news/2021-04-15/how-buddy-franklin-changed-the-afl/100068110?utm_source=abc_news_web&utm_medium=content_shared&utm_campaign=abc_news_web non score involvements  
 https://www.abc.net.au/news/2021-04-08/can-afls-fallen-giants-rise-again/100052590?utm_source=abc_news_web&utm_medium=content_shared&utm_content=twitter&utm_campaign=abc_news_web  
 https://www.abc.net.au/news/2021-04-29/western-bulldogs-charging-towards-afl-flag/100100592  
+https://towardsdatascience.com/predicting-saves-for-pitchers-in-mlb-cbbf73b9b3df  
+http://www.fcrstats.com/about.html  
 24.  Supercoach  
 https://en.wikipedia.org/wiki/AFL_SuperCoach  
 https://www.news.com.au/sport/afl/kfc-supercoach-2021-study-guide-onestop-shop-for-preseason-research/news-story/cc876f8abdf3e9b9f8b701a32602f6b5  
