@@ -442,5 +442,6 @@ https://www.betfair.com.au/hub/afl-betting-products-resources/
 https://llewellynjean.shinyapps.io/NBARefDatabase/  
 https://afltables.com/afl/stats/games/2021/010920210320.html  
 https://www.sen.com.au/news/2021/04/12/the-2021-free-kick-ladder-after-four-rounds  
+https://www.heraldsun.com.au/sport/afl/purefooty/pure-footy-david-king-and-daniel-hoyne-reveal-the-stat-cruelling-carlton-st-kilda/news-story/2e3e146c643c3960b4f1e6ea671b3a28  
 
 
