@@ -443,5 +443,18 @@ https://llewellynjean.shinyapps.io/NBARefDatabase/
 https://afltables.com/afl/stats/games/2021/010920210320.html  
 https://www.sen.com.au/news/2021/04/12/the-2021-free-kick-ladder-after-four-rounds  
 https://www.heraldsun.com.au/sport/afl/purefooty/pure-footy-david-king-and-daniel-hoyne-reveal-the-stat-cruelling-carlton-st-kilda/news-story/2e3e146c643c3960b4f1e6ea671b3a28  
-
-
+26. Shiny App Resources  
+https://community.rstudio.com/t/getting-the-user-selected-entry-of-a-data-table-in-shiny-to-actually-make-a-scatterplot/52419/2  
+https://stackoverflow.com/questions/28274584/get-selected-row-from-datatable-in-shiny-app  
+https://stackoverflow.com/questions/60310063/r-shiny-dt-hover-shows-detailed-table  
+https://cloudstack.ninja/maad-scientist/insert-ggplot-barplot-in-table-in-r-shiny/  
+https://shanghai.hosting.nyu.edu/data/r/case-3-sql-shiny.html#UI_layout  
+https://stackoverflow.com/questions/48146508/how-to-freeze-in-shiny-a-row-using-dt-table  
+https://gallery.htmlwidgets.org/  
+https://www.infoworld.com/article/3543297/how-to-create-tables-in-r-with-expandable-rows.html  
+https://stackoverflow.com/questions/49543880/checkboxes-in-dt-shiny  
+https://medium.com/@juliantagell/i-created-a-big-messy-rshiny-flexdashboard-app-to-monitor-my-finances-5db8b20148bb  
+https://www.researchgate.net/figure/Shiny-output-of-a-sparkTable-object_fig1_282220150  
+https://www.jennadallen.com/post/a-shiny-app-to-visualize-and-share-my-dogs-medical-history/  
+https://www.r-bloggers.com/2020/01/shiny-crud/  
+https://www.empiricalpath.com/insights/article-attribution-dashboard/  
