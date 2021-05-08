@@ -458,3 +458,6 @@ https://www.researchgate.net/figure/Shiny-output-of-a-sparkTable-object_fig1_282
 https://www.jennadallen.com/post/a-shiny-app-to-visualize-and-share-my-dogs-medical-history/  
 https://www.r-bloggers.com/2020/01/shiny-crud/  
 https://www.empiricalpath.com/insights/article-attribution-dashboard/  
+https://rdrr.io/github/mattkcole/shinyaudio/man/audio.html  
+https://www.r-bloggers.com/2020/02/working-with-audio-in-r-using-av/  
+https://github.com/XD-DENG/Reactively-Play-Audio-Shiny/blob/master/server.R  
