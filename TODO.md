@@ -453,6 +453,7 @@ http://supercoachtalk.com/how-supercoach-pricing-works-2020/
 https://llewellynjean.shinyapps.io/NBARefDatabase/  
 https://afltables.com/afl/stats/games/2021/010920210320.html  
 https://www.sen.com.au/news/2021/04/12/the-2021-free-kick-ladder-after-four-rounds  
+https://www.afl.com.au/news/620543/crucial-crows-dees-call-should-have-been-a-free-kick-afl  
 https://www.heraldsun.com.au/sport/afl/purefooty/pure-footy-david-king-and-daniel-hoyne-reveal-the-stat-cruelling-carlton-st-kilda/news-story/2e3e146c643c3960b4f1e6ea671b3a28  
 26. Shiny App Resources  
 https://community.rstudio.com/t/getting-the-user-selected-entry-of-a-data-table-in-shiny-to-actually-make-a-scatterplot/52419/2  
