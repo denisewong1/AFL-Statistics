@@ -425,7 +425,11 @@ https://chewthestat.com/correlation-vs-causation-the-football-analysts-trap/ - f
 http://www.hpnfooty.com/?p=33018 - elo attribution  
 https://www.abc.net.au/news/2021-03-18/will-afl-surprise-or-will-tigers-triumph-again/100014704  - rolling up ppm attribution model?  
 http://www.hpnfooty.com/?p=33056  
+https://www.pinnacle.com/en/betting-articles/Betting-Strategy/part-one-magical-betting-formula/ZBR2XMV32BCQ76U4  
+https://chewthestat.com/euro-copa-america-elo/  
 https://www.abc.net.au/news/2021-04-15/how-buddy-franklin-changed-the-afl/100068110?utm_source=abc_news_web&utm_medium=content_shared&utm_campaign=abc_news_web non score involvements  
+https://www.foxsports.com.au/afl/teams/brisbane-lions/afl-news-2021-brisbane-lions-list-moneyball-strategy-analysis-trade-history-fox-footy-first-crack-st-kilda-list-management/news-story/1d258eb7562ac1ed1f2f6bb9ac36eee1  
+https://churchofbetting.com/2017/12/21/premier-league-draws/  
 https://www.abc.net.au/news/2021-04-08/can-afls-fallen-giants-rise-again/100052590?utm_source=abc_news_web&utm_medium=content_shared&utm_content=twitter&utm_campaign=abc_news_web  
 https://www.abc.net.au/news/2021-04-29/western-bulldogs-charging-towards-afl-flag/100100592  
 https://towardsdatascience.com/predicting-saves-for-pitchers-in-mlb-cbbf73b9b3df  
