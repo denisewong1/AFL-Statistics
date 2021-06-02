@@ -429,6 +429,8 @@ https://www.abc.net.au/news/2021-04-15/how-buddy-franklin-changed-the-afl/100068
 https://www.abc.net.au/news/2021-04-08/can-afls-fallen-giants-rise-again/100052590?utm_source=abc_news_web&utm_medium=content_shared&utm_content=twitter&utm_campaign=abc_news_web  
 https://www.abc.net.au/news/2021-04-29/western-bulldogs-charging-towards-afl-flag/100100592  
 https://towardsdatascience.com/predicting-saves-for-pitchers-in-mlb-cbbf73b9b3df  
+https://www.afl.com.au/news/620564/fantasy-tips-how-to-dominate-the-bye-rounds  
+https://dreamteamtalk.com/2021/05/31/cals-scale-of-hardness-3/  
 http://www.fcrstats.com/about.html  
 24.  Supercoach  
 https://en.wikipedia.org/wiki/AFL_SuperCoach  
