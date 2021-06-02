@@ -381,6 +381,7 @@ https://cran.r-project.org/web/packages/implied/index.html
 http://lkm.fri.uni-lj.si/uploads/eriks/strumbelj_workingpaper2013.pdf  
 https://help.smarkets.com/hc/en-gb/articles/115001457989-How-to-calculate-Poisson-distribution-for-football-betting  
 https://www.sbo.net/strategy/football-prediction-model-poisson-distribution/  
+http://www.football-data.co.uk/wisdom_of_crowd_bets  
 20a. Player Positions  
 https://www.foxsports.com.au/afl/mitch-robinson-why-allaustralian-panel-made-a-mockery-of-players-by-not-selecting-genuine-wingmen/news-story/9e0d4e49d1770d54788d0a2174461cef 
 https://www.statsinsider.com.au/afl/size-matters-the-types-of-forwards-scoring-for-and-against-your-club  
