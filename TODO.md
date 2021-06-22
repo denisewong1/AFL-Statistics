@@ -443,18 +443,10 @@ https://www.news.com.au/sport/afl/kfc-supercoach-2021-study-guide-onestop-shop-f
 https://www.zerohanger.com/supercoach-scoring-system-explained-4034/  
 https://www.betfair.com.au/hub/afl-betting-products-resources/  
 https://dailyfantasyrankings.com.au/resources/afl/index.php  
-https://www.bigfooty.com/forum/threads/explanation-for-break-evens-work-and-price-changes.540217/  
 http://www.matterofstats.com/mafl-stats-journal/2019/1/5/estimating-afl-player-value  
 https://www.heraldsun.com.au/sport/afl/supercoach-news/how-kfc-supercoach-prices-are-calculated-and-how-to-use-that-to-your-advantage/news-story/3058c22429f73015cfae6aecd2ade72b  
 https://www.heraldsun.com.au/sport/afl/supercoach-news/kfc-supercoach-afl-scoring-system-explained/news-story/1354e8aff8390ca80726225943120f30  
-https://www.bigfooty.com/forum/threads/supercoach-3-week-rule.426512/  
-https://www.bigfooty.com/forum/threads/how-is-a-players-price-calculated.687914/  
-https://www.bigfooty.com/forum/threads/explanation-for-break-evens-work-and-price-changes.540217/  
-http://supercoachcoach.com.au/forums/supercoach-prices-and-breakevens-explained.t2620/  
-https://www.nrlsupercoachstats.com/pricechangecalc.php  
 https://news-afl-sp.virtualsports.com.au/content/help/maintablemiddle/terms?hidemodal=false#:~:text=team%20%26%20player%20value&text=Each%20player's%20price%20will%20vary,value%20to%20increase%20or%20decrease.  
-https://supercoachtalk.com/how-supercoach-pricing-works-2021/  
-http://supercoachtalk.com/how-supercoach-pricing-works-2020/  
 25.  Umpiring  
 https://llewellynjean.shinyapps.io/NBARefDatabase/  
 https://afltables.com/afl/stats/games/2021/010920210320.html  
