@@ -71,19 +71,15 @@ Each quarter commences with a centre bounce where a field umpire restarts play b
 11. Home Advantage - In a balanced schedule, where each team plays each other team as many times with one team at home as the other, home advantage is typically expressed as the average difference between the home and away team score (Stefani and Clarke, 1992). This balance allows home advantage to be obtained which is not confounded with team quality.  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Location Analysis  
+https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0254591&type=printable  
+https://www.researchgate.net/publication/328629194_ASSESSING_PLAYER_PERFORMANCE_IN_AUSTRALIAN_FOOTBALL_USING_SPATIAL_DATA/link/5bd938b0299bf1124faf790b/download  
+Assessing the impact of total players and a team numerical advantage on match event outcomes  
+Difference in team scores at various positions on field is correlated to winning margin (match outcomes)  
+intercept + stoppage -> inside 50 opportunities  
+divide field into defensive 50, defensive midfield, attacking midfield, forward 50  
+overlay team and opposition performance  
+10m radius around players, use field dimensions  
 
 
 
