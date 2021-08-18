@@ -236,6 +236,11 @@ http://figuringfooty.com/2016/11/21/your-clubs-most-important-avenue-to-goal-sco
 16h. Team Stat Analysis - possession chains  
 http://troywheatley.blogspot.com/2018/10/afl-statistics-series-1-which.html  
 https://madnessofsport.wordpress.com/2015/05/08/possession-chains-and-the-future-of-advanced-afl-statistics/  
+https://troywheatley.blogspot.com/2021/08/afl-statistics-series-5-what-happens-in.html  
+http://troywheatley.blogspot.com/2020/11/afl-statistics-series-4-gaining.html  
+http://troywheatley.blogspot.com/2020/10/afl-statistics-series-3-building-system.html  
+http://troywheatley.blogspot.com/2018/12/afl-statistics-series-2-scoring-behind.html  
+https://www.hpnfooty.com/?p=33010  
 16i. Team Stat Analysis - metres gained  
 https://www.theroar.com.au/2017/03/28/stats-enough-metres-gained-irrelevant/  
 https://www.theage.com.au/sport/afl/metres-gained-a-stat-for-winners-20090716-ge7zp2.html  
