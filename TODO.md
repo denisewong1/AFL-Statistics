@@ -253,6 +253,7 @@ https://www.jockreynolds.com.au/2020/02/26/all-of-the-jrsc-supercoach-2020-tools
 https://www.statsinsider.com.au/afl/understanding-how-clearances-shape-the-results-of-afl-games  
 https://www.statsinsider.com.au/afl/stats-that-matter-the-hard-ball  
 16.  Team Analysis  
+https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/607a44494a3962f12193b5fc_JoshSilver-BaseballAI-RPpaper.pdf  
 https://www.statsinsider.com.au/afl/stats-that-matter-the-tactical-evolution-of-afl  
 http://figuringfooty.com/2017/05/18/are-st-kilda-a-sleeping-giant/  
 http://insightlane.com/2018/07/09/the-miracle-of-the-saints-and-more-on-win-probabilities/  
@@ -316,6 +317,7 @@ https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors
 https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/  
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 18. Fantasy Analysis  
+https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/607a4434a565aa7763bd1312_AndyAsh-Sharpstack-RPpaper.pdf  
 https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-started/  
 https://baseballwithr.wordpress.com/about/  
 https://www.afl.com.au/news/510972/luck-or-skill-fantasy-champ-shares-his-secrets-to-success  
