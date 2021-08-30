@@ -167,6 +167,7 @@ http://www.matterofstats.com/mafl-team-dashboards/matterofstats-2018-team-dashbo
 12. Textual Data  
 http://www.fanfooty.com.au/game/bloglog.php?id=7201  
 13.  Draft Picks and Player Salaries    
+https://www.lystics.com/blog/lystics-power-board-aug-4-2021  
 https://hurlingpeoplenow.wordpress.com/2017/04/04/who-is-your-afl-club-death-riding-this-year/  
 https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8?shareType=nongift  
 https://www.footballdiehards.com/winning-fantasy-football-draft-strategies/  
