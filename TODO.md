@@ -99,6 +99,7 @@ https://cran.r-project.org/web/packages/trueskill/trueskill.pdf
 https://github.com/bhoung/trueskill-in-r  
 https://github.com/JaseZiv/Dont-Blame-the-Data-Data-Files/tree/master/analysing_afl_team_age  
 6f. Betting Odds models  
+https://www.championdata.com/faqs/afl/  
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198668 - Elo-Result, Elo-Goal and Elo-Odds model  
 betting odds for AFL - http://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/  
 https://teddykoker.com/2019/12/beating-the-odds-machine-learning-for-horse-racing/  
