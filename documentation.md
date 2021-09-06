@@ -22,6 +22,7 @@ Project Organization
         ├── 005_player_ppm_v2
         ├── 006_supercoachBE
         └── 007_SC_preseason_px   
+    ├── book                          # for bookdown project        
     ├── config  
     ├── data                          # deprecated - stored in postgres                              
     ├── docs  
