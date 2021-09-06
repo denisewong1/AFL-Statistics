@@ -3,6 +3,7 @@ Documentation Structure
 Note : 
 1. for FW files NameRef is the source of all truth across seasons    
 2. for FW files Season & RoundID is the source of all truth across seasons - MatchID only available for games played per player
+3. useful files for raw data retrieval must be kept separate from model generation where possible
 
 Template : https://github.com/dslp/dslp-repo-template  
 
@@ -26,7 +27,7 @@ Project Organization
     ├── config  
     ├── data                          # deprecated - stored in postgres                              
     ├── docs  
-    ├── notebooks                     # see notebook.md for descriptions and principles of all notebooks  
+    ├── notebooks                     # below descriptions and principles of for notebooks  
         ├── 001_compile_data_ftsy
         ├── 002_collate_footywire_multiseason
         ├── 003_collate_fitzroy_multiseason
