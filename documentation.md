@@ -14,16 +14,36 @@ Project Organization
     ├── LICENSE  
     ├── README.md  
     ├── bin  
+    ├── blog
+        ├── 001_ftsy_preseason_px
+        ├── 002_player_importance_and_impact
+        ├── 003_player_position_round_season
+        ├── 004_player_ppm
+        ├── 005_player_ppm_v2
+        ├── 006_supercoachBE
+        └── 007_SC_preseason_px   
     ├── config  
     ├── data                          # deprecated - stored in postgres                              
     ├── docs  
-    ├── notebooks                    # see notebook.md for descriptions and principles of all notebooks  
+    ├── notebooks                     # see notebook.md for descriptions and principles of all notebooks  
+        ├── 001_compile_data_ftsy
+        ├── 002_collate_footywire_multiseason
+        ├── 003_collate_fitzroy_multiseason
+        ├── 004_collate_postgreSQL
+        ├── 020_EDA_footywire_FWplayerall_rds
+        ├── 031_model_ftsybreakeven
+        ├── 032_model_player_position
+        ├── 033_model_linprog_ftsyteam
+        └── 041_chart_footywire_FWplayerall  
     ├── reports  
-    │   └── figures  
+        └── figures  
     └── src  
         ├── apps  
-            ├── AFLAppViz          
-        ├── data                     # code in relation to sourcing and compiling the data  
+            ├── AFLAppAdmin
+            ├── AFLAppMM
+            ├── AFLAppViz
+            └── AFLAppWomen
+        ├── data                      # code in relation to sourcing and compiling the data  
             ├── collate_footywire.R  
             ├── compile_helper.R  
             ├── compilefitzRoy.R              
@@ -37,9 +57,21 @@ Project Organization
         ├── eda  
             └── EDA001_draft.Rmd          
         ├── models                   # only for live models  
-            ├── params_ftsy.R  
-            └── model_ftsy.R          
-        ├── tools  
+            ├── model_class_playerposition.R        
+            ├── model_ftsybreakeven.R
+            ├── model_playerPPM.R
+            ├── model_playerPPM_v1.R
+            ├── model_reg_playerpoints.R
+            ├── model_reg_playerPPM.R
+            ├── model_supercoachBE.R
+            ├── params_ftsy.R
+            └── useful_classmodel.R           
+        ├── tools                    # move all the useful files in here
+            ├── useful_collate.R
+            ├── useful_features.R
+            ├── useful_helper.R
+            ├── useful_MLR.R
+            └── useful_postgresql.R            
         └── visualization    
         
         
