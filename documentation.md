@@ -15,33 +15,7 @@ Project Organization
     ├── README.md  
     ├── bin  
     ├── config  
-    ├── data                          # use rds files for future models                        
-    │   ├── fitzRoy  
-    |       ├── Afixture.rds   
-    |       ├── Astats.rds   
-    |       ├── Bstats.rds  
-    |       ├── ladder.rds 
-    |       └── fixture.rds    
-    │   ├── footywire  
-    |       ├── FWbetting.rds   
-    |       ├── FWbyeround.rds   
-    |       ├── FWmatchid.rds  
-    |       ├── FWplayerid.rds 
-    |       └── FWplayerall.rds       # compiled player position price & stats file  
-    │   ├── results  
-    |       └── ftsy  
-    |           ├── predType_ftsyseason.csv    
-    |           ├── YYYY_ftsy.csv    
-    |           ├── YYYY_magicnumber.csv    
-    |           └── YYYY_preseasonpxest.csv           
-    │   ├── round  
-    |       ├── YYYYRRR_FWplayerpos.csv  
-    |       └── YYYYRRR_FWplayerstats.csv           
-    |   └── season  
-    |       ├── YYYY_FWbetting.csv  
-    |       ├── YYYY_FWfixture.csv    
-    |       ├── YYYY_FWplayerftsy.csv    
-    |       └── YYYY_FWplayerid.csv           
+    ├── data                          # deprecated - stored in postgres                              
     ├── docs  
     ├── notebooks                    # see notebook.md for descriptions and principles of all notebooks  
     ├── reports  
