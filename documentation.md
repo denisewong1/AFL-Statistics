@@ -5,6 +5,12 @@ Note :
 2. for FW files Season & RoundID is the source of all truth across seasons - MatchID only available for games played per player
 3. useful files for raw data retrieval must be kept separate from model generation where possible
 
+Datasets to add :  
+1. https://www.databyjosh.com/matchchains.html  -  https://github.com/DataByJosh/AFL-Data/tree/main/AFLM_Match_Chains  
+2. https://github.com/alittlefitness/afl_play_by_play  
+3. https://github.com/alittlefitness/bounceR  
+
+
 Template : https://github.com/dslp/dslp-repo-template  
 
 Project Organization
