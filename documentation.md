@@ -9,7 +9,7 @@ Datasets to add :
 1. https://www.databyjosh.com/matchchains.html  -  https://github.com/DataByJosh/AFL-Data/tree/main/AFLM_Match_Chains  
 2. https://github.com/alittlefitness/afl_play_by_play  
 3. https://github.com/alittlefitness/bounceR  
-4. https://aflcoaches.com.au/awards/the-aflca-champion-player-of-the-year-award/leaderboard/2021/20210123  
+4. https://aflcoaches.com.au/awards/the-aflca-champion-player-of-the-year-award/leaderboard/2021/20210123  - https://github.com/jlholden26/coaches-votes/blob/main/afl_votes.R  
 5. https://github.com/jackrust/AFLTipper  
 6. https://jimmyday12.github.io/fitzRoy/index.html  
 7. https://www.draftguru.com.au/analysis/pick-value-comparison/all-time  
