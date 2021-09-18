@@ -319,6 +319,7 @@ https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors
 https://thearcfooty.com/2017/04/07/fantasy-points-what-are-they-good-for/  
 http://www.espn.com/espn/feature/story/_/id/19348021/footy-forensics-afl-changing-game-trends-2017  
 18. Fantasy Analysis  
+https://dreamteamtalk.com/author/broccoli/  
 https://dreamteamtalk.com/2021/09/01/chasing-cars-how-to-almost-win-a-car-in-afl-fantasy/
 https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/607a4434a565aa7763bd1312_AndyAsh-Sharpstack-RPpaper.pdf  
 https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-started/  
