@@ -106,6 +106,7 @@ https://teddykoker.com/2019/12/beating-the-odds-machine-learning-for-horse-racin
 6y. Team Model - benchmarking  
 Benchmarking - https://squiggle.com.au/leaderboard/  
 Possession Chains - http://troywheatley.blogspot.com/2021/08/afl-statistics-series-5-what-happens-in.html  
+Possession Chains - https://www.vu.edu.au/about-vu/news-events/news/the-vu-data-lab  
 http://www.matterofstats.com/mafl-stats-journal/2017/9/12/errors-in-predicting-home-team-and-away-team-scores  
 6z. Match & Finals Predictions   
 https://cran.r-project.org/web/packages/fitzRoy/index.html  
