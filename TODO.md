@@ -149,6 +149,7 @@ https://hurlingpeoplenow.wordpress.com/2017/09/02/the-2017-pav-all-australian-te
 http://www.matterofstats.com/mafl-stats-journal/2018/9/5/player-experience-data-analysis-and-modelling  
 https://theafllab.com/2018/06/13/how-do-you-measure-a-players-form/  
 https://www.draftguru.com.au/years/1993  draft data  
+https://www.abc.net.au/news/2021-10-13/how-afl-system-favours-clubs-who-lose-stars-to-free-agency/100534356  
 9. Combining team and player rating data  
 http://www.matterofstats.com/mafl-stats-journal/2018/10/7/a-first-attempt-at-combining-afl-team-and-player-data-in-a-predictive-model  
 https://theafllab.com/2019/03/02/the-soldier-model/  
