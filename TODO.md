@@ -103,6 +103,9 @@ https://www.championdata.com/faqs/afl/
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198668 - Elo-Result, Elo-Goal and Elo-Odds model  
 betting odds for AFL - http://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/  
 https://teddykoker.com/2019/12/beating-the-odds-machine-learning-for-horse-racing/  
+https://www.sportsnews.com.au/afl/2020-brownlow-medal-odds-big-bets-and-betting-info/547469  
+https://www.sportingnews.com/au/afl/news/brownlow-medal-2018-when-is-it-how-to-watch-odds-history-previous-winners/14pb1nd5776cx1woj3ulhiwdgw  
+http://www.bet-au.com/archive.html?month=September&year=2012#archive  
 6y. Team Model - benchmarking  
 Benchmarking - https://squiggle.com.au/leaderboard/  
 Possession Chains - http://troywheatley.blogspot.com/2021/08/afl-statistics-series-5-what-happens-in.html  
