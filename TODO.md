@@ -421,7 +421,6 @@ https://ccsearch.creativecommons.org/photos/04443241-fe18-4c77-b7c8-f5b5e0fbdf79
 https://ccsearch.creativecommons.org/photos/ca004486-1c61-40cd-b8c7-8511e10f78c1  
 https://ccsearch.creativecommons.org/photos/eceebbe4-d245-44b0-9bfc-b62937df99a2  
 https://ccsearch.creativecommons.org/photos/dab7e935-6aec-4606-aec6-797e83a2a528  
-https://ccsearch.creativecommons.org/photos/dfb64502-8006-4a12-8df5-6ea372228faa  
 23.  Best from preseason 2021 to incorporate in app   
 https://dreamteamtalk.com/2020/02/04/roys-rolling-22-pre-season-ii/  
 https://dreamteamtalk.com/2019/08/20/roys-trade-and-rolling-22-talk-rd-23/  
